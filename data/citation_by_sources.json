@@ -1,0 +1,491 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 26,
+				"label": "applied sciences-basel",
+				"x": -0.0052,
+				"y": -0.7736,
+				"cluster": 3,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 28.0000,
+					"Documents": 15.0000,
+					"Citations": 169.0000,
+					"Norm. citations": 9.6338
+				},
+				"scores": {
+					"Avg. pub. year": 2021.9333,
+					"Avg. citations": 11.2667,
+					"Avg. norm. citations": 0.6423
+				}
+			},
+			{
+				"id": 61,
+				"label": "computers & industrial engineering",
+				"x": 0.2403,
+				"y": -0.5415,
+				"cluster": 3,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 130.0000,
+					"Documents": 18.0000,
+					"Citations": 484.0000,
+					"Norm. citations": 20.5829
+				},
+				"scores": {
+					"Avg. pub. year": 2022.5000,
+					"Avg. citations": 26.8889,
+					"Avg. norm. citations": 1.1435
+				}
+			},
+			{
+				"id": 80,
+				"label": "drone",
+				"x": -0.6520,
+				"y": -0.0798,
+				"cluster": 1,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 92.0000,
+					"Documents": 54.0000,
+					"Citations": 441.0000,
+					"Norm. citations": 29.9378
+				},
+				"scores": {
+					"Avg. pub. year": 2022.7963,
+					"Avg. citations": 8.1667,
+					"Avg. norm. citations": 0.5544
+				}
+			},
+			{
+				"id": 98,
+				"label": "european journal of operational research",
+				"x": 1.3385,
+				"y": -0.1431,
+				"cluster": 2,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 157.0000,
+					"Documents": 24.0000,
+					"Citations": 731.0000,
+					"Norm. citations": 71.4039
+				},
+				"scores": {
+					"Avg. pub. year": 2022.9167,
+					"Avg. citations": 30.4583,
+					"Avg. norm. citations": 2.9752
+				}
+			},
+			{
+				"id": 100,
+				"label": "expert systems with applications",
+				"x": 0.4639,
+				"y": 0.4124,
+				"cluster": 2,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 132.0000,
+					"Documents": 16.0000,
+					"Citations": 383.0000,
+					"Norm. citations": 32.5387
+				},
+				"scores": {
+					"Avg. pub. year": 2022.5625,
+					"Avg. citations": 23.9375,
+					"Avg. norm. citations": 2.0337
+				}
+			},
+			{
+				"id": 127,
+				"label": "ieee access",
+				"x": -0.3486,
+				"y": 0.5416,
+				"cluster": 1,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 63.0000,
+					"Documents": 31.0000,
+					"Citations": 625.0000,
+					"Norm. citations": 19.7776
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 20.1613,
+					"Avg. norm. citations": 0.6380
+				}
+			},
+			{
+				"id": 147,
+				"label": "ieee transactions on intelligent transportation systems",
+				"x": -0.1100,
+				"y": 0.3631,
+				"cluster": 1,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 97.0000,
+					"Documents": 16.0000,
+					"Citations": 473.0000,
+					"Norm. citations": 28.5721
+				},
+				"scores": {
+					"Avg. pub. year": 2022.1875,
+					"Avg. citations": 29.5625,
+					"Avg. norm. citations": 1.7858
+				}
+			},
+			{
+				"id": 302,
+				"label": "plos one",
+				"x": -1.1034,
+				"y": -0.4105,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 16.0000,
+					"Documents": 14.0000,
+					"Citations": 582.0000,
+					"Norm. citations": 7.5408
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0714,
+					"Avg. citations": 41.5714,
+					"Avg. norm. citations": 0.5386
+				}
+			},
+			{
+				"id": 327,
+				"label": "sensors",
+				"x": -0.4706,
+				"y": 0.5065,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 8.0000,
+					"Documents": 20.0000,
+					"Citations": 506.0000,
+					"Norm. citations": 10.2040
+				},
+				"scores": {
+					"Avg. pub. year": 2021.3000,
+					"Avg. citations": 25.3000,
+					"Avg. norm. citations": 0.5102
+				}
+			},
+			{
+				"id": 338,
+				"label": "sustainability",
+				"x": -0.2827,
+				"y": 0.0642,
+				"cluster": 1,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 85.0000,
+					"Documents": 29.0000,
+					"Citations": 468.0000,
+					"Norm. citations": 21.7839
+				},
+				"scores": {
+					"Avg. pub. year": 2022.2069,
+					"Avg. citations": 16.1379,
+					"Avg. norm. citations": 0.7512
+				}
+			},
+			{
+				"id": 352,
+				"label": "transportation research part c-emerging technologies",
+				"x": 0.2429,
+				"y": -0.1463,
+				"cluster": 2,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 476.0000,
+					"Documents": 32.0000,
+					"Citations": 3639.0000,
+					"Norm. citations": 78.8199
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0938,
+					"Avg. citations": 113.7188,
+					"Avg. norm. citations": 2.4631
+				}
+			},
+			{
+				"id": 354,
+				"label": "transportation research part e-logistics and transportation review",
+				"x": 0.6868,
+				"y": 0.2068,
+				"cluster": 2,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 138.0000,
+					"Documents": 14.0000,
+					"Citations": 878.0000,
+					"Norm. citations": 36.3717
+				},
+				"scores": {
+					"Avg. pub. year": 2022.1429,
+					"Avg. citations": 62.7143,
+					"Avg. norm. citations": 2.5980
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 26,
+				"target_id": 61,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 80,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 100,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 147,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 338,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 352,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 354,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 80,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 98,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 100,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 127,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 147,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 302,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 338,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 352,
+				"strength": 73.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 354,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 98,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 100,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 127,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 147,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 302,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 327,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 338,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 352,
+				"strength": 32.0000
+			},
+			{
+				"source_id": 80,
+				"target_id": 354,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 98,
+				"target_id": 100,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 98,
+				"target_id": 147,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 98,
+				"target_id": 338,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 98,
+				"target_id": 352,
+				"strength": 103.0000
+			},
+			{
+				"source_id": 98,
+				"target_id": 354,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 100,
+				"target_id": 127,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 100,
+				"target_id": 147,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 100,
+				"target_id": 327,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 100,
+				"target_id": 338,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 100,
+				"target_id": 352,
+				"strength": 78.0000
+			},
+			{
+				"source_id": 100,
+				"target_id": 354,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 127,
+				"target_id": 147,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 127,
+				"target_id": 327,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 127,
+				"target_id": 338,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 127,
+				"target_id": 352,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 127,
+				"target_id": 354,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 147,
+				"target_id": 327,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 147,
+				"target_id": 338,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 147,
+				"target_id": 352,
+				"strength": 45.0000
+			},
+			{
+				"source_id": 147,
+				"target_id": 354,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 302,
+				"target_id": 352,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 327,
+				"target_id": 338,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 327,
+				"target_id": 354,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 338,
+				"target_id": 352,
+				"strength": 32.0000
+			},
+			{
+				"source_id": 338,
+				"target_id": 354,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 352,
+				"target_id": 354,
+				"strength": 65.0000
+			}
+		]
+	}
+}

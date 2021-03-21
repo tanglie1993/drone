@@ -1,0 +1,1441 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 271,
+				"label": "batteries",
+				"x": -0.3960,
+				"y": 0.5617,
+				"cluster": 1,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 42.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.8182,
+					"Avg. citations": 20.5455,
+					"Avg. norm. citations": 1.3876
+				}
+			},
+			{
+				"id": 327,
+				"label": "blockchain",
+				"x": 0.5692,
+				"y": 0.7567,
+				"cluster": 2,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 21.0000,
+					"Occurrences": 16.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.3750,
+					"Avg. citations": 40.5000,
+					"Avg. norm. citations": 1.4057
+				}
+			},
+			{
+				"id": 431,
+				"label": "city logistics",
+				"x": -0.5988,
+				"y": -0.2085,
+				"cluster": 1,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 36.0000,
+					"Occurrences": 29.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.6552,
+					"Avg. citations": 36.0000,
+					"Avg. norm. citations": 1.1645
+				}
+			},
+			{
+				"id": 579,
+				"label": "costs",
+				"x": 0.1684,
+				"y": 0.4812,
+				"cluster": 3,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 45.0000,
+					"Occurrences": 12.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.5000,
+					"Avg. citations": 11.5000,
+					"Avg. norm. citations": 1.1069
+				}
+			},
+			{
+				"id": 588,
+				"label": "covid-19",
+				"x": -0.3160,
+				"y": 0.1558,
+				"cluster": 1,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 22.0000,
+					"Occurrences": 18.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.2778,
+					"Avg. citations": 24.8333,
+					"Avg. norm. citations": 1.3786
+				}
+			},
+			{
+				"id": 667,
+				"label": "delivery",
+				"x": -0.4992,
+				"y": -0.0217,
+				"cluster": 1,
+				"weights": {
+					"Links": 22.0000,
+					"Total link strength": 108.0000,
+					"Occurrences": 59.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0847,
+					"Avg. citations": 37.4746,
+					"Avg. norm. citations": 1.2333
+				}
+			},
+			{
+				"id": 773,
+				"label": "drone",
+				"x": 0.4199,
+				"y": 0.0012,
+				"cluster": 2,
+				"weights": {
+					"Links": 28.0000,
+					"Total link strength": 425.0000,
+					"Occurrences": 387.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.6434,
+					"Avg. citations": 33.0181,
+					"Avg. norm. citations": 1.0783
+				}
+			},
+			{
+				"id": 876,
+				"label": "e-commerce",
+				"x": -1.0495,
+				"y": 0.2442,
+				"cluster": 1,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 18.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.6364,
+					"Avg. citations": 21.7273,
+					"Avg. norm. citations": 1.2755
+				}
+			},
+			{
+				"id": 954,
+				"label": "energy consumption",
+				"x": -0.5873,
+				"y": 0.4547,
+				"cluster": 1,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 36.0000,
+					"Occurrences": 13.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.4615,
+					"Avg. citations": 24.6923,
+					"Avg. norm. citations": 1.6284
+				}
+			},
+			{
+				"id": 1155,
+				"label": "genetic algorithm",
+				"x": -0.6706,
+				"y": -0.5586,
+				"cluster": 1,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 21.0000,
+					"Occurrences": 12.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 18.5833,
+					"Avg. norm. citations": 1.3160
+				}
+			},
+			{
+				"id": 1263,
+				"label": "heuristic",
+				"x": -0.0060,
+				"y": 0.0088,
+				"cluster": 3,
+				"weights": {
+					"Links": 19.0000,
+					"Total link strength": 101.0000,
+					"Occurrences": 40.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.9250,
+					"Avg. citations": 67.0250,
+					"Avg. norm. citations": 1.7366
+				}
+			},
+			{
+				"id": 1303,
+				"label": "humanitarian logistics",
+				"x": 0.4931,
+				"y": -0.4132,
+				"cluster": 2,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 21.0000,
+					"Occurrences": 27.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.4074,
+					"Avg. citations": 25.7407,
+					"Avg. norm. citations": 1.4716
+				}
+			},
+			{
+				"id": 1539,
+				"label": "last-mile logistics",
+				"x": -0.7986,
+				"y": -0.2092,
+				"cluster": 1,
+				"weights": {
+					"Links": 20.0000,
+					"Total link strength": 109.0000,
+					"Occurrences": 70.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.6143,
+					"Avg. citations": 33.1714,
+					"Avg. norm. citations": 1.5441
+				}
+			},
+			{
+				"id": 1592,
+				"label": "logistics",
+				"x": -0.1033,
+				"y": 0.2283,
+				"cluster": 3,
+				"weights": {
+					"Links": 25.0000,
+					"Total link strength": 214.0000,
+					"Occurrences": 109.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.1468,
+					"Avg. citations": 37.9174,
+					"Avg. norm. citations": 1.4822
+				}
+			},
+			{
+				"id": 1634,
+				"label": "machine learning",
+				"x": 1.0048,
+				"y": -0.2276,
+				"cluster": 2,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 16.0000,
+					"Occurrences": 14.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.1429,
+					"Avg. citations": 8.5000,
+					"Avg. norm. citations": 0.4423
+				}
+			},
+			{
+				"id": 1979,
+				"label": "optimization",
+				"x": 0.1109,
+				"y": -0.1740,
+				"cluster": 3,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 67.0000,
+					"Occurrences": 31.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.5806,
+					"Avg. citations": 25.2258,
+					"Avg. norm. citations": 1.5224
+				}
+			},
+			{
+				"id": 2009,
+				"label": "parcel delivery",
+				"x": -0.5916,
+				"y": 0.2293,
+				"cluster": 1,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 43.0000,
+					"Occurrences": 19.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0526,
+					"Avg. citations": 33.3158,
+					"Avg. norm. citations": 1.4413
+				}
+			},
+			{
+				"id": 2025,
+				"label": "path planning",
+				"x": 0.2797,
+				"y": 0.2702,
+				"cluster": 2,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 47.0000,
+					"Occurrences": 25.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.7200,
+					"Avg. citations": 20.5600,
+					"Avg. norm. citations": 1.0535
+				}
+			},
+			{
+				"id": 2058,
+				"label": "photogrammetry",
+				"x": 1.6341,
+				"y": -0.2618,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.9091,
+					"Avg. citations": 66.6364,
+					"Avg. norm. citations": 0.6002
+				}
+			},
+			{
+				"id": 2225,
+				"label": "reinforcement learning",
+				"x": 0.6464,
+				"y": -0.1007,
+				"cluster": 2,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 24.0000,
+					"Occurrences": 18.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.7222,
+					"Avg. citations": 7.1111,
+					"Avg. norm. citations": 1.2084
+				}
+			},
+			{
+				"id": 2240,
+				"label": "remote sensing",
+				"x": 1.4645,
+				"y": -0.2590,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 22.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.8182,
+					"Avg. citations": 16.7273,
+					"Avg. norm. citations": 0.5815
+				}
+			},
+			{
+				"id": 2326,
+				"label": "routing",
+				"x": -0.1718,
+				"y": -0.3051,
+				"cluster": 3,
+				"weights": {
+					"Links": 21.0000,
+					"Total link strength": 173.0000,
+					"Occurrences": 82.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.1220,
+					"Avg. citations": 55.2561,
+					"Avg. norm. citations": 1.8843
+				}
+			},
+			{
+				"id": 2366,
+				"label": "scheduling",
+				"x": -0.0475,
+				"y": -0.6270,
+				"cluster": 3,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 26.0000,
+					"Occurrences": 15.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.1333,
+					"Avg. citations": 25.2000,
+					"Avg. norm. citations": 1.0558
+				}
+			},
+			{
+				"id": 2381,
+				"label": "security",
+				"x": 0.6827,
+				"y": 0.9033,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 15.0000,
+					"Occurrences": 14.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.9286,
+					"Avg. citations": 12.2857,
+					"Avg. norm. citations": 1.0154
+				}
+			},
+			{
+				"id": 2595,
+				"label": "sustainability",
+				"x": -1.0003,
+				"y": 0.0644,
+				"cluster": 1,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 15.0000,
+					"Occurrences": 11.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.5455,
+					"Avg. citations": 10.9091,
+					"Avg. norm. citations": 0.8862
+				}
+			},
+			{
+				"id": 2634,
+				"label": "task analysis",
+				"x": -0.0155,
+				"y": 0.6356,
+				"cluster": 3,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 51.0000,
+					"Occurrences": 19.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.7895,
+					"Avg. citations": 13.1579,
+					"Avg. norm. citations": 1.2164
+				}
+			},
+			{
+				"id": 2745,
+				"label": "transportation",
+				"x": 0.1355,
+				"y": -0.3833,
+				"cluster": 3,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 39.0000,
+					"Occurrences": 19.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.6316,
+					"Avg. citations": 48.7368,
+					"Avg. norm. citations": 1.6500
+				}
+			},
+			{
+				"id": 2755,
+				"label": "traveling salesman problem",
+				"x": -0.2812,
+				"y": -0.7853,
+				"cluster": 3,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 44.0000,
+					"Occurrences": 22.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.5909,
+					"Avg. citations": 93.8182,
+					"Avg. norm. citations": 2.3713
+				}
+			},
+			{
+				"id": 2927,
+				"label": "urban air mobility",
+				"x": -0.4764,
+				"y": -0.4605,
+				"cluster": 1,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 24.0000,
+					"Occurrences": 17.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.6471,
+					"Avg. citations": 8.4706,
+					"Avg. norm. citations": 0.5632
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 271,
+				"target_id": 579,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 271,
+				"target_id": 588,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 271,
+				"target_id": 667,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 271,
+				"target_id": 773,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 271,
+				"target_id": 876,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 271,
+				"target_id": 954,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 271,
+				"target_id": 1263,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 271,
+				"target_id": 1539,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 271,
+				"target_id": 1592,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 271,
+				"target_id": 2009,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 271,
+				"target_id": 2025,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 271,
+				"target_id": 2326,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 271,
+				"target_id": 2634,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 271,
+				"target_id": 2755,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 327,
+				"target_id": 588,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 327,
+				"target_id": 773,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 327,
+				"target_id": 1592,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 327,
+				"target_id": 2025,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 327,
+				"target_id": 2381,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 327,
+				"target_id": 2745,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 431,
+				"target_id": 588,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 431,
+				"target_id": 667,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 431,
+				"target_id": 773,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 431,
+				"target_id": 954,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 431,
+				"target_id": 1155,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 431,
+				"target_id": 1263,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 431,
+				"target_id": 1539,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 431,
+				"target_id": 2009,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 431,
+				"target_id": 2025,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 431,
+				"target_id": 2326,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 431,
+				"target_id": 2366,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 431,
+				"target_id": 2595,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 431,
+				"target_id": 2745,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 431,
+				"target_id": 2927,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 579,
+				"target_id": 588,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 579,
+				"target_id": 667,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 579,
+				"target_id": 773,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 579,
+				"target_id": 954,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 579,
+				"target_id": 1263,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 579,
+				"target_id": 1539,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 579,
+				"target_id": 1592,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 579,
+				"target_id": 1979,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 579,
+				"target_id": 2009,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 579,
+				"target_id": 2025,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 579,
+				"target_id": 2225,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 579,
+				"target_id": 2326,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 579,
+				"target_id": 2381,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 579,
+				"target_id": 2634,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 579,
+				"target_id": 2745,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 588,
+				"target_id": 667,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 588,
+				"target_id": 773,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 588,
+				"target_id": 954,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 588,
+				"target_id": 1155,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 588,
+				"target_id": 1303,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 588,
+				"target_id": 1592,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 588,
+				"target_id": 2326,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 588,
+				"target_id": 2595,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 667,
+				"target_id": 773,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 667,
+				"target_id": 876,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 667,
+				"target_id": 954,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 667,
+				"target_id": 1155,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 667,
+				"target_id": 1263,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 667,
+				"target_id": 1303,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 667,
+				"target_id": 1539,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 667,
+				"target_id": 1592,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 667,
+				"target_id": 1634,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 667,
+				"target_id": 1979,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 667,
+				"target_id": 2009,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 667,
+				"target_id": 2025,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 667,
+				"target_id": 2326,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 667,
+				"target_id": 2595,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 667,
+				"target_id": 2634,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 667,
+				"target_id": 2745,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 667,
+				"target_id": 2755,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 667,
+				"target_id": 2927,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 773,
+				"target_id": 876,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 773,
+				"target_id": 954,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 773,
+				"target_id": 1155,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 773,
+				"target_id": 1263,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 773,
+				"target_id": 1303,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 773,
+				"target_id": 1539,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 773,
+				"target_id": 1592,
+				"strength": 67.0000
+			},
+			{
+				"source_id": 773,
+				"target_id": 1634,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 773,
+				"target_id": 1979,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 773,
+				"target_id": 2009,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 773,
+				"target_id": 2025,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 773,
+				"target_id": 2058,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 773,
+				"target_id": 2225,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 773,
+				"target_id": 2240,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 773,
+				"target_id": 2326,
+				"strength": 49.0000
+			},
+			{
+				"source_id": 773,
+				"target_id": 2366,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 773,
+				"target_id": 2381,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 773,
+				"target_id": 2595,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 773,
+				"target_id": 2634,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 773,
+				"target_id": 2745,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 773,
+				"target_id": 2755,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 773,
+				"target_id": 2927,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 876,
+				"target_id": 954,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 876,
+				"target_id": 1539,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 876,
+				"target_id": 1592,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 876,
+				"target_id": 2009,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 876,
+				"target_id": 2595,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 954,
+				"target_id": 1263,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 954,
+				"target_id": 1539,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 954,
+				"target_id": 1592,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 954,
+				"target_id": 2009,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 954,
+				"target_id": 2025,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 954,
+				"target_id": 2634,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 954,
+				"target_id": 2927,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1155,
+				"target_id": 1263,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1155,
+				"target_id": 1539,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1155,
+				"target_id": 1592,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1155,
+				"target_id": 1979,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1155,
+				"target_id": 2326,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1155,
+				"target_id": 2755,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1155,
+				"target_id": 2927,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1263,
+				"target_id": 1539,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1263,
+				"target_id": 1592,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 1263,
+				"target_id": 1634,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1263,
+				"target_id": 1979,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1263,
+				"target_id": 2009,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1263,
+				"target_id": 2025,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1263,
+				"target_id": 2225,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1263,
+				"target_id": 2326,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 1263,
+				"target_id": 2634,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1263,
+				"target_id": 2745,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1263,
+				"target_id": 2755,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1263,
+				"target_id": 2927,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1303,
+				"target_id": 1539,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1303,
+				"target_id": 1592,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1303,
+				"target_id": 1634,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1303,
+				"target_id": 1979,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1303,
+				"target_id": 2225,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1303,
+				"target_id": 2326,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1303,
+				"target_id": 2366,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1539,
+				"target_id": 1592,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 1539,
+				"target_id": 1979,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1539,
+				"target_id": 2009,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1539,
+				"target_id": 2025,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1539,
+				"target_id": 2326,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 1539,
+				"target_id": 2366,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1539,
+				"target_id": 2595,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1539,
+				"target_id": 2745,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1539,
+				"target_id": 2755,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 1539,
+				"target_id": 2927,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1592,
+				"target_id": 1634,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1592,
+				"target_id": 1979,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 1592,
+				"target_id": 2009,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1592,
+				"target_id": 2025,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1592,
+				"target_id": 2225,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1592,
+				"target_id": 2326,
+				"strength": 27.0000
+			},
+			{
+				"source_id": 1592,
+				"target_id": 2366,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1592,
+				"target_id": 2381,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1592,
+				"target_id": 2595,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1592,
+				"target_id": 2634,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 1592,
+				"target_id": 2745,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 1592,
+				"target_id": 2755,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1592,
+				"target_id": 2927,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1634,
+				"target_id": 2025,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1634,
+				"target_id": 2225,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1634,
+				"target_id": 2240,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1979,
+				"target_id": 2326,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 1979,
+				"target_id": 2366,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1979,
+				"target_id": 2634,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 1979,
+				"target_id": 2745,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1979,
+				"target_id": 2927,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2009,
+				"target_id": 2025,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2009,
+				"target_id": 2326,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2009,
+				"target_id": 2366,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2009,
+				"target_id": 2634,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2025,
+				"target_id": 2225,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 2025,
+				"target_id": 2326,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2025,
+				"target_id": 2634,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2025,
+				"target_id": 2927,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2058,
+				"target_id": 2240,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2225,
+				"target_id": 2326,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2225,
+				"target_id": 2634,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2225,
+				"target_id": 2745,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2225,
+				"target_id": 2755,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2326,
+				"target_id": 2366,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 2326,
+				"target_id": 2595,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2326,
+				"target_id": 2634,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 2326,
+				"target_id": 2745,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 2326,
+				"target_id": 2755,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 2326,
+				"target_id": 2927,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2366,
+				"target_id": 2745,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2366,
+				"target_id": 2755,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2745,
+				"target_id": 2927,
+				"strength": 1.0000
+			}
+		]
+	}
+}
