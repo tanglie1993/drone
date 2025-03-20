@@ -1,0 +1,20 @@
+replace by	label
+drone	drones
+drone	uav
+drone	uavs
+drone	unmanned aerial vehicles
+drone	unmanned aerial vehicles (uav)
+drone	unmanned aerial vehicle (uav)
+drone	uas
+drone	unmanned aerial vehicle
+drone	autonomous aerial vehicles
+delivery	drone delivery
+routing	vehicle routing problem
+reinforcement learning	deep reinforcement learning
+routing	vehicle routing
+last-mile logistics	last mile delivery
+heuristic	heuristic problems
+heuristic	heuristics
+heuristic	heuristic algorithms
+city logistics	urban logistics
+last-mile logistics	last-mile delivery
