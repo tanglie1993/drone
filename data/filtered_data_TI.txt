@@ -1,0 +1,893 @@
+TI Mathematical Investigation on the Sustainability of UAV Logistics
+TI Methodology for Indoor Positioning and Landing of an Unmanned Aerial Vehicle in a Smart Manufacturing Plant for Light Part Delivery
+TI The economic and operational value of using drones to transport vaccines
+TI Unmanned aerial vehicles for surveillance and control of vectors of malaria and other vector-borne diseases
+TI Research on multi-functional logistics intelligent Unmanned Aerial Vehicle
+TI Research on logistics of intelligent unmanned aerial vehicle integration system
+TI Solving the last mile problem in logistics: A mobile edge computing and blockchain-based unmanned aerial vehicle delivery system
+TI Ergonomic Impact of Multi-rotor Unmanned Aerial Vehicle Noise in Warehouse Environments
+TI Unmanned Aerial Vehicle Adaptation to Facilitate Healthcare Supply Chains in Low-Income Countries
+TI Collaborative Routing With Multi-Heuristic Algorithm for Enhanced Delivery Efficiency in Truck-Multi Unmanned Aerial Vehicles Systems
+TI Persistent UAV delivery logistics: MILP formulation and efficient heuristic
+TI Optimal Trajectory Design for Unmanned Aerial Vehicle Cargo Pickup and Delivery System Based on Radio Map
+TI Analysis and visualization of data obtained from camera mounted on unmanned aerial vehicle used in areas of urban transport
+TI A Decision System for Routing Problems and Rescheduling Issues Using Unmanned Aerial Vehicles
+TI Design and Control of an Ultra-Low-Cost Logistic Delivery Fixed-Wing UAV
+TI The multiple flying sidekicks traveling salesman problem with variable drone speeds
+TI Hybrid Encryption for Securing and Tracking Goods Delivery by Multipurpose Unmanned Aerial Vehicles in Rural Areas Using Cipher Block Chaining and Physical Layer Security
+TI Integration of UAVs with public transit for delivery: Quantifying benefits and
+TI The multiple flying sidekicks traveling salesman problem: Parcel delivery with multiple drones
+TI Designing unmanned aerial vehicle networks for biological material transportation - The case of Brussels
+TI Design and Validation of a Route Planner for Logistic UAV Swarm
+TI Autonomous aerial robotics for package delivery: A technical review
+TI Efficient path planning for UAV formation via comprehensively improved particle swarm optimization
+TI A priori assessment of a smart-navigated unmanned aerial vehicle disaster cargo fleet
+TI RESEARCH ON PATH PLANNING OF LOGISTICS INTELLIGENT UNMANNED AERIAL VEHICLE
+TI A 3D Spatial Information Compression Based Deep Reinforcement Learning Technique for UAV Path Planning in Cluttered Environments
+TI Holistic Service Provisioning in a UAV-UGV Integrated Network for Last-Mile Delivery
+TI Multiobjective Scheduling of Logistics UAVs Based on Variable Neighborhood Search
+TI Uncovering interrelationships between barriers to unmanned aerial vehicles in humanitarian logistics
+TI Planning of Logistics Missions of the "UAV plus Vehicle" Hybrid Systems
+TI Analysis and Optimization of unmanned Aerial Vechicle in Swarms in Logistics: An Intelligent Delivery Platform
+TI An Operational Capacity Assessment Method for an Urban Low-Altitude Unmanned Aerial Vehicle Logistics Route Network
+TI Cooperative Learning-Based Joint UAV and Human Courier Scheduling for Emergency Medical Delivery Service
+TI Quantitative Ground Risk Assessment for Urban Logistical Unmanned Aerial Vehicle (UAV) Based on Bayesian Network
+TI Exploring the Spatial Heterogeneity and Driving Factors of UAV Logistics Network: Case Study of Hangzhou, China
+TI Energy-aware decision-making for dynamic task migration in MEC-based unmanned aerial vehicle delivery system
+TI A mission management system for complex aerial logistics by multiple unmanned aerial vehicles in MBZIRC 2017
+TI A POMDP Approach to Map Victims in Disaster Scenarios
+TI Systematic Research and Application of a 5G Medical Unmanned Aerial Vehicle to Deliver COVID-19 Nucleic Acid Samples
+TI Drone-Aided Delivery Methods, Challenge, and the Future: A Methodological Review
+TI The flying sidekick traveling salesman problem: Optimization of drone-assisted parcel delivery
+TI Coordinated Logistics with a Truck and a Drone
+TI Drone-aided routing: A literature review
+TI The humanitarian flying warehouse
+TI The Flying Warehouse Delivery System: A Quantitative Approach for the Optimal Operation Policy of Airborne Fulfillment Center
+TI Adaptive mutant particle swarm optimization based precise cargo airdrop of unmanned aerial vehicles
+TI The electric vehicle routing problem with drones: An energy minimization approach for aerial deliveries
+TI A Two-Stage Approach of Joint Route Planning and Resource Allocation for Multiple UAVs in Unmanned Logistics Distribution
+TI A novel hybrid Coyote-Particle Swarm Optimization Algorithm for three-dimensional constrained trajectory planning of Unmanned Aerial Vehicle
+TI Energy Consumption Model of Aerial Urban Logistic Infrastructures
+TI Analysis of the Potential Use of Unmanned Aerial Vehicles and Image Processing Methods to Support Road and Parking Space Management in Urban Transport
+TI Do drones have a realistic place in a pandemic fight for delivering medical supplies in healthcare systems problems?
+TI Trajectory Planning for Emergency Landing of VTOL Fixed-Wing Unmanned Aerial Vehicles
+TI A new hybrid distribution paradigm: Integrating drones in medicines delivery
+TI A Comparative Analysis of the Environmental Benefits of Drone-Based Delivery Services in Urban and Rural Areas
+TI Post-earthquake response by small UAV helicopters
+TI Autonomous Full 3D Coverage Using an Aerial Vehicle, Performing Localization, Path Planning, and Navigation towards Indoors Inventorying for the Logistics Domain
+TI Energy Minimization for Radio Map-Based UAV Pickup and Delivery Logistics System
+TI Facets of security and safety problems and paradigms for smart aerial mobility and intelligent logistics
+TI Optimisation of Multi-Type Logistics UAV Scheduling under High Demand
+TI Drone-Based Material Transfer System in a Robotic Mobile Fulfillment Center
+TI U-Space and UTM Deployment as an Opportunity for More Complex UAV Operations Including UAV Medical Transport
+TI Routing and scheduling optimization for UAV assisted delivery system: A hybrid approach
+TI A Reliable Delivery Logistics System Based on the Collaboration of UAVs and Vehicles
+TI Cooperative Path Optimization for Multiple UAVs Surveillance in Uncertain Environment
+TI Exploring the role of drones and UAVs in logistics and supply chain management: a novel text-based literature review
+TI Drone-based vertical delivery system for high-rise buildings: Multiple drones vs. a single elevator
+TI AI-Enabled Trajectory Optimization of Logistics UAVs With Wind Impacts in Smart Cities
+TI Assessing the factors affecting implementation of unmanned aerial vehicles in Indian humanitarian logistics: a g-DANP approach
+TI Efficiency of UAV-based last-mile delivery under congestion in low-altitude air
+TI Hybrid truck-drone delivery under aerial traffic congestion
+TI A decision support system for coordinated disaster relief distribution
+TI Dynamic Order Picking Method for Multi-UAV System in Intelligent Warehouse
+TI USE OF DRONES IN LOGISTICS: OPTIONS IN INVENTORY CONTROL SYSTEMS
+TI Vehicle-UAV Integrated Routing Optimization Problem for Emergency Delivery of Medical Supplies
+TI Persistent UAV Service: An Improved Scheduling Formulation and Prototypes of System Components
+TI A multi-objective model for cooperative delivery of customer orders using multiple trucks and UAVs considering weather conditions
+TI Drones for automated parcel delivery: Use case identification and derivation of technical requirements
+TI Urban Air Logistics with Unmanned Aerial Vehicles (UAVs): Double-Chromosome Genetic Task Scheduling with Safe Route Planning
+TI Integrated truck drone delivery services with an optimal charging stations
+TI Applications and Research avenues for drone-based models in logistics: A classification and review
+TI Unmanned Aerial Vehicle Routing Problems: A Literature Review
+TI Autonomous Recharging and Flight Mission Planning for Battery-Operated Autonomous Drones
+TI A decision support model for selecting unmanned aerial vehicle for medical supplies: context of COVID-19 pandemic
+TI Design of Hybrid Snake Optimizer Based Route Selection Approach for Unmanned Aerial Vehicles Communication
+TI A reliable unmanned aerial vehicle multi-ship tracking method
+TI Finite-Time Robust Flight Control of Logistic Unmanned Aerial Vehicles Using a Time-Delay Estimation Technique
+TI Drone routing problem with truck: Optimization and quantitative analysis
+TI A Progressive Motion-Planning Algorithm and Traffic Flow Analysis for High-Density 2D Traffic
+TI Rolling Horizon Path Planning of an Autonomous System of UAVs for Persistent Cooperative Service: MILP Formulation and Efficient Heuristics
+TI Advancing Social Equity in Urban UAV Logistics: Insights from the Academic Literature and Social Media
+TI Application of Emerging Digital Technologies in Disaster Relief Operations: A Systematic Review
+TI Last-mile drone delivery combinatorial double auction model using multi-objective evolutionary algorithms
+TI Last-Centimeter Personal Drone Delivery: Field Deployment and User Interaction
+TI Coordinated routing system for fire detection by patrolling trucks with drones
+TI PROCESS AUTOMATION OF WAREHOUSE INSPECTION USING AN AUTONOMOUS UNMANNED AERIALVEHICLE
+TI The time-dependent electric vehicle routing problem with drone and synchronized mobile battery swapping
+TI A truck and drones model for last-mile delivery: A mathematical model and heuristic approach
+TI Endogenous stochastic optimisation for relief distribution assisted with unmanned aerial vehicles
+TI Autonomous Delivery Solutions for Last-Mile Logistics Operations: A Literature Review and Research Agenda
+TI Commanding Cooperative UGV-UAV With Nested Vehicle Routing for Emergency Resource Delivery
+TI Efficient Strategies for Unmanned Aerial Vehicle Flights: Analyzing Battery Life and Operational Performance in Delivery Services Using Stochastic Models
+TI Optimal routing and scheduling of unmanned aerial vehicles for delivery services
+TI Impact of drone delivery on sustainability and cost: Realizing the UAV potential through vehicle routing optimization
+TI Solving electric vehicle-drone routing problem using memetic algorithm
+TI Reinforcement learning for humanitarian relief distribution with trucks and UAVs under travel time uncertainty
+TI Quantitative and Comparative Analysis of Energy Consumption in Urban Logistics Using Unmanned Aerial Vehicles and Selected Means of Transport
+TI AERIAL: A Meta Review and Discussion of Challenges Toward Unmanned Aerial Vehicle Operations in Logistics, Mobility, and Monitoring
+TI A multi-agent approach to the truck multi-drone routing problem
+TI Design of a UAV for Autonomous RFID-Based Dynamic Inventories Using Stigmergy for Mapless Indoor Environments
+TI A Holistic and Hybrid Service Selection Strategy for MEC-Based UAV Last-Mile Delivery Systems
+TI Incentive mechanism and path planning for Unmanned Aerial Vehicle (UAV) hitching over traffic networks
+TI Pre-occurrence location-allocation-configuration of maritime emergency resources considering shipborne unmanned aerial vehicle (UAV)
+TI Optimization of the Distribution Network Using an Emerging Technology
+TI Integrative Path Planning for Multi-Rotor Logistics UAVs Considering UAV Dynamics, Energy Efficiency, and Obstacle Avoidance
+TI Analysis of airport design for introducing infrastructure for autonomous drones
+TI Analysis of barriers to implement drone logistics
+TI Lifecycle modeling and assessment of unmanned aerial vehicles (Drones) CO2e emissions
+TI Aerodynamic analysis of a logistics UAV wing with compound ducted rotor
+TI Theory and Realization of Secondary Task Assignment for Multi-UAV Pickup Based on Green Scheduling
+TI Urban On-Demand Delivery via Autonomous Aerial Mobility: Formulation and Exact Algorithm
+TI Architecture Design and Code Implementation of Road Network Path Search System
+TI A Logistics UAV Parcel-Receiving Station and Public Air-Route Planning Method Based on Bi-Layer Optimization
+TI UAV Charging Station Planning and Route Optimization Considering Stochastic Delivery Demand
+TI Collaborative traveling salesman problem with ground vehicle as a charger for unmanned aerial vehicle
+TI Multi-UAV Urban Logistics Task Allocation Method Based on MCTS
+TI Study of Urban Unmanned Aerial Vehicle Separation in Free Flight Based on Track Prediction
+TI UAV Path Planning Trends from 2000 to 2024: A Bibliometric Analysis and Visualization
+TI Blockchain-Envisioned UAV-Aided Disaster Relief Networks: Challenges and Solutions
+TI A novel sequential block path planning method for 3D unmanned aerial vehicle routing in sustainable supply chains
+TI Optimal scheduling and quantitative analysis for multi-flying warehouse scheduling problem: Amazon airborne fulfillment center
+TI The optimization of the "UAV-vehicle" joint delivery route considering mountainous cities
+TI A cyber-physical social system for autonomous drone trajectory planning in last-mile superchilling delivery
+TI The Future of Last-Mile Delivery: Lifecycle Environmental and Economic Impacts of Drone-Truck Parallel Systems
+TI Optimizing Drone Logistics: A Scoring Algorithm for Enhanced Decision Making across Diverse Domains in Drone Airlines
+TI An enhanced genetic algorithm for unmanned aerial vehicle logistics scheduling
+TI Optimal hub selection for rapid medical deliveries using unmanned aerial vehicles
+TI A Literature Review of Drone-Based Package Delivery Logistics Systems and Their Implementation Feasibility
+TI Two-echelon vehicle routing problem with time windows and mobile satellites
+TI A Hybrid Genetic Algorithm on Routing and Scheduling for Vehicle-Assisted Multi-Drone Parcel Delivery
+TI Drone Transportation System: Systematic Review of Security Dynamics for Smart Mobility
+TI Energy-Aware Computation Management Strategy for Smart Logistic System With MEC
+TI "First Kilometer" Scheduling Task of Multiple Unmanned Aerial Vehicles Based on Multisource Heterogeneous Sensors
+TI A bi-level planning approach of logistics unmanned aerial vehicle route network
+TI Application of Unmanned Aerial Vehicles in Logistics: A Literature Review
+TI RESEARCH ON AGRICULTURAL LOGISTICS DISTRIBUTION PATH PLANNING CONSIDERING UAV ENDURANCE MILEAGE LIMIT
+TI A Survey of Recent Extended Variants of the Traveling Salesman and Vehicle Routing Problems for Unmanned Aerial Vehicles
+TI Unmanned Aerial Vehicle Last-Mile Delivery Considering Backhauls
+TI A Review of Last-Mile Delivery Optimization: Strategies, Technologies, Drone Integration, and Future Trends
+TI Optimization of the drone-assisted pickup and delivery problem
+TI Wind dynamic and energy-efficiency path planning for unmanned aerial vehicles in the lower-level airspace and urban air mobility context
+TI Transporting COVID-19 testing specimens by routing unmanned aerial vehicles with range and payload constraints: the case of Istanbul
+TI Centralized supply chain network optimization with UAV-based last mile deliveries
+TI Carbon emissions reductions in last mile and grocery deliveries utilizing air and ground autonomous vehicles
+TI IP Traffic Modelling in Scalable Drone Network for Carrying Scalable Logistic Operations
+TI Evaluating UAV Alternatives for Post-Disaster Situations: An Integrated Decision-Making Methodology
+TI An IoT and blockchain based logistics application of UAV
+TI Vehicle routing problem with drones considering time windows
+TI Delivery by drone: An evaluation of unmanned aerial vehicle technology in reducing CO2 emissions in the delivery service industry
+TI A new truck-drone routing problem for parcel delivery by considering energy consumption and altitude
+TI An Online Algorithm for Routing an Unmanned Aerial Vehicle for Road Network Exploration Operations after Disasters under Different Refueling Strategies
+TI Mitigating Risk in UAV Aid Delivery Missions: A Safe Path Prioritization Approach
+TI A Comparative Review of Air Drones (UAVs) and Delivery Bots (SUGVs) for Automated Last Mile Home Delivery
+TI Deep neural network based UAV deployment and dynamic power control for 6G-Envisioned intelligent warehouse logistics system
+TI Sharing instant delivery UAVs for crowdsensing: A data-driven performance study
+TI Last mile delivery by drones: an estimation of viable market potential and access to citizens across European cities
+TI Towards an Autonomous Industry 4.0 Warehouse: A UAV and Blockchain-Based System for Inventory and Traceability Applications in Big Data-Driven Supply Chain Management
+TI Route Optimization in Precision Agriculture Settings: A Multi-Steiner TSP Formulation
+TI On the Concerted Design and Scheduling of Multiple Resources for Persistent UAV Operations
+TI Impact of UAV Delivery on Sustainability and Costs under Traffic Restrictions
+TI Extending INSPIRE to accommodate urban drone logistics
+TI FEASIBILITY OF UNMANNED AERIAL VEHICLE INTEGRATIONTO STRENGTHEN THAILAND'S HEALTHCARE LOGISTICS
+TI Unmanned Aerial Vehicle in the Logistics of Pandemic Vaccination: An Exact Analytical Approach for Any Number of Vaccination Centres
+TI Mobile-Controlled UAVs for Audio Delivery Service and Payload Tracking Solution
+TI JRCS: Joint Routing and Charging Strategy for Logistics Drones
+TI Enhancing offshore parcel delivery efficiency through vessel-unmanned aerial vehicle collaborative routing
+TI Electric van-based robot deliveries with en-route charging
+TI Trajectory Planning for Multiple UAVs and Hierarchical Collision Avoidance Based on Nonlinear Kalman Filters
+TI An improved ALNS for hybrid pickup and drones delivery system in disaster by penalizing deprivation time
+TI Application of Drones in Humanitarian Relief: A Review of State of Art and Recent Advances and Recommendations
+TI AI-based energy-efficient path planning of multiple logistics UAVs in intelligent transportation systems
+TI Enhancing unmanned aerial vehicles logistics for dynamic delivery: a hybrid non-dominated sorting genetic algorithm II with Bayesian belief networks
+TI Multi-UAV Cooperative Trajectory Planning Based on the Modified Cheetah Optimization Algorithm
+TI An Extensible Modeling Framework for Dynamic Reassignment and Rerouting in Cooperative Airborne Operations
+TI Trucks and drones cooperation in the last-mile delivery process
+TI Reliable Path Planning for Drone Delivery Using a Stochastic Time-Dependent Public Transportation Network
+TI Optimization of "vehicle-UAV" joint distribution routing for cold chain logistics considering risk of epidemic spreading and green cost
+TI Pseudo node insertion method for synchronization in drone-truck combined operations
+TI Optimization for drone and drone-truck combined operations: A review of the state of the art and future directions
+TI Energy demand of parcel delivery services with a mixed fleet of electric vehicles
+TI The Concept of Big Data Management with Various Transportation Systems Sources as a Key Role in Smart Cities Development
+TI Heuristic approach for optimising reliable supply chain network using drones in last-mile delivery under uncertainty
+TI The parallel drone scheduling problem with multiple drones and vehicles
+TI Vehicle and UAV Collaborative Delivery Path Optimization Model
+TI A branch-and-cut algorithm for the vehicle routing problem with drones
+TI IR-QLA: Machine Learning-Based Q-Learning Algorithm Optimization for UAVs Faster Trajectory Planning by Instructed- Reinforcement Learning
+TI Research on Demand-Based Scheduling Scheme of Urban Low-Altitude Logistics UAVs
+TI Drone-Assisted Last-Mile Delivery Under Windy Conditions: Zero Pollution Solutions
+TI Drone Routing for Drone-Based Delivery Systems: A Review of Trajectory Planning, Charging, and Security
+TI Dynamic truck-drone routing problem for scheduled deliveries and on-demand pickups with time-related constraints
+TI An Energy-Efficient Logistic Drone Routing Method Considering Dynamic Drone Speed and Payload
+TI A Multifaceted Analysis of Intelligent Vehicle Route Optimization
+TI Novel Spherical Fuzzy MARCOS Method for Assessment of Drone-Based City Logistics Concepts
+TI Parcel consolidation approach and routing algorithm for last-mile delivery by unmanned aerial vehicles
+TI Use of unmanned vehicles in search and rescue operations in forest fires: Advantages and limitations observed in a field trial
+TI Multi-Unmanned Aerial Vehicle Path Planning Based on Improved Nutcracker Optimization Algorithm
+TI A Reinforcement Learning Model of Multiple UAVs for Transporting Emergency Relief Supplies
+TI A drone fleet model for last-mile distribution in disaster relief operations
+TI Chaos Particle Swarm Optimization Enhancement Algorithm for UAV Safe Path Planning
+TI Extending Delivery Range and Decelerating Battery Aging of Logistics UAVs Using Public Buses
+TI Multi-Objective Algorithm for Blood Supply via Unmanned Aerial Vehicles to the Wounded in an Emergency Situation
+TI Autonomous Flightworthiness Determination for Modular Vertical Lift Vehicles
+TI Smooth Path Planning for Unmanned Aerial Vehicles with Airspace Restrictions
+TI Deep Reinforcement Learning Assisted UAV Path Planning Relying on Cumulative Reward Mode and Region Segmentation
+TI An integrated optimization strategy for mission planning and control resource allocation for long-endurance unmanned aerial vehicle
+TI A Survey of Truck-Drone Routing Problem: Literature Review and Research Prospects
+TI Logistics for a fleet of drones for medical item delivery: A case study for Louisville, KY
+TI Large-Scale Package Deliveries With Unmanned Aerial Vehicles Using Collective Learning
+TI VaCoChain: Blockchain-Based 5G-Assisted UAV Vaccine Distribution Scheme for Future Pandemics
+TI Drones in last-mile delivery: a systematic literature review from a logistics management perspective
+TI Research on Public Air Route Network Planning of Urban Low-Altitude Logistics Unmanned Aerial Vehicles
+TI Roles of Technology in Improving Perishable Food Supply Chains
+TI Drone-Based Emergent Distribution of Packages to an Island from a Land Base
+TI An Improved Human Evolution Optimization Algorithm for Unmanned Aerial Vehicle 3D Trajectory Planning
+TI Identifying Key Issues in Integration of Autonomous Ships in Container Ports: A Machine-Learning-Based Systematic Literature Review
+TI Risk Assessment for UAS Logistic Delivery under UAS Traffic Management Environment
+TI Transportation and carbon emissions costs minimization for time-dependent vehicle routing problem with drones
+TI Synchronized Truck and Drone Routing in Package Delivery Logistics
+TI An Air Route Network Planning Model of Logistics UAV Terminal Distribution in Urban Low Altitude Airspace
+TI Monitoring Nodal Transportation Assets with Uncrewed Aerial Vehicles: A Comprehensive Review
+TI Joint Ground and Aerial Package Delivery Services: A Stochastic Optimization Approach
+TI Optimizing drone logistics in complex urban industrial infrastructure
+TI Assessing the performance of unmanned aerial vehicle for logistics and transportation leveraging the Bayesian network approach
+TI "We Live on Hope ... ": Ethical Considerations of Humanitarian Use of Drones in Post-Disaster Nepal ...
+TI Improved PSO-Based Two-Phase Logistics UAV Path Planning under Dynamic Demand and Wind Conditions
+TI Asset tracking, condition visibility and sustainability using unmanned aerial systems in global logistics
+TI Fed4UL: A Cloud-Edge-End Collaborative Federated Learning Framework for Addressing the Non-IID Data Issue in UAV Logistics
+TI Research on Multi Unmanned Aerial Vehicles Emergency Task Planning Method Based on Discrete Multi-Objective TLBO Algorithm
+TI Aerodynamic Analysis of a Logistics UAV with Foldable Bi-wing Configuration
+TI Efficient Schedule of Energy-Constrained UAV Using Crowdsourced Buses in Last-Mile Parcel Delivery
+TI Pioneering Cooperative Air-Ground Instant Delivery Using UAVs and Crowdsourced Couriers
+TI RESEARCH ON BILEVEL TASK PLANNING METHOD FOR MULTI-UAV LOGISTICS DISTRIBUTION
+TI UAV Group Distribution Route Optimization Under Time-Varying Weather Network
+TI GNSS and aerial drones: a winning combination for remote sensing, surveillance, security and logistics applications
+TI Collaborative truck multi-drone routing and scheduling problem: Package delivery with flexible launch and recovery sites
+TI On Optimizing a Multi-Mode Last-Mile Parcel Delivery System with Vans, Truck and Drone
+TI Novel DTN Mobility-Driven Routing in Autonomous Drone Logistics Networks
+TI The role of drones in disaster response: A literature review of operations research applications
+TI Shipper Cooperation in Stochastic Drone Delivery: A Dynamic Bayesian Game Approach
+TI Identification of Urban Air Logistics Distribution Network Concepts
+TI Battery Electric Vehicle Traveling Salesman Problem with Drone
+TI Managing price and fleet size for courier service with shared drones
+TI Optimizing task assignment and routing operations with a heterogeneous fleet of unmanned aerial vehicles for emergency healthcare services
+TI Flight conflict detection of large fixed-wing UAV in joint airspace
+TI SGGTSO: A Spherical Vector-Based Optimization Algorithm for 3D UAV Path Planning
+TI A systematic review of agent-based models for autonomous vehicles in urban mobility and logistics: Possibilities for integrated simulation models
+TI A variable neighborhood search for flying sidekick traveling salesman problem
+TI Integrated scheduling of m-truck, m-drone, and m-depot constrained by time-window, drop-pickup, and m-visit using constraint programming
+TI Optimal allocation of defibrillator drones in mountainous regions
+TI Path Planning of Electric VTOL UAV Considering Minimum Energy Consumption in Urban Areas
+TI Collaborative truck multi-drone delivery system considering drone scheduling and en route operations
+TI Humanitarian relief network assessment using collaborative truck-and-drone system
+TI Intelligent Distribution Transportation Route Planning Considering Traffic Congestion
+TI An edge-based stochastic facility location problem in UAV-supported humanitarian relief logistics: a case study of Tehran earthquake
+TI The multi-purpose K-drones general routing problem
+TI Solving the vehicle routing problem with drone for delivery services using an ant colony optimization algorithm
+TI A Real-Time Path Planning Method for Urban Low-Altitude Logistics UAVs
+TI Rapid A*: a robust path planning scheme for UAVs
+TI Assessing the sustainability of using drone technology for last-mile delivery in a blood supply chain
+TI The Challenges of Blood Sample Delivery via Drones in Urban Environment: A Feasibility Study through Specific Operation Risk Assessment Methodology
+TI Drone delivery from trucks: Drone scheduling for given truck routes
+TI Maximum Profit Facility Location and Dynamic Resource Allocation for Instant Delivery Logistics
+TI Maximizing the Average Environmental Benefit of a Fleet of Drones under a Periodic Schedule of Tasks
+TI Airborne! UAV delivery of blood products and medical logistics for combat zones
+TI Towards the sustainable economy through digital technology: A drone-aided after-sales service scheduling model
+TI Location Selection Methods for Urban Terminal Co-Distribution Centers with Air-Land Collaboration
+TI A Survey of the Routing Problem for Cooperated Trucks and Drones
+TI The traveling salesman problem with drone resupply
+TI Analyzing critical success factors for implementation of drones in the logistics sector using grey-DEMATEL based approach
+TI BSBL-Based Auxiliary Vehicle Position Analysis in Smart City Using Distributed MEC and UAV-Deployed IoT
+TI Considering both energy effectiveness and flight safety in UAV trajectory planning for intelligent logistics
+TI Air Route Network Planning Method of Urban Low-Altitude Logistics UAV with Double-Layer Structure
+TI A Drones Optimal Path Planning Based on Swarm Intelligence Algorithms
+TI Complementarity, Interoperability, and Level of Integration of Humanitarian Drones with Emerging Digital Technologies: A State-of-the-Art Systematic Literature Review of Mathematical Models
+TI Multi-Objective Optimization of Urban Air Transportation Networks Under Social Considerations
+TI Development of a concept for the supply transportation with drones between the hospitals in the Neu-Ulm district
+TI The Use of UAVs in Humanitarian Relief: An Application of POMDP-Based Methodology for Finding Victims
+TI A GRASP/VND algorithm for the energy minimizing drone routing problem with pickups and deliveries
+TI Fuzzy synthetic evaluation of the critical drivers of UAVs' deployment for construction in Nigeria
+TI Development of Heuristic Approaches for Last-Mile Delivery TSP with a Truck and Multiple Drones
+TI Collaborative truck-and-drone delivery for inventory-routing problems
+TI A column-and-row generation approach for the flying sidekick travelling salesman problem
+TI On the min-cost Traveling Salesman Problem with Drone
+TI Understanding the viability of drone logistics for assisting pathology transportation: a case study in Dorset, UK
+TI The Piggyback Transportation Problem: Transporting drones launched from a flying warehouse
+TI Congestion-Aware Multi-Drone Delivery Routing Framework
+TI Leveraging Drones for Effective Disaster Management: A Comprehensive Analysis of the 2024 Noto Peninsula Earthquake Case in Japan
+TI Risk Assessment for the Use of Drones in Warehouse Operations in the First Phase of Introducing the Service to the Market
+TI The Mothership and Drone Routing Problem
+TI Path and Speed Optimization for Conflict-Free Pickup and Delivery Under Time Windows
+TI The multi-visit drone routing problem for pickup and delivery services
+TI Integrating drones into NHS patient diagnostic logistics systems: Flight or fantasy?
+TI Last-mile delivery concepts: a survey from an operational research perspective
+TI Drone delivery logistics model for on-demand hyperlocal market
+TI Vehicle routing with multiple UAVs for the last-mile logistics distribution problem: hybrid distributed optimization
+TI An adaptive large neighborhood search metaheuristic for the vehicle routing problem with drone
+TI Drones in last-mile delivery: A systematic review on Efficiency, Accessibility, and Sustainability
+TI Flying Sidekick Traveling Salesman Problem in Truck-Drone Team Logistics with Energy Issues
+TI Potentialities of drones and ground autonomous delivery devices for last-mile logistics
+TI Development potential of logistics in the Arctic zone of the Russian Federation through the use of drones
+TI Consumer preferences for innovative and traditional last-mile parcel delivery
+TI Drone delivery and consumer behavior in last mile logistics: an empirical study in South Korea
+TI DAC-MD: A privacy preserving drone-access control scheme for last mile delivery
+TI The Use of Drones to Deliver Rift Valley Fever Vaccines in Rwanda: Perceptions and Recommendations
+TI Genetic algorithm for scheduling of parcel delivery by drones
+TI Robust drone selective routing in humanitarian transportation network assessment
+TI Using intermediate points in parcel delivery operations with truck-based autonomous drones
+TI Routing for unmanned aerial vehicles: Touring dimensional sets
+TI Future healthcare logistics: a survey of the public opinion on drones in Denmark
+TI A Hybrid Improved Symbiotic Organisms Search and Sine-Cosine Particle Swarm Optimization Method for Drone 3D Path Planning
+TI A Drone Logistic Model for Transporting the Complete Analytic Volume of a Large-Scale University Laboratory
+TI Drones for parcel and passenger transport: A qualitative exploration of public acceptance
+TI Digital Supply Chain: Literature review and a proposed framework for future research
+TI Investigating the Impact of Drone Transport on the Stability of Monoclonal Antibodies for Inter-Hospital Transportation
+TI Truck-drone team logistics: A heuristic approach to multi-drop route planning
+TI Requirements Engineering for a Drone-Enabled Integrated Humanitarian Logistics Platform
+TI Designing and analyzing drone-based city logistics solutions for Kochi using a Fuzzy Multi-Criteria decision making framework
+TI Dataset for the van-drone routing problem with multiple delivery drop points
+TI Two-stage heuristic algorithm for vehicle-drone collaborative delivery and pickup based on medical supplies resource allocation
+-------------------分割线-------------------------
+TI Comparison of Multi-Methods for Identifying Maize Phenology Using PhenoCams
+TI An integrative framework for coordination of damage assessment, road restoration, and relief distribution in disasters
+TI Ground vehicle and UAV collaborative routing and scheduling for humanitarian logistics using random walk based ant colony optimization
+TI Logistics UAV Air Route Network Capacity Evaluation Method Based on Traffic Flow Allocation
+TI Adaptive control for uncrewed aerial vehicles based on communication information optimization in complex environments
+TI REDUNDANT TELEMETRY LINK SYSTEM FOR UNCREWED AERIAL VEHICLES
+TI A UAV Navigation Approach Based on Deep Reinforcement Learning in Large Cluttered 3D Environments
+TI Numerical simulation of the transition flight aerodynamics of cross-shaped quad-tiltrotor UAV
+TI Modelling the effects of fundamental UAV flight parameters on LiDAR point clouds to facilitate objectives-based planning
+TI How Do Dangerous Goods Regulations Apply to Uncrewed Aerial Vehicles Transporting Medical Cargos?
+TI Simulated Imagery Rendering Workflow for UAS-Based Photogrammetric 3D Reconstruction Accuracy Assessments
+TI Are Drones Safer Than Vans?: A Comparison of Routing Risk in Logistics
+TI Drones in emergency response-evidence from cross-border, multi-disciplinary usability tests
+TI sUAS Remote Sensing to Evaluate Geothermal Seep Interactions with the Yellowstone River, Montana, USA
+TI Imagery Synthesis for Drone Celestial Navigation Simulation
+TI Knowledge-Driven Logistics Transformation: Complex Networks and UAVs in Distribution
+TI Review of Aerial Transportation of Suspended-Cable Payloads with Quadrotors
+TI A Multi-Objective Black-Winged Kite Algorithm for Multi-UAV Cooperative Path Planning
+TI The Stochastic Dynamic Postdisaster Inventory Allocation Problem with Trucks and UAVs
+TI Stochastic Task Scheduling in UAV-Based Intelligent On-Demand Meal Delivery System
+TI UAV Deployment Exercise for Mapping Purposes: Evaluation of Emergency Response Applications
+TI Top-down approach to design the relief system in a metropolitan city using UAV technology, part I: the first 48 h
+TI Precision Agriculture by Integration of Algorithms and Remote Sensing
+TI Streamlining Bathymetry Logistics UAV with Versatile Payload Yields High-Res Data
+TI Optimization of Dual-type Multi-drone Formations for Load-carrying Missions
+TI Joint User Association, Resource Allocation and Trajectory Design for Multi-UAV-Aided NOMA Wireless Communication Systems
+TI Drone Stations-Aided Beyond-Battery-Lifetime Flight Planning for Parcel Delivery
+TI Yield estimation of citrus fruit using rapid image processing in natural background
+TI Omni-Directional Aerial Transportation System: Modeling, Control, and Experimental Validation
+TI On crop yield modelling, predicting, and forecasting and addressing the common issues in published studies
+TI A robust optimization framework for two-echelon vehicle and UAV routing for post-disaster humanitarian logistics operations
+TI Direction Estimation in 3D Outdoor Air-Air Wireless Channels through Machine Learning
+TI In-Situ Calibration and Trajectory Enhancement of UAV LiDAR Systems for Mapping Mechanized Agricultural Fields
+TI Micro UAVs with Fixed Wings: Design, Technological Solutions, and Tests
+TI Physical and logistical considerations of using ultrasonic anemometers in aeolian sediment transport research
+TI Investigation of Operational Parameters that Affect the Use of Drones in Goods' Stock Count Process: Evidence from Experimental Results
+TI Fuzzy Automatic Disturbance Rejection Control of Quadrotor UAV Based on Improved Whale Optimization Algorithm
+TI Proposal to planning facility location using UAV and geographic information systems in a post-disaster scenario
+TI A Quickly Deployed and UAS-Based Logistics Network for Delivery of Critical Medical Goods during Healthcare System Stress Periods: A Real Use Case in Valencia (Spain)
+TI UAV LiDAR in coastal environments: Archaeological case studies from Tierra del Fuego, Argentina, and Vega, Norway
+TI High-Temporal-Resolution Forest Growth Monitoring Based on Segmented 3D Canopy Surface from UAV Aerial Photogrammetry
+TI Pathways to Unsegregated Sharing of Airspace: Views of the Uncrewed Aerial Vehicle (UAV) Industry
+TI Incorporation of Contingency Tasks in Task Allocation for Multirobot Teams
+TI Accuracy and robustness of a plant-level cabbage yield prediction system generated by assimilating UAV-based remote sensing data into a crop simulation model
+TI Small Unmanned Aircraft (sUAS)-Deployed Thermal Infrared (TIR) Imaging for Environmental Surveys with Implications in Submarine Groundwater Discharge (SGD): Methods, Challenges, and Novel Opportunities
+TI Vertical Takeoff and Landing for Distribution of Parcels to Hospitals: A Case Study about Industry 5.0 Application in Israel's Healthcare Arena
+TI Estimating aboveground biomass of the mangrove forests on northeast Hainan Island in China using an upscaling method from field plots, UAV-LiDAR data and Sentinel-2 imagery
+TI Chaotic Random Opposition-Based Learning and Cauchy Mutation Improved Moth-Flame Optimization Algorithm for Intelligent Route Planning of Multiple UAVs
+TI Evaluation and use of remotely piloted aircraft systems for operations and research - RxCADRE 2012
+TI Iterative Planning for Multi-Agent Systems: An Application in Energy-Aware UAV-UGV Cooperative Task Site Assignments
+TI Application of Hybrid Swarming Algorithm on a UAV Regional Logistics Distribution
+TI Energy Efficient UAV-Based Last-Mile Delivery: A Tactical-Operational Model With Shared Depots and Non-Linear Energy Consumption
+TI Balloons and Quadcopters: Intercomparison of Two Low-Cost Wind Profiling Methods
+TI Detection and Recognition of Drones Based on a Deep Convolutional Neural Network Using Visible Imagery
+TI Genome Editing: From Drosophila to Non-Model Insects and Beyond
+TI Unpiloted Aerial Vehicle (UAV) image velocimetry for validation of two-dimensional hydraulic model simulations
+TI UAV Image-Based Crop Growth Analysis of 3D-Reconstructed Crop Canopies
+TI A Rapid UAV Method for Assessing Body Condition in Fur Seals
+TI Estimating Switchgrass Biomass Yield and Lignocellulose Composition from UAV-Based Indices
+TI Automatically Counting Florida Manatees (Trichechus manatus latirostris) from Drone Images Using Object-Based Image Analysis
+TI A predictive multistage postdisaster damage assessment framework for drone routing
+TI Consensus-based virtual leader tracking swarm algorithm with GDRRT*-PSO for path-planning of multiple-UAVs
+TI Drone-Fleet-Enabled Logistics: A Joint Design of Flight Trajectory and Package Delivery
+TI The Use of New Technologies in Logistics: Drone (UAV) Use in Last Mile Delivery
+TI Adaptive and stabilized real-time super-resolution control for UAV-assisted smart harbor surveillance platforms
+TI Environmental Implications of Drone-Based Delivery Systems: A Structured Literature Review
+TI From earth to sky: Large-scale archaeological settlement patterns in southernmost South America based on ground surveys, UAV LiDAR, and open access satellite imagery
+TI Hazardous flight region prediction for a small UAV operated in an urban area using a deep neural network
+TI A Guide to Genome-Wide In Vivo RNAi Applications in Drosophila
+TI An Exact Approach for Solving Pickup-and-Delivery Traveling Salesman Problems with Neighborhoods
+TI The new French kidney allocation system for donations after brain death: Rationale, implementation, and evaluation
+TI Real-time multi-fusion perceptron architecture for autonomous drones
+TI Quantifying the Effects of Vibration on Medicines in Transit Caused by Fixed-Wing and Multi-Copter Drones
+TI From Coastal to Montane Forest Ecosystems, Using Drones for Multi-Species Research in the Tropics
+TI Drones for parcel and passenger transportation: A literature review☆
+TI Scheduling-location problem with drones
+TI Blockchain-Based Trustworthiness in Cross-Border Data Exchange in 5G-Powered Intelligent Connected Vehicles
+TI Scenario-Driven Evaluation of Autonomous Agents: Integrating Large Language Model for UAV Mission Reliability
+TI Facility location decisions for drone delivery with riding: A literature review
+TI Insights Before Flights: How Community Perceptions Can Make or Break Medical Drone Deliveries
+TI On-Board Physical Battery Replacement System and Procedure for Drones During Flight
+TI The multivisit drone routing problem with edge launches: An iterative approach with discrete and continuous improvements
+TI Audio-Based Drone Detection and Identification Using Deep Learning Techniques with Dataset Enhancement through Generative Adversarial Networks
+TI Hybrid Multi-Objective Chameleon Optimization Algorithm Based on Multi-Strategy Fusion and Its Applications
+TI Optimal decision-making of post-disaster emergency material scheduling based on helicopter-truck-drone collaboration
+TI Drones in the Big City: Autonomous Collision Avoidance for Aerial Delivery Services
+TI Innovators and transformers: envisioning a revolution in middle mile logistics with extended range cargo drones
+TI Extracorporeal Photopheresis (ECP) and the Potential of Novel Biomarkers in Optimizing Management of Acute and Chronic Graft vs. Host Disease (GvHD)
+TI Development of Path Planning Approach Using Improved A-star Algorithm in AGV System
+TI Reconstruction of Late Pleistocene-Holocene Deformation through Massive Data Collection at Krafla Rift (NE Iceland) Owing to Drone-Based Structure-from-Motion Photogrammetry
+TI Shortening Emergency Medical Response Time with Joint Operations of Uncrewed Aerial Vehicles with Ambulances
+TI Analysis of Modern vs. Conventional Development Technologies in Transportation-The Case Study of a Last-Mile Delivery Process
+TI A Branch-and-Bound-Based Solution Approach for Dynamic Rerouting of Airborne Platforms
+TI Multi-centric, Marsh-based Urbanism at the early Mesopotamian city of Lagash (Tell al-Hiba, Iraq)
+TI Comparative analysis of sandy beach and foredune geomorphic change measurements from Apple lidar and small-unoccupied aerial systems
+TI Acoustic Analysis of a Hybrid Propulsion System for Drone Applications
+TI Adoption of drone technology in construction - a study on interaction between various challenges
+TI Computational approaches for solving two-echelon vehicle and UAV routing problems for post-disaster humanitarian operations
+TI DYNAMICS OF STROMBOLIAN EXPLOSIONS: THE FEBRUARY 2020 ETNA SEQUENCE
+TI Detection of an invasive plant (Cissus verticillata) in the largest mangrove system on the eastern Pacific coast-a remote sensing approach
+TI 6G Enabled Smart Infrastructure for Sustainable Society: Opportunities, Challenges, and Research Roadmap
+TI Robust ASV Navigation Through Ground to Water Cross-Domain Deep Reinforcement Learning
+TI Reinforcement Learning for Resilient Aerial-IRS Assisted Wireless Communications Networks in the Presence of Multiple Jammers
+TI Unraveling Urban Network Dynamics with Complex Network Modeling: a Case Study of Chengdu, China
+TI Supervised Geomorphic Mapping of Himalayan Rivers Based on Sentinel-2 Data
+TI Three-dimensional reconstruction of fluvial surface sedimentology and topography using personal mobile laser scanning
+TI Identifying Important Bird and Biodiversity Areas in Antarctica Using RPAS Surveys-A Case Study of Cape Melville, King George Island, Antarctica
+TI Use of terrestrial photogrammetry based on structure-from-motion for mass balance estimation of a small glacier in the Italian alps
+TI Cost-effective erosion monitoring of coastal cliffs
+TI Forecasting the Future of Urology Practice: A Comprehensive Review of the Recommendations by International and European Associations on Priority Procedures During the COVID-19 Pandemic
+TI Complete and accurate holly fruits counting using YOLOX object detection
+TI Suitability of ground-based SfM-MVS for monitoring glacial and periglacial processes
+TI Multitemporal monitoring of a coastal landslide through SfM-derived point cloud comparison
+TI An exact method and a heuristic for last-mile delivery drones routing with centralized graph-based airspace control
+TI A multi-objective supply chain model for disaster relief optimization using neutrosophic programming and blockchain-based smart contracts
+TI The drone-assisted simultaneous pickup and delivery problem with time windows
+TI Truck-multidrone same-day delivery strategies: On-road resupply vs depot return
+TI A multistage stochastic programming approach for drone-supported last-mile humanitarian logistics system planning
+TI Integrating battery-related decisions into truck-drone tandem delivery problem with limited battery resources
+TI Truck-drone routing problem with stochastic demand
+TI Integrated scheduling of truck and drone fleets for cargo transportation in post-disaster relief: A two-stage stochastic optimization approach
+TI Python toolbox for BDS PPP-B2b and Galileo HAS decoding and its products performance validation
+TI Two-echelon Vehicle Cooperated Operations Problems: The State of the Art and Future Direction
+TI Stability of Hemolytic, Lipemic, and Icteric Indices in Blood Samples Transported by Drone: A Focused Report
+TI Drone-based radiotelemetry and imagery systems provide an advantage over traditional techniques for estimating survival of dependent juveniles
+TI Artificial intelligence in low-altitude flight: Developmental opportunity or ethical challenge?
+TI Transforming last mile delivery with heterogeneous assistants: drones and delivery robots
+TI Improving Small Parcel Delivery Efficiency and Sustainability: A Study of Lithuanian Private Delivery Company
+TI Drone-as-a-Service for last-mile delivery: Evidence of economic viability
+TI The multi-visit vehicle routing problem with multiple heterogeneous drones
+TI Equity-based vaccine delivery by drones: Optimizing distribution in disease-prone regions
+TI A combined fleet size and mix vehicle routing model for last-mile distribution in disaster relief
+TI Optimizing multi-objective instant logistics with trucks and drones for the quick commerce order fulfilment
+TI Flight testing of drone-delivered automated external defibrillators for simulated out-of-hospital cardiac arrest in suburban Thailand
+TI Drone selection for disaster responses: an application of the stratified-best-worst method
+TI Drone-enabled material handling in smart manufacturing
+TI Prediction of Urban Air Mobility and Drone Accident Rates and the Role of Urban Management Systems
+TI Time-Dependent Vehicle Routing Problem with Drones Under Vehicle Restricted Zones and No-Fly Zones
+TI Multi-depot vehicle routing problem with drones in emergency logistics
+TI Locating Drone Stations for a Truck-Drone Delivery System in Continuous Space
+TI Blockchain-Assisted Efficient Data Sharing Scheme With Accountability and Privacy-Preserving for Internet of Drones Networks
+TI Examining the human-centred challenges of human-swarm interaction
+TI Perspectives of healthcare workers on drone-enabled healthcare delivery in challenging terrains of Manipur and Nagaland, India: a qualitative research
+TI Multi-agent deep reinforcement learning-based truck-drone collaborative routing with dynamic emergency response
+TI Welfare-oriented and public health-aware disaster sheltering network design
+TI A fuzzy programming model for decentralization and drone utilization in urban humanitarian relief chains
+TI Disaster management in supply chains: a systematic literature review with bibliometric and content analysis
+TI A multi-objective approach for the integrated planning of drone and robot assisted truck operations in last-mile delivery
+TI The truck traveling salesman problem with drone and boat for humanitarian relief distribution in flood disaster: Mathematical model and solution methods
+TI High-Precision Multi-Class Object Detection Using Fine-Tuned YOLOv11 Architecture: A Case Study on Airborne Vehicles
+TI Enhanced Intrusion Detection in Drone Networks: A Cross-Layer Convolutional Attention Approach for Drone-to-Drone and Drone-to-Base Station Communications
+TI Optimization in Routing and Vehicle Selection for E-commerce Last Mile Logistics: Bibliometric Analysis
+TI Employing Hybrid Pointer Networks With Deep Reinforcement Learning for Drone Routing in Delivery Using Public Transportation as Carriers
+TI DroneAudioID: A Lightweight Acoustic Fingerprint-Based Drone Authentication System for Secure Drone Delivery
+TI Research on the Route Planning Problem of Drone and Truck Collaborative Delivery in Restricted Areas
+TI Research on truck-drone collaborative route planning for rural logistics delivery services
+TI The silver king in the Magic City: Observation of Atlantic tarpon Megalops atlanticus aggregation off Miami, Florida
+TI Request prompt response in same-day delivery problem with drone resupply
+TI Cost-Effectiveness of Aerial Logistics for Immunization: A Model-Based Evaluation of Centralized Storage and Drone Delivery of Vaccines in Ghana Using Empirical Data
+TI Factors affecting the adoption of drones in the food supply chain
+TI An optimisation model of hierarchical facility location problem for urban last-mile delivery with drones
+TI Synthetic Dataset Generation for Optimizing Multimodal Drone Delivery Systems
+TI Bridge Digital Twin for Practical Bridge Operation and Maintenance by Integrating GIS and BIM
+TI Reshaping Edge-Assisted Visual SLAM by Embracing On-Chip Intelligence
+TI Optimizing Multi-Depot Mixed Fleet Vehicle-Drone Routing Under a Carbon Trading Mechanism
+TI Multi-Depot Electric Vehicle-Drone Collaborative-Delivery Routing Optimization with Time-Varying Vehicle Travel Time
+TI Integrating Drone-Based LiDAR and Multispectral Data for Tree Monitoring
+TI Current Advancements in Drone Technology for Medical Sample Transportation
+TI REHAS: Robust and Efficient Hyperelliptic Curve-Based Authentication Scheme for Internet of Drones
+TI A survey on vehicle-drone cooperative delivery operations optimization: Models, methods, and future research directions
+TI The drone scheduling problem in shore-to-ship delivery: A time discretization-based model with an exact solving approach
+TI Lightweight privacy-preserving authenticated key agreements using physically unclonable functions for internet of drones
+TI Delivery optimization for collaborative truck-drone routing problem considering vehicle obstacle avoidance
+TI Improved sub-ice platelet layer mapping with multi-frequency EM induction sounding
+TI On delivery policies for a truck-and-drone tandem in disaster relief
+TI SOLVING THE VEHICLE-DRONE PICKUP AND DELIVERY PROBLEM IN ROAD CONGESTION: A HEURISTIC AND ITS DEEP REINFORCEMENT LEARNING-BASED IMPROVEMENT
+TI Delivery routing for electric vehicles with en-route mobile battery swapping
+TI Traveling salesman problem with time windows and a drone-utilizing intermediate points (TSPTWD-IP)
+TI Sustainable last mile logistics employing drones and e-bikes
+TI Plug-In Hybrid Electric Vehicle Traveling-Salesman Problem with Drone
+TI A reinforcement learning-based multiobjective heuristic algorithm for multiple-truck routing problems with heterogeneous drones
+TI Dynamic collaborative truck-drone delivery with en-route synchronization and random requests
+TI An Adaptive Memetic Algorithm for a Cost-Optimal Electric Vehicle-Drone Routing Problem
+TI Evaluation of integrated sustainable last-mile delivery methods in an intuitionistic fuzzy environment
+TI Spatial Analysis of Middle-Mile Transport for Advanced Air Mobility: A Case Study of Rural North Dakota
+TI Potential and Challenges in Airborne Automated External Defibrillator Delivery by Drones in a Mountainous Region
+TI Advanced air mobility in healthcare Findings from a qualitative interview series for the hospital sector
+TI ADAPTIVE LARGE MULTIPLE NEIGHBORHOOD SEARCH FOR THE TRUCK-DRONE-COLLECTION STATION COLLABORATIVE DELIVERY PROBLEM
+TI A Scenario-Based Approach to the Implementation of Refueling Stations in Drone-Based non-Emergency of Blood Supply Transportation
+TI Cooperative Task Assignment for Aerial-Ground Detection Systems via a Novel Hybrid Genetic Method
+TI Drone delivery problem with multi-flight level: Machine learning based solution approach
+TI PDAC-SL: A PUF-enabled drone access control technique for smart logistics
+TI Sustainability and New Technologies: Last-Mile Delivery in the Context of Smart Cities
+TI Intelligent Parcel Delivery Scheduling Using Truck-Drones to Cut down Time and Cost
+TI The Early Prediction of Kimchi Cabbage Heights Using Drone Imagery and the Long Short-Term Memory (LSTM) Model
+TI What Will the Delivery Robots Bring Us Tomorrow?
+TI Drone-Assisted Multimodal Logistics: Trends and Research Issues
+TI A Green Laboratory Approach to Medical Sample Transportation: Assessing the Carbon Dioxide (CO2) Footprint of Medical Sample Transportation by Drone, Combustion Car, and Electric Car
+TI Technology and Warfare: A History of Military Innovation from the Middle Ages to Modern Warfare
+TI Toward Greener Supply Chains by Decarbonizing City Logistics: A Systematic Literature Review and Research Pathways
+TI Significant Leap In The Industrial Revolution From Industry 4.0 To Industry 5.0: Needs, Problems, And Driving Forces
+TI Revolutionizing RPAS logistics and reducing CO2 emissions with advanced RPAS technology for delivery systems
+TI A modelling and solution approach for wind-affected drone-truck routing problem under uncertainty
+TI Stochastic and robust truck-and-drone routing problems with deadlines: A Benders decomposition approach
+TI Collaborative Routing Optimization for Heterogeneous Trucks-Drones Under Urban Regional Restrictions
+TI Game of (delivery) drones: A serious game exploring transport futures involving logistics drones with stakeholders
+TI Aerial Wildlife Image Repository for animal monitoring with drones in the age of artificial intelligence
+TI Ranking the benefits of drone-based last-mile delivery due to adoption of its enablers
+TI Bloodstream: notes towards an anthropology of digital logistics in healthcare
+TI Consumer Acceptance of Drones for Last-Mile Delivery in Jeddah, Saudi Arabia
+TI Spatial Analysis of Advanced Air Mobility in Rural Healthcare Logistics
+TI Transforming Healthcare Delivery with Advanced Air Mobility: A Rural Study with GIS-Based Optimization
+TI Artificial Intelligence Applied to Drone Control: A State of the Art
+TI The Multi-Visit Vehicle Routing Problem with Drones under Carbon Trading Mechanism
+TI Drone resupply with multiple trucks and drones for on-time delivery along given truck routes
+TI Exact and heuristic approaches for the Truck-Drone Team Logistics Problem
+TI Transfer Optimization for Heterogeneous Drone Delivery and Pickup Problem
+TI Optimization of hybrid delivery by vehicle and drones
+TI Burrow Opening Measurements of Intertidal Macroinvertebrates from Optical Drone Images
+TI Drone-Based Instant Delivery Hub-and-Spoke Network Optimization
+TI Analyzing Barriers to Internet of Things (IoT) Adoption in Humanitarian Logistics: An ISM-DEMATEL Approach
+TI Drone logistics' resilient development: impacts of consumer choice, competition, and regulation
+TI Why and Why Not? Systematic Review of the Willingness to Accept Drone and Robot Deliveries
+TI The multi-fleet delivery problem combined with trucks, tricycles, and drones for last-mile logistics efficiency requirements under multiple budget constraints
+TI A Drone-Driven Delivery Network Design for an On-Demand O2O Platform Considering Hazard Risks and Customer Heterogeneity
+TI A risk-averse distributionally robust optimisation approach for drone-supported relief facility location problem
+TI Estimating beluga whale abundance from space: using drones to ground-validate VHR satellite imagery
+TI End-to-End GPS Tracker Based on Switchable Fuzzy Normalization Codec for Assistive Drone Application
+TI A stochastic-fuzzy multi-objective model for the last-mile delivery problem using drones and ground vehicles, a case study
+TI Revolutionizing healthcare 5.0: Blockchain-driven optimization of drone-to-everything communication using 5G network for enhanced medical services
+TI Sustainable last-mile distribution with autonomous delivery robots and public transportation
+TI Hierarchical RNNs with graph policy and attention for drone swarm
+TI Locating charging stations and routing drones for efficient automated stocktaking
+TI A hybrid multi-objective solution approach for a reliable truck-drone routing problem integrated with pickup and delivery services
+TI Dynamic vehicle routing problem with drone resupply for same-day delivery
+TI Two-Stage Delivery System for Last Mile Logistics in Rural Areas: Truck-Drone Approach
+TI Remote, Rugged Field Scenarios for Archaeology and the Field Sciences: Object Avoidance and 3D Flight Planning with sUAS Photogrammetry
+TI Learning-Based Cooperative Mobility Control for Autonomous Drone-Delivery
+TI Risk Analysis of the Use of Drones in City Logistics
+TI Addressing the challenges of using autonomous robots for last-mile delivery
+TI A heuristic-based benders decomposition for the hybrid relief distribution network minimizing deprivation cost of vulnerable areas
+TI A Collaborative Drone-Truck Delivery System With Memetic Computing Optimization
+TI Traveling salesman problem with drone and bicycle: multimodal last-mile e-mobility
+TI Design and management of humanitarian supply chains for pandemics: lessons from COVID-19
+TI Hybrid truck-drone delivery system with multi-visits and multi-launch and retrieval locations: Mathematical model and adaptive variable neighborhood search with neighborhood categorization
+TI Fleet resupply by drones for last-mile delivery
+TI A simulation-based performance evaluation model for decision support on drone location and delivery scheduling
+TI Optimizing combined tours: The truck-and-cargo-bike case
+TI A continuous approximation approach to integrated truck and drone delivery systems
+TI Optimization of trucks and drones in tandem delivery network with drone trajectory planning
+TI Collaborative Delivery Optimization With Multiple Drones via Constrained Hybrid Pointer Network
+TI Investigating the Crash Protection Performance of a Medical Carrier Bag for Drone Transport
+TI Improved Swarm Intelligence-Based Logistics Distribution Optimizer: Decision Support for Multimodal Transportation of Cross-Border E-Commerce
+TI The role of robots in logistics
+TI Public perceptions of the use of artificial intelligence in Defence: a qualitative exploration
+TI Ensemble multi-objective optimization approach for heterogeneous drone delivery problem
+TI Innovative blood transfusion strategies to address global blood deserts: a consensus statement from the Blood Delivery via Emerging Strategies for Emergency Remote Transfusion (Blood DESERT) Coalition
+TI Solving the probabilistic drone routing problem: Searching for victims in the aftermath of disasters
+TI D<SUP>3</SUP>APTS: Design of ECC-Based Authentication Protocol and Data Storage for Tactile Internet Enabled IoD System With Blockchain
+TI Assessing Strategies to Overcome Barriers for Drone Usage in Last-Mile Logistics: A Novel Hybrid Fuzzy MCDM Model
+TI Sustainable green circular economic model with controllable waste and emission in healthcare system
+TI Drone Applications in Logistics and Supply Chain Management: A Systematic Review Using Latent Dirichlet Allocation
+TI Consumer acceptance of drone-based technology for last mile delivery
+TI Collaborative Intelligent Delivery With One Truck and Multiple Heterogeneous Drones in COVID-19 Pandemic Environment
+TI THE IMPACT OF TECHNOLOGY ON LOGISTICS SERVICES IN SAUDI ARABIA
+TI Cooperative Load Transportation of Multi-Drones Based on Disturbance Observer and Formation Control
+TI Design of AI-based 3.84 kW Battery Package Using Backpropagation Artificial Neural Network Algorithm for Cargo Drones
+TI Paving the Way for Last-Mile Delivery in Greece: Data-Driven Performance Analysis with a Customized Quadrotor
+TI SMART MARKETING AND GLOBAL LOGISTICS NETWORKS
+TI A New Last Mile Delivery Approach for the Hybrid Truck Multi-Drone Problem Using a Genetic Algorithm
+TI Enhancing User Loyalty through Service Quality, Convenience, and Distribution in Drone Rentals
+TI Vehicle routing problem with drones as an aid for epidemic relief
+TI Assessment of In Situ Compactness and Air Void Content of New Asphalt Layers Using Ground-Penetrating Radar Measurements
+TI A Hybrid Meta-Heuristic Approach for Emergency Logistics Distribution Under Uncertain Demand
+TI Using Improved Particle Swarm Optimization Algorithm for Location Problem of Drone Logistics Hub
+TI The multi-visit drone-assisted pickup and delivery problem with time windows
+TI Multi-objective reinforcement learning for autonomous drone navigation in urban areas with wind zones
+TI Pandemic-driven acceptance of urban drone deliveries
+TI Learning for multiple purposes: A Q-learning enhanced hybrid metaheuristic for parallel drone scheduling traveling salesman problem
+TI A bi-criteria approach to the truck-multidrone routing problem
+TI Factors influencing ICT implementation in motorcycle goods transport: the mediating role of business efficiency, infrastructure and motorcycle benefits
+TI An enhanced fault diagnosis method for fuel cell system using a kernel extreme learning machine optimized with improved sparrow search algorithm
+TI A Review of Literature on Vehicle Routing Problems of Last-Mile Delivery in Urban Areas
+TI Enabling same-day delivery using a drone resupply model with transshipment points
+TI GNSS Spoofing Detection Using Multiple Sensing Devices and LSTM Networks
+TI Urban Courier Delivery in a Smart City: The User Learning Process of Travel Costs Enhanced by Emerging Technologies
+TI Making Robotic Swarms Trustful: A Blockchain-Based Perspective
+TI Truck-Drone Pickup and Delivery Problem with Drone Weight-Related Cost
+TI Factors Influencing Technology Acceptance of Drones for Last-Mile Food Deliveries: An Adaptation of the UTAUT2 Model
+TI Drones and Beyond Human Environments
+TI Coordinated logistics with trucks and drones for premium delivery
+TI Vision-based robotics using open FPGAs
+TI Multi-trucks-and-drones cooperative pickup and delivery problem
+TI Unibotics: open ROS-based online framework for practical learning of robotics in higher education
+TI A hybrid variable neighborhood search heuristic for the sustainable time-dependent truck-drone routing problem with rendezvous locations
+TI A novel mathematical model and a hybrid grouping evolution strategy algorithm for an automated last mile delivery system considering wind effect
+TI A Rolling Horizon scheme for rescheduling in agricultural harvest
+TI DeepVision: Enhanced Drone Detection and Recognition in Visible Imagery through Deep Learning Networks
+TI Drone-Based Decentralized Truck Platooning with UWB Sensing and Control
+TI CO2 emissions and delivery time of last-mile drone delivery using trucks
+TI When drone delivery meets human courier: A co-sourcing perspective
+TI Transforming ground disaster response: Recent technological advances, challenges, and future trends for rapid and accurate real-world applications of survivor detection
+TI Stability of Medicines Transported by Cargo Drones: Investigating the Effects of Vibration from Multi-Stage Flight
+TI Robots at your doorstep: acceptance of near-future technologies for automated parcel delivery
+TI Modelling public attitude towards drone delivery in Germany
+TI A multiobjective mathematical model for a humanitarian logistics multimodal transportation problem
+TI Determining predictable strike points on tossed objects: A 2D physics simulation approach
+TI The drone-assisted vehicle routing problem with robot stations
+TI The truck-drone routing optimization problem: mathematical model and a VNS approach
+TI Rolling front landscape breeding
+TI Evolution, Challenges, and Opportunities of Transportation Methods in the Last-Mile Delivery Process
+TI Analyzing critical success factors for the implementation of air-taxi services for public transportation
+TI A branch-and-price-and-cut algorithm for the truck-drone routing problem with simultaneously delivery and pickup
+TI Delivery network design of a locker-drone delivery system
+TI A humanitarian vehicle routing problem synchronized with drones in time-varying weather conditions
+TI Research on Logistics Path Optimization for a Two-Stage Collaborative Delivery System Using Vehicles and UAVs
+TI A logic-based Benders decomposition algorithm for a repair crew routing and drone scheduling problem after a natural disaster
+TI Multivisit Drone-Vehicle Routing Problem with Simultaneous Pickup and Delivery considering No-Fly Zones
+TI A multi-visit flexible-docking vehicle routing problem with drones for simultaneous pickup and delivery services
+TI Investigating Challenges to Adoption of Industry 4.0 Technologies in Logistics Management for Last Mile Delivery
+TI A review of methods for detecting rats at low densities, with implications for surveillance
+TI Technical and legal critical success factors: Feasibility of drones & AGV in the last-mile-delivery
+TI An impact assessment of the use of aerial logistics to improve access to vaccines in the Western-North Region of Ghana
+TI Evaluation of Almond Harvest Dust Abatement Strategies Using an Aerial Drone Particle Monitoring System
+TI Data-Driven Deployment of Cargo Drones: A U.S. Case Study Identifying Key Markets and Routes
+TI Leveraging Drone Technology for Last-Mile Deliveries in the e-Tailing Ecosystem
+TI Radio frequency fingerprint-based drone identification and classification using Mel spectrograms and pre-trained YAMNet neural
+TI An Efficient Hybrid Graph Network Model for Traveling Salesman Problem with Drone
+TI An adaptive large neighborhood search metaheuristic for a passenger and parcel share-a-ride problem with drones
+TI Sustainable last mile parcel delivery and return service using drones
+TI Deep Reinforcement Learning for Truck-Drone Delivery Problem
+TI Drone Optimization in Factory: Exploring the Minimal Level Vehicle Routing Problem for Efficient Material Distribution
+TI Accuracy of Structure-from-Motion/Multiview Stereo Terrain Models: A Practical Assessment for Applications in Field Geology
+TI Robust vehicle routing with drones under uncertain demands and truck travel times in humanitarian logistics
+TI A variable neighborhood search for parcel delivery by vehicle with drone
+TI Dispatching point selection for a drone-based delivery system operating in a mixed Euclidean-Manhattan grid
+TI An Enhanced Backtracking Search Algorithm for the Flight Planning of a Multi-Drones-Assisted Commercial Parcel Delivery System
+TI Implementation of drone based delivery of medical supplies in North-East India: experiences, challenges and adopted strategies
+TI Attitudes towards Urban Air Mobility for E-Commerce Deliveries: An Exploratory Survey Comparing European Regions
+TI Transforming healthcare logistics and evaluating current use cases of UAVs (drones) as a method of transportation in healthcare to generate recommendations for the NHS to use drone technology at scale: a narrative review
+TI The multi-vehicle truck-and-robot routing problem for last-mile delivery
+TI The drone delivery services: An innovative application in an emerging economy
+TI An ETA-Based Tactical Conflict Resolution Method for Air Logistics Transportation
+TI A Hybrid Metaheuristic Solution Method to Traveling Salesman Problem with Drone
+TI Neutrosophic LOPCOW-ARAS model for prioritizing industry 4.0-based material handling technologies in smart and sustainable warehouse management systems
+TI Energy Efficiency of AGV-Drone Joint In-Plant Supply of Production Lines
+TI An Integer Programming Based Approach to Delivery Drone Routing under Load-Dependent Flight Speed
+TI Drones for relief logistics under uncertainty after an earthquake
+TI Logistics in the Sky: A Two-Phase Optimization Approach for the Drone Package Pickup and Delivery System
+TI The cost of carrier consistency: Last-mile delivery by vehicle and drone for subscription-based orders
+TI Multi-Criteria Coordinated Electric Vehicle-Drone Hybrid Delivery Service Planning
+TI Planning robust drone-truck delivery routes under road traffic uncertainty
+TI A branch-and-price-and-cut algorithm for the truck-based drone delivery routing problem with time windows
+TI Upcoming drone delivery services: A perceptions-based clustering of citizens in Lisbon
+TI Use of delivery drones for humanitarian operations: analysis of adoption barriers among logistics service providers from the technology acceptance model perspective
+TI Multi-Objective Optimization Algorithm With Adaptive Resource Allocation for Truck-Drone Collaborative Delivery and Pick-Up Services
+TI A-VRPD: Automating Drone-Based Last-Mile Delivery Using Self-Driving Cars
+TI MachIne learning for nutrient recovery in the smart city circular economy-A review
+TI The Multi-visits Drone-Vehicle Routing Problem with Simultaneous Pickup and Delivery Service
+TI Joint optimisation of task abortions and routes of truck-and-drone systems under random attacks
+TI Environmental and economic impacts of drone-assisted truck delivery under the carbon market price
+TI A Review on the Truck and Drone Cooperative Delivery Problem
+TI Congestion-Aware Bi-Modal Delivery Systems Utilizing Drones
+TI Sustainable Urban Freight for Energy-Efficient Smart Cities-Systematic Literature Review
+TI Truck and rotary-wing drone routing problem considering flight-level selection
+TI A deep reinforcement learning approach for solving the Traveling Salesman Problem with Drone
+TI Drone location and vehicle fleet planning with trucks and aerial drones
+TI Use of Fish Skin Graft in Management of Combat Injuries Following Military Drone Assaults in Field-Like Hospital Conditions
+TI Innovative solutions in last mile delivery: concepts, practices, challenges, and future directions
+TI Innovation in humanitarian logistics and supply chain management: a systematic review
+TI ALIEN: Assisted Learning Invasive Encroachment Neutralization for Secured Drone Transportation System
+TI Last-Mile Drone Delivery: Past, Present, and Future
+TI Public Acceptance of the Use of Drones in City Logistics: A Citizen-Centric Perspective
+TI Comparison of Radiosonde Measurements of Meteorological Variables with Drone, Satellite Products, and WRF Simulations in the Tropical Andes: The Case of Quito, Ecuador
+TI Identification of innovative technology enablers and drone technology determinants adoption: a graph theory matrix analysis framework
+TI The drone-assisted variable speed asymmetric traveling salesman problem
+TI Comparing Regional Energy Consumption for Direct Drone and Truck Deliveries
+TI Investigating the influence of drone flight on the stability of cancer medicines
+TI Where is the bottleneck? Drones and the paradoxes of digitising medical supplies in Ghana's landscapes of care
+TI Drone-Based Delivery Systems: A Survey on Route Planning
+TI Intelligent Scheduling Algorithms for the Enhancement of Drone-Based Innovative Logistic Supply Chain Systems
+TI An Organisational-Life Cycle Assessment Approach for Internet of Things Technologies Implementation in a Human Milk Bank
+TI Agile Health Governance? The Experiment of Medical Drones in the Management of the Covid-19 Pandemic in Ghana
+TI Logistics management in e-commerce: challenges and opportunities
+TI DRONES The Scope for Integration into Multi-modal Urban Logistics Services
+TI Smartphone-Operated Smart Farm Watering System Using Long-Range Communication Technology
+TI Applying RIS-Based Communication for Collaborative Computing in a Swarm of Drones
+TI A hybrid large-neighborhood search for a truck and drone delivery system with stochastic customer existence and time windows
+TI Sensor-Driven Human-Robot Synergy: A Systems Engineering Approach
+TI INNOVATIVE MANAGEMENT OF BIOMASS COST VALUES BASED ON ACCOUNTING AND ANALYSIS OF PRODUCTION COSTS OF AGRICULTURAL ACTIVITIES
+TI Aerial-ground collaborative routing with time constraints
+TI Autonomous e-commerce delivery in ordinary and exceptional circumstances. The French case
+TI Integrating express package delivery service with offline mobile sales: a new potential solution to sustainable last-mile logistics in rural China
+TI DRONE LAST MILE DELIVERY: AN ASSESSMENT OF THE VIABLE MARKET AND SECURITY POTENTIAL OF DRONE DELIVERY
+TI Segmentation of e-customers in terms of sustainable last-mile delivery
+TI Study of Urban Logistics Drone Path Planning Model Incorporating Service Benefit and Risk Cost
+TI Experts? opinions about lasting innovative technologies in City Logistics
+TI Logistics Trends and Innovations in Response to COVID-19 Pandemic: An Analysis Using Text Mining
+TI Identifying requirements for airborne-supplied city hubs
+TI Optimized path planning of drones for efficient logistics using turning point with evolutionary techniques
+TI The multiple traveling salesman problem in presence of drone- and robot-supported packet stations
+TI Collaborative vehicle-drone distribution network optimization for perishable products in the epidemic situation
+TI Reducing Risks by Transporting Dangerous Cargo in Drones
+TI Design and Assessment of an Urban Circular Combined Truck-Drone Delivery System Using Continuum Approximation Models and Integer Programming
+TI A novel multi-objective optimization model for the vehicle routing problem with drone delivery and dynamic flight endurance
+TI Truck-drone hybrid routing problem with time-dependent road travel time
+TI The use of immersive virtual reality for teaching fieldwork skills in complex structural terrains
+TI Impact of the Integration of First-Mile and Last-Mile Drone-Based Operations from Trucks on Energy Efficiency and the Environment
+TI Trustworthy Transaction Spreading Using Node Reliability Estimation in IoT Blockchain Networks
+TI Hybrid Convolutional-Transformer framework for drone-based few-shot weakly supervised object detection
+TI Factors Associated with the Adoption of Drones for Product Delivery in the Context of the COVID-19 Pandemic in Medellin, Colombia
+TI Integrating bloodmobiles and drones in a post-disaster blood collection problem considering blood groups
+TI Multiclass damage detection in concrete structures using a transfer learning-based generative adversarial networks
+TI Energy-constrained multi-visit TSP with multiple drones considering non-customer rendezvous locations
+TI Planning delivery-by-drone micro-fulfilment centres
+TI Complicity of States in Partnered Drone Operations
+TI A Variable Neighborhood Descent Matheuristic for the Drone Routing Problem with Beehives Sharing
+TI Mode Choice Modeling for Sustainable Last-Mile Delivery: The Greek Perspective
+TI A Path Planning Model for Stock Inventory Using a Drone
+TI Toward a Modern Last-Mile Delivery: Consequences and Obstacles of Intelligent Technology
+TI Heterogeneous multi-drone routing problem for parcel delivery
+TI Charging Station Distribution Optimization Using Drone Fleet in a Disaster
+TI An extended model of coordination of an all-terrain vehicle and a multivisit drone
+TI Multiple-Drones-Multiple-Trucks Routing Problem for Disruption Assessment
+TI A multi-objective humanitarian pickup and delivery vehicle routing problem with drones
+TI DARC<SUP>1</SUP> Matters: Repurposing Nineteenth-Century Property Law for the Twenty-First Century
+TI Identification and analysis of adoption barriers of disruptive technologies in the logistics industry
+TI Last mile logistics: Research trends and needs
+TI Optimising vehicle and on-foot porter routing in urban logistics
+TI Drone logistics for uncertain demand of disaster-impacted populations
+TI A mixed truck and robot delivery approach for the daily supply of customers
+TI An adaptive large neighborhood search heuristic for the flying sidekick traveling salesman problem with multiple drops
+TI Satellite, drone and video camera multi-platform monitoring of coastal erosion at an engineered pocket beach: A showcase for coastal management at Elmina Bay, Ghana (West Africa)
+TI Robust traveling salesman problem with drone: balancing risk and makespan in contactless delivery
+TI Truck-based drone delivery system: An economic and environmental assessment
+TI A logic-based Benders decomposition method for the multi-trip traveling repairman problem with drones
+TI Trajectory Optimization for Drone Logistics Delivery via Attention-Based Pointer Network
+TI First and Last Miles by Cargo Bikes: Ecological Commitment or Economically Feasible? The Case of a Parcel Service Company in Paris
+TI Drone routing problem model for last-mile delivery using the public transportation capacity as moving charging stations
+TI HAGDAVS: Height-Augmented Geo-Located Dataset for Detection and Semantic Segmentation of Vehicles in Drone Aerial Orthomosaics
+TI Optimal Model and Algorithm of Medical Materials Delivery Drone Routing Problem under Major Public Health Emergencies
+TI Quantifying Strombolian Activity at Etna Volcano
+TI Locating platforms and scheduling a fleet of drones for emergency delivery of perishable items
+TI Collaborative field research using drones for whale photo-identification studies in Cumberland Sound, Nunavut
+TI Design of a Service for Hospital Internal Transport of Urgent Pharmaceuticals via Drones
+TI DRONET: Multi-Tasking Framework for Real-Time Industrial Facility Aerial Surveillance and Safety
+TI The Use of Drones for Last-Mile Delivery: A Numerical Case Study in Milan, Italy
+TI A Socio-Analytical Approach to the Integration of Drones into Health Care Systems
+TI Point-to-point drone-based delivery network design with intermediate charging stations
+TI Public acceptance of the use of drones for logistics: The state of play and moving towards more informed debate
+TI Van-based robot hybrid pickup and delivery routing problem
+TI Ukraine Is Winning the War... And the West Doesn't Want to Recognize It
+TI Realities of Using Drones to Transport Laboratory Samples: Insights from Attended Routes in a Mixed-Methods Study
+TI Field report: Deployment of a fleet of drones for cloud exploration
+TI A Conceptual Framework Proposal for a Noise Modelling Service for Drones in U-Space Architecture
+TI 被撤回的出版物: A novel truck-drone collaborative service network for wide-range drone delivery using a modified variable neighborhood search algorithm (Retracted Article)
+TI Hybrid Truck-Drone Delivery Systems: A Systematic Literature Review
+TI Optimization of a Mobile Energy Storage Network
+TI Drone Applications Fighting COVID-19 Pandemic-Towards Good Practices
+TI Optimal Route Planning for Truck-Drone Delivery Using Variable Neighborhood Tabu Search Algorithm
+TI 5G Enabled Freeports: A Conceptual Framework
+TI Joint optimisation of drone routing and battery wear for sustainable supply chain development: a mixed-integer programming model based on blockchain-enabled fleet sharing
+TI At War with Congress: War Powers Disputes during the Trump Administration
+TI An efficient routing heuristic for a drone-assisted delivery problem
+TI Picture fuzzy WASPAS method for selecting last-mile delivery mode: a case study of Belgrade
+TI Identifying an effective last-mile customer delivery option with an integrated eco-friendly inventory model
+TI Shoppers' logistics activities in omni-channel retailing: A conceptualisation and an exploration on perceptual differences in effort valuation
+TI Evaluation of the Apple iPhone 12 Pro LiDAR for an Application in Geosciences
+TI Evaluating the effectiveness of drones in emergency situations: a hybrid multi-criteria approach
+TI A comparative analysis of synchronized truck-and-drone delivery models
+TI Consumer's usage of logistics technologies: Integration of habit into the unified theory of acceptance and use of technology
+TI Hybrid Multi-Objective Optimization Approach With Pareto Local Search for Collaborative Truck-Drone Routing Problems Considering Flexible Time Windows
+TI Connected healthcare: Improving patient care using digital health technologies
+TI Drones for supply chain management and logistics: a review and research agenda
+TI A push-pull-mooring view on technology-dependent shopping under social distancing: When technology needs meet health concerns
+TI A review on initiatives for the management of daily medical emergencies prior to the arrival of emergency medical services
+TI A Solution to Drone Routing Problems using Docking Stations for Pickup and Delivery Services
+TI Insights, motives, and means of overcoming forest offenses in Ghana's forestry sector: The case of the Bibiani Forest District
+TI An Exact Algorithm for Heterogeneous Drone-Truck Problem
+TI A simulation-based analysis for effective distribution of COVID-19 vaccines: A case study in Norway
+TI The Algorithm of a Game-Based System in the Relation between an Operator and a Technical Object in Management of E-Commerce Logistics Processes with the Use of Machine Learning
+TI Selecting Freight Transportation Modes in Last-Mile Urban Distribution in Pamplona (Spain): An Option for Drone Delivery in Smart Cities
+TI A Novel Method for Fast Positioning of Non-Standardized Ground Control Points in Drone Images
+TI Solving the length constrained K-drones rural postman problem
+TI Aerial Bots in the Supply Chain: A New Ally to Combat COVID-19
+TI An adaptive large neighborhood search heuristic for the vehicle routing problem with time windows and delivery robots
+TI An online optimization approach to post-disaster road restoration
+TI Algorithms based on branch and bound for the flying sidekick traveling salesman problem
+TI RAPID RESPONSE CENTERS FOR DISASTERS IN MEXICO: A THEORETICAL STUDY
+TI The Multi-visit Traveling Salesman Problem with Multi-Drones
+TI Can technological advancements help to alleviate COVID-19 pandemic? a review
+TI Containing the COVID-19 pandemic with drones-Feasibility of a drone enabled back-up transport system
+TI Mobile Manipulator for Autonomous Localization, Grasping and Precise Placement of Construction Material in a Semi-Structured Environment
+TI Smart and sustainable logistics of Port cities: A framework for comprehending enabling factors, domains and goals
+TI Smart homes: domestic futurity as Infrastructure
+TI Allocating epidemic response teams and vaccine deliveries by drone in generic network structures, according to expected prevented exposures
+TI The Matrix vs. The Fifth Element-Assessing Future Scenarios of Urban Transport from a Sustainability Perspective
+TI Parcel delivery cost minimization with time window constraints using trucks and drones
+TI Constrained Urban Airspace Design for Large-Scale Drone-Based Delivery Traffic
+TI Improving Throughput of 5G Cellular Networks via 3D Placement Optimization of Logistics Drones
+TI Investments in the imaginary: commercial drone speculations and relations
+TI The traveling salesman problem with release dates and drone resupply
+TI The impact of emerging and disruptive technologies on freight transportation in the digital era: current state and future trends
+TI Digital Transformation for Sustainable Future - Agriculture 4.0: A review
+TI Agile optimization of a two-echelon vehicle routing problem with pickup and delivery
+TI Application of machine learning technologies for Drone Network in logistics and port activities of Russia
+TI The Adoption of Green Vehicles in Last Mile Logistics: A Systematic Review
+TI Latest Advancement of Technologies in Supply Chain Management: An Overview
+TI Robots Under COVID-19 Pandemic: A Comprehensive Survey
+TI THE APPLICATION OF DRONES IN CITY LOGISTICS CONCEPTS
+TI Using the Delphi Method to Evaluate the Appropriateness of Urban Freight Transport Solutions
+TI Drone cultures: encounters with everyday militarisms
+TI Industry 4.0 Disruption and Its Neologisms in Major Industrial Sectors: A State of the Art
+TI The electric vehicle routing problem with time windows and synchronised mobile battery swapping
+TI Optimization and analysis of a robot-assisted last mile delivery system
+TI Answerable and Unanswerable Questions in Risk Analysis with Open-World Novelty
+TI A transformation technique for the clustered generalized traveling salesman problem with applications to logistics
+TI Model and Hybrid Algorithm of Collaborative Distribution System with Multiple Drones and a Truck
+TI Towards a framework of key technologies for drones
+TI Understanding the structure of risk belief systems concerning drone delivery: A network analysis
+TI Retail Deliveries by Drones: How Will Logistics Networks Change?
+TI A Morphing Cargo Drone for Safe Flight in Proximity of Humans
+TI A branch-and-cutapproach and alternative formulations for the traveling salesman problem with drone
+TI Technical note: the expected length of an orderly path
+TI Operating policies in multi-warehouse drone delivery systems
+TI Joint optimization of customer location clustering and drone-based routing for last-mile deliveries
+TI Design and evaluation of a multi-trip delivery model with truck and drones
+TI Inverting the Multiple-Assisting Tool Network Problem to Solve for Optimality
+TI Improved Compact Cuckoo Search Algorithm Applied to Location of Drone Logistics Hub
+TI Drone-Based Parcel Delivery Using the Rooftops of City Buildings: Model and Solution
+TI Efficient Routing for Precedence-Constrained Package Delivery for Heterogeneous Vehicles
+TI Comparison of energy demands of drone-based and ground-based parcel delivery services
+TI Comprehensive optimization of the synchronous delivery network in the model of OTMD for traveling salesman problem with drone
+TI Design and Analysis of Novel Hybrid Multi-Objective Optimization Approach for Data-Driven Sustainable Delivery Systems
+TI Forecasting electronic waste flows for effective circular economy planning
+TI Stochastic facility location model for drones considering uncertain flight distance
+TI A network design model for a meal delivery service using drones
+TI Three-dimensional turbulent structures at a medium-sized confluence with and without an ice cover
+TI A hybrid genetic algorithm for the traveling salesman problem with drone
+TI Analysis of the Risk Impact of Implementing Digital Innovations for Logistics Management
+TI A matheuristic for the vehicle routing problem with drones and its variants
+TI The strategic role of logistics in the industry 4.0 era
+TI An Evaluation of the Delivery of Medicines Using Drones
+TI Cooperative route planning for the drone and truck in delivery services: A bi-objective optimisation approach
+TI Controllable containment control of multi-agent systems based on hierarchical clustering
+TI Parcel delivery in urban areas: Opportunities and threats for the mix of traditional and green business models
+TI Foraging and homing behavior of honey bees (Apis mellifera) during a total solar eclipse
+TI Hot monkey, cold reality: surveying rainforest canopy mammals using drone-mounted thermal infrared sensors
+TI Advances in Robotics
+TI Traumatic amputations caused by drone attacks in the local population in Gaza: a retrospective cross-sectional study
+TI An iterative two-step heuristic for the parallel drone scheduling traveling salesman problem
+TI Post-disaster assessment routing problem
+TI Sizing of the Drone Delivery Fleet Considering Energy Autonomy
+TI PLC-Integrated Sensing Technology in Mountain Regions for Drone Landing Sites: Focusing on Software Technology
+TI Optimization Approaches for the Traveling Salesman Problem with Drone
+TI Looking Without Landing-Using Remote Piloted Aircraft to Monitor Fur Seal Populations Without Disturbance
+TI The Vehicle Routing Problem with Floating Targets: Formulation and Solution Approaches
+TI A decomposition-based iterative optimization algorithm for traveling salesman problem with drone
+TI En route truck-drone parcel delivery for optimal vehicle routing strategies
+TI Drone high resolution infrared imaging of the Lusi mud eruption
+TI Automatic extraction of 1D barcodes from video scans for drone-assisted inventory management in warehousing applications
+TI Drones for disaster response and relief operations: A continuous approximation model
+TI Social Spider Algorithm to Improve Intelligent Drones Used in Humanitarian Disasters Related to Floods
