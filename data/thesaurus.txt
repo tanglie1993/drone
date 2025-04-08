@@ -12,9 +12,14 @@ delivery	drone delivery
 routing	vehicle routing problem
 reinforcement learning	deep reinforcement learning
 routing	vehicle routing
+routing	drone routing
+routing	vehicle routing problem with drones
 last-mile logistics	last mile delivery
 heuristic	heuristic problems
 heuristic	heuristics
+metaheuristic	metaheuristics
 heuristic	heuristic algorithms
 city logistics	urban logistics
 last-mile logistics	last-mile delivery
+transport	transportation
+smart city	smart cities
