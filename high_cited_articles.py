@@ -1,40 +1,86 @@
-from collections import defaultdict, Counter
 import re
 
-# 读取文件
-with open('data/data.txt', 'r', encoding='utf-8') as file:
-    lines = file.readlines()
 
-# 统计文章标题被引次数
-title_citation_count = defaultdict(int)
-current_title = ""
-current_citations = 0
-is_title = False  # 标记是否正在读取标题
+def parse_records(file_path):
+    """解析WOS格式的文本文件，分割成独立记录"""
+    records = []
+    current_record = []
+    in_record = False
 
-# 正则表达式匹配两个大写字母和一个空格或制表符开头的行
-field_pattern = re.compile(r'^[A-Z]{2}[ \t]')
+    with open(file_path, 'r', encoding='utf-8') as file:
+        for line in file:
+            stripped_line = line.strip()
 
-for line in lines:
-    # 如果行以 TI 开头，开始读取标题
-    if line.startswith('TI'):
-        is_title = True
-        current_title = line.strip().split('TI ')[-1]  # 提取标题的第一部分
-    # 如果行以 TC 开头，提取被引次数
-    elif line.startswith('TC'):
-        current_citations = int(line.split()[-1])
-        # 将被引次数分配给当前文章标题
-        title_citation_count[current_title] += current_citations
-    # 如果正在读取标题，并且当前行不是新字段的开头，则拼接标题
-    elif is_title and not field_pattern.match(line):
-        current_title += " " + line.strip()
-    # 如果当前行是新字段的开头，则停止读取标题
-    elif field_pattern.match(line):
-        is_title = False
+            # 检测记录开始（PT字段）
+            if re.match(r'^PT\s', stripped_line):
+                if in_record:
+                    records.append(current_record)
+                current_record = [stripped_line]
+                in_record = True
+            # 检测记录结束（ER字段）
+            elif in_record and stripped_line == 'ER':
+                current_record.append(stripped_line)
+                records.append(current_record)
+                current_record = []
+                in_record = False
+            # 记录内容处理
+            elif in_record:
+                current_record.append(stripped_line)
 
-# 获取高频被引文章标题（例如前10个）
-top_titles = Counter(title_citation_count).most_common(10)
+    return records
 
-# 输出高频被引文章标题
-print("高频被引文章标题统计：")
-for title, citations in top_titles:
-    print(f"{title}: {citations} 次")
+
+def parse_record_fields(record_lines):
+    """解析单条记录的字段内容"""
+    data = {'TI': '', 'PY': 0, 'TC': 0}
+    current_field = None
+
+    for line in record_lines:
+        # 检测字段标识（如TI/PY/TC）
+        if re.match(r'^[A-Z]{1,2}\d?\s', line[:3]):
+            field_code = line[:2]
+            content = line[3:].strip()
+            current_field = field_code
+            if field_code in data:
+                data[field_code] = content
+        # 处理多行字段的延续内容
+        elif current_field in data:
+            data[current_field] += ' ' + line.strip()
+
+    # 数据类型转换
+    try:
+        data['PY'] = int(data['PY']) if data['PY'] else 0
+    except:
+        data['PY'] = 0
+
+    try:
+        data['TC'] = int(data['TC']) if data['TC'] else 0
+    except:
+        data['TC'] = 0
+
+    return {
+        'title': data['TI'],
+        'year': data['PY'],
+        'citations': data['TC']
+    }
+
+
+# 主程序
+if __name__ == '__main__':
+    # 读取文件并解析记录
+    records = parse_records('data/data.txt')  # 替换为你的文件路径
+
+    # 筛选并处理符合条件的记录
+    high_cited = []
+    for rec in records:
+        parsed = parse_record_fields(rec)
+        if parsed['year'] >= 2000 and parsed['citations'] > 0:
+            high_cited.append((parsed['title'], parsed['citations']))
+
+    # 按被引次数降序排序
+    high_cited_sorted = sorted(high_cited, key=lambda x: (-x[1], x[0]))[0:500]
+
+    # 打印结果
+    print("高频被引文章（2000年及以后）：")
+    for idx, (title, cites) in enumerate(high_cited_sorted, ):
+        print(f"{idx}. {title} | 被引次数：{cites}")

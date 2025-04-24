@@ -7,6 +7,7 @@ synonyms = {
                                 "unmanned aerial vehicles (uav)", "unmanned aerial vehicle (uav)", "uas",
                                 "unmanned aerial vehicle", "autonomous aerial vehicles"],
     "Traveling salesman problem": ["tsp", "traveling salesperson problem"],
+    "Delivery": ["Drone delivery"],
     "Vehicle routing problem": ["vrp", "vehicle route problem", "Vehicle routing"],
     "Optimization": ["optimisation", "optimalization"],  # 英式和美式拼写
     # 在这里添加更多同义词
@@ -43,21 +44,19 @@ for line in lines:
             standardized_keyword = synonym_to_standard.get(formatted_keyword.lower(), formatted_keyword)
             # 根据年份统计关键词
             if current_year is not None:
-                if current_year < 2020:
+                if current_year < 2021:
                     keyword_count_before_2015[standardized_keyword] += 1
                 else:
                     keyword_count_after_2015[standardized_keyword] += 1
 
 # 获取高频关键词（例如前20个）
-top_keywords_before_2015 = Counter(keyword_count_before_2015).most_common(20)
-top_keywords_after_2015 = Counter(keyword_count_after_2015).most_common(20)
+top_keywords_before_2015 = Counter(keyword_count_before_2015).most_common(15)
+top_keywords_after_2015 = Counter(keyword_count_after_2015).most_common(15)
 
-# 输出 2015 年前的高频关键词
-print("2015 年前高频关键词统计：")
+print("2020 年前高频关键词统计：")
 for keyword, count in top_keywords_before_2015:
     print(f"{keyword}: {count} 次")
 
-# 输出 2015 年后的高频关键词
-print("\n2015 年后高频关键词统计：")
+print("\n2021 年后高频关键词统计：")
 for keyword, count in top_keywords_after_2015:
     print(f"{keyword}: {count} 次")
