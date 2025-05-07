@@ -1,0 +1,835 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{WOS:000939165400001}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ad9674929b2c322a3a38f1495f84da83}{%
+           family={Arafat},
+           familyi={A\bibinitperiod},
+           given={Muhammad\bibnamedelima Yeasir},
+           giveni={M\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db1adc05975a2376f4003361cb1052a7}{%
+           family={Alam},
+           familyi={A\bibinitperiod},
+           given={Muhammad\bibnamedelima Morshed},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5ca6fbfbd0da38d8216d256415e788a0}{%
+           family={Moh},
+           familyi={M\bibinitperiod},
+           given={Sangman},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{65074bb7f14cb24acbbe7620b245da49}
+      \strng{fullhash}{65074bb7f14cb24acbbe7620b245da49}
+      \strng{bibnamehash}{65074bb7f14cb24acbbe7620b245da49}
+      \strng{authorbibnamehash}{65074bb7f14cb24acbbe7620b245da49}
+      \strng{authornamehash}{65074bb7f14cb24acbbe7620b245da49}
+      \strng{authorfullhash}{65074bb7f14cb24acbbe7620b245da49}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In recent years, unmanned aerial vehicles (UAVs), commonly known as drones, have gained increasing interest in both academia and industries. The evolution of UAV technologies, such as artificial intelligence, component miniaturization, and computer vision, has decreased their cost and increased availability for diverse applications and services. Remarkably, the integration of computer vision with UAVs provides cutting-edge technology for visual navigation, localization, and obstacle avoidance, making them capable of autonomous operations. However, their limited capacity for autonomous navigation makes them unsuitable for global positioning system (GPS)-blind environments. Recently, vision-based approaches that use cheaper and more flexible visual sensors have shown considerable advantages in UAV navigation owing to the rapid development of computer vision. Visual localization and mapping, obstacle avoidance, and path planning are essential components of visual navigation. The goal of this study was to provide a comprehensive review of vision-based UAV navigation techniques. Existing techniques have been categorized and extensively reviewed with regard to their capabilities and characteristics. Then, they are qualitatively compared in terms of various aspects. We have also discussed open issues and research challenges in the design and implementation of vision-based navigation techniques for UAVs.}
+      \field{journaltitle}{DRONES}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{Vision-Based Navigation Techniques for Unmanned Aerial Vehicles: Review and Challenges}
+      \field{type}{Review}
+      \field{volume}{7}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.3390/drones7020089
+      \endverb
+      \keyw{unmanned aerial vehicle; drone; computer vision; navigation; localization; mapping; obstacle avoidance; path planning}
+    \endentry
+    \entry{WOS001352081800001}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=d18739b0a9c8d317a6ac9dcfb47ae3be}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Wenwen},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=756fe13d082dc85b290b044577938f50}{%
+           family={Men},
+           familyi={M\bibinitperiod},
+           given={Yangchongyi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a88dd9671879b43e232a30280bbbcc1f}{%
+           family={Fuster},
+           familyi={F\bibinitperiod},
+           given={Noelia},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6173ef6007fe520fc659d07171679866}{%
+           family={Osorio},
+           familyi={O\bibinitperiod},
+           given={Celia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e619d495aa64ae99b3cc27016d26c405}{%
+           family={Juan},
+           familyi={J\bibinitperiod},
+           given={Angel\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{1b26a390316f53fc514749bd73e79603}
+      \strng{fullhash}{8f929882e95949260b355f29a8ab3bf3}
+      \strng{bibnamehash}{1b26a390316f53fc514749bd73e79603}
+      \strng{authorbibnamehash}{1b26a390316f53fc514749bd73e79603}
+      \strng{authornamehash}{1b26a390316f53fc514749bd73e79603}
+      \strng{authorfullhash}{8f929882e95949260b355f29a8ab3bf3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In recent years, the integration of artificial intelligence (AI) into logistics optimization has gained significant attention, particularly concerning sustainability criteria. This article provides an overview of the diverse AI models and algorithms employed in logistics optimization, with a focus on sustainable practices. The discussion covers several techniques, including generative models, machine learning methods, metaheuristic algorithms, and their synergistic combinations with traditional optimization and simulation methods. By employing AI capabilities, logistics stakeholders can enhance decision-making processes, optimize resource utilization, and minimize environmental impacts. Moreover, this paper identifies and analyzes prominent challenges within sustainable logistics, such as reducing carbon emissions, minimizing waste generation, and optimizing transportation routes while considering ecological factors. Furthermore, the paper explores emerging trends in AI-driven logistics optimization, such as the integration of real-time data analytics, blockchain technology, and autonomous systems, which hold immense potential for enhancing efficiency and sustainability. Finally, the paper outlines future research directions, emphasizing the need for further exploration of hybrid AI approaches, robust optimization frameworks, and scalable solutions that accommodate dynamic and uncertain logistics environments.}
+      \field{journaltitle}{SUSTAINABILITY}
+      \field{month}{11}
+      \field{number}{21}
+      \field{title}{Artificial Intelligence in Logistics Optimization with Sustainable Criteria: A Review}
+      \field{type}{Review}
+      \field{volume}{16}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.3390/su16219145
+      \endverb
+      \keyw{logistics; artificial intelligence; sustainability; optimization}
+    \endentry
+    \entry{WOS:001262605900001}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=b7bec888d01dabe96e787d70156faecb}{%
+           family={Jahani},
+           familyi={J\bibinitperiod},
+           given={Hamed},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f3910372ed733fcbd999202ae4fbbf1a}{%
+           family={Khosravi},
+           familyi={K\bibinitperiod},
+           given={Yunes},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2b8ca68e189b093ed2557d8fbe108dc2}{%
+           family={Kargar},
+           familyi={K\bibinitperiod},
+           given={Bahareh},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6e7a229a7ab5627b567174a65e8f002}{%
+           family={Ong},
+           familyi={O\bibinitperiod},
+           given={Kok-Leong},
+           giveni={K\bibinithyphendelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=16b9ccdceb6508dfe3ad9db44d200a88}{%
+           family={Arisian},
+           familyi={A\bibinitperiod},
+           given={Sobhan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND}%
+      }
+      \list{publisher}{1}{%
+        {TAYLOR \& FRANCIS LTD}%
+      }
+      \strng{namehash}{8fca5bc6111848584cb9a57d92d5660e}
+      \strng{fullhash}{0dcc212782fa4b3eb6f38f163b287a69}
+      \strng{bibnamehash}{8fca5bc6111848584cb9a57d92d5660e}
+      \strng{authorbibnamehash}{8fca5bc6111848584cb9a57d92d5660e}
+      \strng{authornamehash}{8fca5bc6111848584cb9a57d92d5660e}
+      \strng{authorfullhash}{0dcc212782fa4b3eb6f38f163b287a69}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Drones and Unmanned Aerial Vehicles (UAVs) have evolved into advanced instruments with diverse applications within the Logistics and Supply Chain (LSC) sector. Our study uncovers a significant disparity highlighted through an examination of recent review papers, indicating a deficiency in a thorough examination of the applications of drones/UAVs across the entirety of supply chains. Due to the abundance of publications in this field, a fresh analytical approach is required. Employing a novel text mining approach, qualitative assessments, and temporal trend analysis, we examine a dataset encompassing 5364 papers from Scopus spanning the years 1978 to 2023. By employing the Latent Dirichlet Allocation (LDA) model, we identify ten distinct research topics within the domain. Our findings suggest four promising future research directions: (1) fostering sustainable SCs through innovative drone-based solutions, (2) harnessing emerging technologies to achieve global scalability within drone-based SCs, (3) exploring the applications of drone-based supply chains in pandemic control efforts, and (4) integrating drone-based logistics with multimodal transportation for efficient traffic management. These directions provide valuable insights on the integration of drone-based transportation within existing and future supply chains, suggesting potential pathways for advancing production and logistics systems research.}
+      \field{issn}{0020-7543}
+      \field{journaltitle}{INTERNATIONAL JOURNAL OF PRODUCTION RESEARCH}
+      \field{month}{3}
+      \field{number}{5}
+      \field{title}{Exploring the role of drones and UAVs in logistics and supply chain management: a novel text-based literature review}
+      \field{type}{Review}
+      \field{volume}{63}
+      \field{year}{2025}
+      \field{pages}{1873\bibrangedash 1897}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1080/00207543.2024.2373425
+      \endverb
+      \keyw{Drone delivery; unmanned aerial vehicles (UAVs); logistics; supply chain management; literature review; SDG 9: Industry; innovation and infrastructure}
+    \endentry
+    \entry{WOS:001160422800001}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=3d1b4595fbf6d88810e499f50f0d3885}{%
+           family={Jazairy},
+           familyi={J\bibinitperiod},
+           given={Amer},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=97e5427ca23ebeebf186594ea59ae6a3}{%
+           family={Persson},
+           familyi={P\bibinitperiod},
+           given={Emil},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aaa040265a44bf1cd9e5729869484f1b}{%
+           family={Brho},
+           familyi={B\bibinitperiod},
+           given={Mazen},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=318703d98ee73836e8ff954dff81c12b}{%
+           family={Haartman},
+           familyi={H\bibinitperiod},
+           given={Robin},
+           giveni={R\bibinitperiod},
+           givenun=0,
+           prefix={von},
+           prefixi={v\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=7a8a0317e2f0b5511bba2f3ec4646fe1}{%
+           family={Hilletofth},
+           familyi={H\bibinitperiod},
+           given={Per},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {Floor 5, Northspring 21-23 Wellington Street, Leeds, W YORKSHIRE, ENGLAND}%
+      }
+      \list{publisher}{1}{%
+        {EMERALD GROUP PUBLISHING LTD}%
+      }
+      \strng{namehash}{4dfd5f020f17132c8aa818266331b78a}
+      \strng{fullhash}{0753c3a9f20a04536a47d11b4bb840e5}
+      \strng{bibnamehash}{4dfd5f020f17132c8aa818266331b78a}
+      \strng{authorbibnamehash}{4dfd5f020f17132c8aa818266331b78a}
+      \strng{authornamehash}{4dfd5f020f17132c8aa818266331b78a}
+      \strng{authorfullhash}{0753c3a9f20a04536a47d11b4bb840e5}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Purpose-This study presents a systematic literature review (SLR) of the interdisciplinary literature on drones in last-mile delivery (LMD) to extrapolate pertinent insights from and into the logistics management field. Design/methodology/approach-Rooting their analytical categories in the LMD literature, the authors performed a deductive, theory refinement SLR on 307 interdisciplinary journal articles published during 2015-2022 to integrate this emergent phenomenon into the field. Findings-The authors derived the potentials, challenges and solutions of drone deliveries in relation to 12 LMD criteria dispersed across four stakeholder groups: senders, receivers, regulators and societies. Relationships between these criteria were also identified. Research limitations/implications-This review contributes to logistics management by offering a current, nuanced and multifaceted discussion of drones' potential to improve the LMD process together with the challenges and solutions involved. Practical implications-The authors provide logistics managers with a holistic roadmap to help them make informed decisions about adopting drones in their delivery systems. Regulators and society members also gain insights into the prospects, requirements and repercussions of drone deliveries. Originality/value-This is one of the first SLRs on drone applications in LMD from a logistics management perspective.}
+      \field{issn}{0957-4093}
+      \field{journaltitle}{INTERNATIONAL JOURNAL OF LOGISTICS MANAGEMENT}
+      \field{month}{2}
+      \field{number}{7}
+      \field{title}{Drones in last-mile delivery: a systematic literature review from a logistics management perspective}
+      \field{type}{Review}
+      \field{volume}{36}
+      \field{year}{2024}
+      \field{pages}{1\bibrangedash 62}
+      \range{pages}{62}
+      \verb{doi}
+      \verb 10.1108/IJLM-04-2023-0149
+      \endverb
+      \keyw{Unmanned aerial vehicle; Freight; Distribution; Parcel delivery; E-commerce}
+    \endentry
+    \entry{WOS:001323645000001}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=8353546edc68375c9341941667119727}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Kyunga},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a660aebf83a9744a4542279b11e77d5b}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Songi},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ef396b223f8d95eb4ae4c7403b109e59}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Junsu},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f47fe3e45e65f6bf49bcfb6ad62ba6b9}{%
+           family={Jung},
+           familyi={J\bibinitperiod},
+           given={Hosang},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{6ff9a29ef7793013be0c31a0174f0f50}
+      \strng{fullhash}{c57fa94718f0d9bcb8d5435ea1d28e3e}
+      \strng{bibnamehash}{6ff9a29ef7793013be0c31a0174f0f50}
+      \strng{authorbibnamehash}{6ff9a29ef7793013be0c31a0174f0f50}
+      \strng{authornamehash}{6ff9a29ef7793013be0c31a0174f0f50}
+      \strng{authorfullhash}{c57fa94718f0d9bcb8d5435ea1d28e3e}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This study explores the evolving trends and research issues in the field of drone-assisted multimodal logistics over the past two decades. By employing various text-mining techniques on related research publications, we identify the most frequently investigated topics and research issues within this domain. Specifically, we utilize titles, abstracts, and keywords from the collected studies to perform both Latent Dirichlet Allocation techniques and Term Frequency-Inverse Document Frequency analysis, which help in identifying latent topics and the core research themes within the field. Our analysis focuses on three primary categories of drone-assisted logistics: drone-truck, drone-ship, and drone-robot systems. The study aims to uncover which latent topics have been predominantly emphasized in each category and to highlight the distinct differences in research focuses among them. Our findings reveal specific trends and gaps in the existing literature, providing a clear roadmap for future research directions in drone-assisted multimodal logistics. This targeted analysis not only enhances our understanding of the current state of the field but also identifies critical areas that require further investigation to advance the application of drones in logistics.}
+      \field{journaltitle}{DRONES}
+      \field{month}{9}
+      \field{number}{9}
+      \field{title}{Drone-Assisted Multimodal Logistics: Trends and Research Issues}
+      \field{type}{Review}
+      \field{volume}{8}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.3390/drones8090468
+      \endverb
+      \keyw{drones; multimodal logistics; Latent Dirichlet Allocation; Term Frequency-Inverse Document Frequency}
+    \endentry
+    \entry{WOS:000693009900004}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=a897d1dd9f6bf9e2bd12e713465609a3}{%
+           family={Larina},
+           familyi={L\bibinitperiod},
+           given={Irina\bibnamedelima Vyacheslavovna},
+           giveni={I\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=de8b1908c17ec6bafbac8b9e560b3e31}{%
+           family={Larin},
+           familyi={L\bibinitperiod},
+           given={Andrey\bibnamedelima Nikolaevich},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d233f617434834747f93f523c9a84b1e}{%
+           family={Kiriliuk},
+           familyi={K\bibinitperiod},
+           given={Olga},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=81a5f72d232b3b5e2d9fc0dbd28003cd}{%
+           family={Ingaldi},
+           familyi={I\bibinitperiod},
+           given={Manuela},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {GENTHINER STRASSE 13, D-10785 BERLIN, GERMANY}%
+      }
+      \list{publisher}{1}{%
+        {WALTER DE GRUYTER GMBH}%
+      }
+      \strng{namehash}{339d0f725047ad180a2756487c8a85ac}
+      \strng{fullhash}{6b0548fb78df1bf0e21e8db2e1a7aa14}
+      \strng{bibnamehash}{339d0f725047ad180a2756487c8a85ac}
+      \strng{authorbibnamehash}{339d0f725047ad180a2756487c8a85ac}
+      \strng{authornamehash}{339d0f725047ad180a2756487c8a85ac}
+      \strng{authorfullhash}{6b0548fb78df1bf0e21e8db2e1a7aa14}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Green logistics is the part of the activities of an enterprise aimed at measuring and minimizing the impact of logistics activities on the environment. Such actions are dictated by the possibility of achieving a competitive advantage in the market, because clients require it. Transport is a particularly important area with a huge impact on the environment, because it is identified as the fastest growing source of greenhouse gas emissions. Green transport is low-emission and ecological travelling mode. The goals of green transport are not only to reduce greenhouse gas emissions, air pollution, noise and space use, but also to reduce poverty and promote economic growth. Transport is considered green when it supports environmental sustainability, but also supports the other two pillars of sustainable development, i.e. economic and social. This paper discusses the application of the concept of ``green{''} logistics and ``green{''} technologies in transport in the transportation process. The modem requirements for transport in the field of environmental safety and compliance with environmental requirements both on the part of customers and on the part of states are considered.}
+      \field{issn}{2353-5156}
+      \field{journaltitle}{PRODUCTION ENGINEERING ARCHIVES}
+      \field{month}{9}
+      \field{number}{3}
+      \field{title}{Green logistics - modern transportation process technology}
+      \field{type}{Article}
+      \field{volume}{27}
+      \field{year}{2021}
+      \field{pages}{184\bibrangedash 190}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.30657/pea.2021.27.24
+      \endverb
+      \keyw{green logistics; technology; green transport; sustainable development; SDGs}
+    \endentry
+    \entry{WOS:000999662500001}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=b1fba1c93aa8687c290189ac16f56a48}{%
+           family={Law},
+           familyi={L\bibinitperiod},
+           given={Christopher\bibnamedelima Tejun},
+           giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56e56e186b4b03f3de881883bf59e322}{%
+           family={Moenig},
+           familyi={M\bibinitperiod},
+           given={Catharina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6b46c519c6b6b8971395ec273573b7e5}{%
+           family={Jeilani},
+           familyi={J\bibinitperiod},
+           given={Hammad},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6858e60109625ebb37c8258199a55f0f}{%
+           family={Jeilani},
+           familyi={J\bibinitperiod},
+           given={Milad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ebe4b143a18666bc930eb41efa946748}{%
+           family={Young},
+           familyi={Y\bibinitperiod},
+           given={Tony},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND}%
+      }
+      \list{publisher}{1}{%
+        {BMJ PUBLISHING GROUP}%
+      }
+      \strng{namehash}{25c1f0aaa599418483077fed978740a6}
+      \strng{fullhash}{1792b4ec8c623c4d02cb8d321e00eaa2}
+      \strng{bibnamehash}{25c1f0aaa599418483077fed978740a6}
+      \strng{authorbibnamehash}{25c1f0aaa599418483077fed978740a6}
+      \strng{authornamehash}{25c1f0aaa599418483077fed978740a6}
+      \strng{authorfullhash}{1792b4ec8c623c4d02cb8d321e00eaa2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Drones have been pioneered and used in the military, however, only recently non-military drones have been introduced. The COVID-19 pandemic has brought into focus the potential value of drones in moving medical supplies. With the onset of social distancing policies and quarantine regulations, the efficiency of traditional logistics systems has been limited. Several companies have recently accelerated their development in this domain, conducting pilot projects at pace, paving the way for the future of the medical logistics supply chain. In this review, we examine both narrative and grey literature for in and out of hospital settings, in order to describe the current state of drone technology in healthcare around the world and some of the most cutting-edge examples of how drones can benefits patients, clinicians and the wider public. We investigate the economic viability and barriers to adopting drones at scale which include regulatory hurdles, public perception and safety of drone technologies, and propose how to overcome these challenges. Further work should look at quantifying the impact and outcomes of how such a service could impact the health outcomes of patients and clinical efficiency. This review aims to equip the National Health Service and more broadly other healthcare systems around the world with the tools to embrace and implement this novel and upcoming technology.}
+      \field{issn}{2055-8074}
+      \field{journaltitle}{BMJ INNOVATIONS}
+      \field{month}{7}
+      \field{number}{3}
+      \field{title}{Transforming healthcare logistics and evaluating current use cases of UAVs (drones) as a method of transportation in healthcare to generate recommendations for the NHS to use drone technology at scale: a narrative review}
+      \field{type}{Review}
+      \field{volume}{9}
+      \field{year}{2023}
+      \field{pages}{150\bibrangedash 164}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1136/bmjinnov-2021-000861
+      \endverb
+      \keyw{Health; Delivery of Health Care; Environment; Health Care Economics and Organizations; Health Care Quality; Access; and Evaluation}
+    \endentry
+    \entry{WOS:001404731600001}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=748f91f66774bc8e4bd42ab20e1faad8}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yineng},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d7a3aa75b628c8339911fd669b2e68d}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Qinghua},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c9edc2464f290d321fa154c369963b98}{%
+           family={Shao},
+           familyi={S\bibinitperiod},
+           given={Chen},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=80d5dec143dd4977045aa40e3c2c42a2}{%
+           family={Zhuo},
+           familyi={Z\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1023e274e612e693459f729f3e62768f}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Bowen},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d5ca0aa162ca4817e2f17e329d188c72}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Kecheng},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{886be1cc8b5d392d9c3b18f3510b512b}
+      \strng{fullhash}{03766ce8630eec07a9a042d08906761b}
+      \strng{bibnamehash}{886be1cc8b5d392d9c3b18f3510b512b}
+      \strng{authorbibnamehash}{886be1cc8b5d392d9c3b18f3510b512b}
+      \strng{authornamehash}{886be1cc8b5d392d9c3b18f3510b512b}
+      \strng{authorfullhash}{03766ce8630eec07a9a042d08906761b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The low-altitude economy heavily relies on new carriers represented by unmanned aerial vehicles (UAVs). The localization accuracy of UAVs highly relies on the Global Navigation Satellite System (GNSS), which can be easily affected in low-altitude urban environments, making it difficult to maintain effective localization accuracy. To solve this problem, this paper proposes a UAV autonomous localization method with keypoints on the edges of semantic objects (KESO). Firstly, semantic objects within the working area are selected, and then the latitude, longitude, and altitude of these semantic objects' keypoints are measured to construct a database. By identifying the semantic objects from aerial images and detecting the edge of the semantic objects, the keypoints of the semantic objects are obtained. Finally, by matching the detected keypoints in the aerial images with the keypoints in the database, the UAV's position can achieve a high-precision position when satellite signals are blocked in low-altitude urban environments. As verified by real flight data, the results show that the localization error is less than 5 m, and the edges of objects can obtain more accurate keypoints to help UAVs locate more accurately. This paper can provide a reference for UAV localization in the urban environments of the low-altitude economy.}
+      \field{journaltitle}{DRONES}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{UAV Localization Method with Keypoints on the Edges of Semantic Objects for Low-Altitude Economy}
+      \field{type}{Article}
+      \field{volume}{9}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.3390/drones9010014
+      \endverb
+      \keyw{unmanned aerial vehicle; low-altitude urban environments; semantic objects; keypoints on the edges; low-altitude economy}
+    \endentry
+    \entry{WOS:000693999200007}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6e8369eca887d65b1a76d0a7e5486954}{%
+           family={Moshref-Javadi},
+           familyi={M\bibinithyphendelim J\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b2e99e1569e078e5688ae0cffee9dec8}{%
+           family={Winkenbach},
+           familyi={W\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND}%
+      }
+      \list{publisher}{1}{%
+        {PERGAMON-ELSEVIER SCIENCE LTD}%
+      }
+      \strng{namehash}{4be4268c96fe288530e2675e1df4ec47}
+      \strng{fullhash}{4be4268c96fe288530e2675e1df4ec47}
+      \strng{bibnamehash}{4be4268c96fe288530e2675e1df4ec47}
+      \strng{authorbibnamehash}{4be4268c96fe288530e2675e1df4ec47}
+      \strng{authornamehash}{4be4268c96fe288530e2675e1df4ec47}
+      \strng{authorfullhash}{4be4268c96fe288530e2675e1df4ec47}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The operational design and planning of drone-based logistics models is a rapidly growing area of scientific research. In this paper, we present a structured, comprehensive, and scalable framework for classifying drone-based delivery systems and their associated routing problems along with a comprehensive review and synthesis of the extant academic literature in this domain. While our proposed classification defines the boundaries and facilitates the comparison between a wide variety of possible drone-based logistics systems, our comprehensive literature review helps to identify and prioritize research gaps that need to be addressed by future work. Our review shows that the extant research reasonably considers some relevant real-world operational constraints. Although the multi-visit multi-drone Pure-play Drone-based (PD) delivery models are popular, the majority of the Synchronized Multi-modal (SM) delivery models focus on formulating and evaluating single-truck, single-drone models. Moreover, the Resupply Multi-modal (RM) models have not received the due attention for research compared to other drone-based delivery models. Our comprehensive review of use cases of drones for delivery indicates that most of the reviewed models are designed for applications in e-commerce and healthcare/ emergency services. Other applications, such as food and mail deliveries are still underrepresented in the academic discussion.}
+      \field{issn}{0957-4174}
+      \field{journaltitle}{EXPERT SYSTEMS WITH APPLICATIONS}
+      \field{month}{9}
+      \field{title}{Applications and Research avenues for drone-based models in logistics: A classification and review}
+      \field{type}{Review}
+      \field{volume}{177}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1016/j.eswa.2021.114854
+      \endverb
+      \keyw{Drone logistics; Routing optimization; Last-mile delivery; Unmanned aerial vehicle}
+    \endentry
+    \entry{WOS:001140699200001}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=f84d55f742ac91675f7fa5af86a5c1e9}{%
+           family={Seidaliyeva},
+           familyi={S\bibinitperiod},
+           given={Ulzhalgas},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=782240a64ff58fa66728d534d564f29a}{%
+           family={Ilipbayeva},
+           familyi={I\bibinitperiod},
+           given={Lyazzat},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f136bf69b671336ca4f4a15621db9a78}{%
+           family={Taissariyeva},
+           familyi={T\bibinitperiod},
+           given={Kyrmyzy},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1eb1383342174d8812c34abe7582c936}{%
+           family={Smailov},
+           familyi={S\bibinitperiod},
+           given={Nurzhigit},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac5cff6e1094767e93adb227f9a25cc4}{%
+           family={Matson},
+           familyi={M\bibinitperiod},
+           given={Eric\bibnamedelima T.},
+           giveni={E\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{a070318dfcbba3bde684313d123d40b2}
+      \strng{fullhash}{87ddffa33c09cfdcbdde434fc3b1cbf1}
+      \strng{bibnamehash}{a070318dfcbba3bde684313d123d40b2}
+      \strng{authorbibnamehash}{a070318dfcbba3bde684313d123d40b2}
+      \strng{authornamehash}{a070318dfcbba3bde684313d123d40b2}
+      \strng{authorfullhash}{87ddffa33c09cfdcbdde434fc3b1cbf1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The fast development of unmanned aerial vehicles (UAVs), commonly known as drones, has brought a unique set of opportunities and challenges to both the civilian and military sectors. While drones have proven useful in sectors such as delivery, agriculture, and surveillance, their potential for abuse in illegal airspace invasions, privacy breaches, and security risks has increased the demand for improved detection and classification systems. This state-of-the-art review presents a detailed overview of current improvements in drone detection and classification techniques: highlighting novel strategies used to address the rising concerns about UAV activities. We investigate the threats and challenges faced due to drones' dynamic behavior, size and speed diversity, battery life, etc. Furthermore, we categorize the key detection modalities, including radar, radio frequency (RF), acoustic, and vision-based approaches, and examine their distinct advantages and limitations. The research also discusses the importance of sensor fusion methods and other detection approaches, including wireless fidelity (Wi-Fi), cellular, and Internet of Things (IoT) networks, for improving the accuracy and efficiency of UAV detection and identification.}
+      \field{journaltitle}{SENSORS}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Advances and Challenges in Drone Detection and Classification Techniques: A State-of-the-Art Review}
+      \field{type}{Review}
+      \field{volume}{24}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.3390/s24010125
+      \endverb
+      \keyw{unmanned aerial vehicles (UAVs); UAV detection; drone detection; drone identification; UAV identification; UAV classification; drone classification; drone localization; detection technologies; radio frequency (RF); radar; acoustic; visual; sensor fusion; drone incidents; drone threats; machine learning based drone detection; deep learning based UAV identification}
+    \endentry
+    \entry{WOS:001055864000001}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=6736fe87de681e0ca380d0d147d1d8b9}{%
+           family={Telli},
+           familyi={T\bibinitperiod},
+           given={Khaled},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2fc8e2c298b4525be413ddf232a0df1c}{%
+           family={Kraa},
+           familyi={K\bibinitperiod},
+           given={Okba},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd82de77d935c113f6f640199d9ad02e}{%
+           family={Himeur},
+           familyi={H\bibinitperiod},
+           given={Yassine},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f96b53ddb975404ed6da8bc2dd746e75}{%
+           family={Ouamane},
+           familyi={O\bibinitperiod},
+           given={Abdelmalik},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56f8d07f75c90e7fa18e306f1d180b6c}{%
+           family={Boumehraz},
+           familyi={B\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d6c9067c643fccaae14abbeea4c2925b}{%
+           family={Atalla},
+           familyi={A\bibinitperiod},
+           given={Shadi},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8ee45e775755eefaeaff26b86d0e695a}{%
+           family={Mansoor},
+           familyi={M\bibinitperiod},
+           given={Wathiq},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{5b3f474322809551a74031a4dda5b46a}
+      \strng{fullhash}{067d6334d201a1eef35cac878a02132b}
+      \strng{bibnamehash}{5b3f474322809551a74031a4dda5b46a}
+      \strng{authorbibnamehash}{5b3f474322809551a74031a4dda5b46a}
+      \strng{authornamehash}{5b3f474322809551a74031a4dda5b46a}
+      \strng{authorfullhash}{067d6334d201a1eef35cac878a02132b}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The growing interest in unmanned aerial vehicles (UAVs) from both the scientific and industrial sectors has attracted a wave of new researchers and substantial investments in this expansive field. However, due to the wide range of topics and subdomains within UAV research, newcomers may find themselves overwhelmed by the numerous options available. It is therefore crucial for those involved in UAV research to recognize its interdisciplinary nature and its connections with other disciplines. This paper presents a comprehensive overview of the UAV field, highlighting recent trends and advancements. Drawing on recent literature reviews and surveys, the review begins by classifying UAVs based on their flight characteristics. It then provides an overview of current research trends in UAVs, utilizing data from the Scopus database to quantify the number of scientific documents associated with each research direction and their interconnections. This paper also explores potential areas for further development in UAVs, including communication, artificial intelligence, remote sensing, miniaturization, swarming and cooperative control, and transformability. Additionally, it discusses the development of aircraft control, commonly used control techniques, and appropriate control algorithms in UAV research. Furthermore, this paper addresses the general hardware and software architecture of UAVs, their applications, and the key issues associated with them. It also provides an overview of current open source software and hardware projects in the UAV field. By presenting a comprehensive view of the UAV field, this paper aims to enhance our understanding of this rapidly evolving and highly interdisciplinary area of research.}
+      \field{journaltitle}{SYSTEMS}
+      \field{month}{8}
+      \field{number}{8}
+      \field{title}{A Comprehensive Review of Recent Research Trends on Unmanned Aerial Vehicles (UAVs)}
+      \field{type}{Review}
+      \field{volume}{11}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.3390/systems11080400
+      \endverb
+      \keyw{UAV; drone; research direction; open source projects; flight control; last three years; open projects; development; antennas; AI; ChatGPT}
+    \endentry
+    \entry{WOS:001139514900001}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=06754961159124491086d3c9f6f5ea90}{%
+           family={Yusaf},
+           familyi={Y\bibinitperiod},
+           given={Talal},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36e23b24b3f8575cd0a4a32bfc45c99b}{%
+           family={Mahamude},
+           familyi={M\bibinitperiod},
+           given={Abu\bibnamedelimb Shadate\bibnamedelima Faisal},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec1d3e7a60f5eb57821ba5a03ac17374}{%
+           family={Kadirgama},
+           familyi={K\bibinitperiod},
+           given={Kumaran},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5ffbbfdc31d917eb7f54d378f35af1ac}{%
+           family={Ramasamy},
+           familyi={R\bibinitperiod},
+           given={Devarajan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8a04d3b78241d5200404311d7333c76}{%
+           family={Farhana},
+           familyi={F\bibinitperiod},
+           given={Kaniz},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a73bfaea13ee913db6eb4eaa765f1ac}{%
+           family={Dhahad},
+           familyi={D\bibinitperiod},
+           given={Hayder\bibnamedelima A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=01750e318104cf6a6b0449033ea5ff83}{%
+           family={Talib},
+           familyi={T\bibinitperiod},
+           given={A.\bibnamedelimi B.\bibnamedelimi D.\bibnamedelimi Rahim\bibnamedelima Abu},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND}%
+      }
+      \list{publisher}{1}{%
+        {PERGAMON-ELSEVIER SCIENCE LTD}%
+      }
+      \strng{namehash}{7695d3d2a3ad9ed26118f069577d6755}
+      \strng{fullhash}{a6bce8ad17f6ed696821dd469b7f976a}
+      \strng{bibnamehash}{7695d3d2a3ad9ed26118f069577d6755}
+      \strng{authorbibnamehash}{7695d3d2a3ad9ed26118f069577d6755}
+      \strng{authornamehash}{7695d3d2a3ad9ed26118f069577d6755}
+      \strng{authorfullhash}{a6bce8ad17f6ed696821dd469b7f976a}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In the modern world, zero-carbon society has become a new buzzword of the era. Many projects have been initiated to develop alternatives not only to the environmental crisis but also to the shortage of fossil fuels. With successful projects in automobile technology, hydrogen fuel is now being tested and utilized as a sustainable green fuel in the aviation sector which will lead to zero carbon emission in the future. From the mid-20th century to the early 21st numerous countries and companies have funded multimillion projects to develop hydrogen-fueled aircraft. Empirical data show positive results for various projects. Consequently, large companies are investing in various innovations undertaken by re-searchers under their supervision. Over time, the efficiency of hydrogen-fueled aircraft has improved but the lack of refueling stations, large production cost, and consolidated carbon market share have impeded the path of hydrogen fuel being commercialized. In addition, the Unmanned Aerial Vehicle (UAV) is another important element of the Aviation industry, Hydrogen started to be commonly used as an alternative fuel for heavy-duty drones using fuel cell technology. The purpose of this paper is to provide an overview of the chrono-logical development of hydrogen-powered aircraft technology and potential aviation ap-plications for hydrogen and fuel cell technology. Furthermore, the major barriers to widespread adoption of hydrogen technology in aviation are identified, as are future research opportunities.(c) 2023 The Authors. Published by Elsevier Ltd on behalf of Hydrogen Energy Publications LLC. This is an open access article under the CC BY-NC-ND license (http:// creativecommons.org/licenses/by-nc-nd/4.0/).}
+      \field{issn}{0360-3199}
+      \field{journaltitle}{INTERNATIONAL JOURNAL OF HYDROGEN ENERGY}
+      \field{month}{1}
+      \field{number}{C}
+      \field{title}{Sustainable hydrogen energy in aviation - A narrative review}
+      \field{type}{Article}
+      \field{volume}{52}
+      \field{year}{2024}
+      \field{pages}{1026\bibrangedash 1045}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1016/j.ijhydene.2023.02.086
+      \endverb
+      \keyw{Hydrogen; Aircraft; Fuel cell; Engine}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

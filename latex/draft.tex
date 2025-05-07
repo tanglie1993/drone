@@ -2,6 +2,8 @@
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath}
 \usepackage{graphicx}
+\usepackage[style=authoryear, backend=biber]{biblatex} % 使用biblatex
+\addbibresource{references.bib} % 确保你的.bib文件名称正确
 
 \title{Your Title Here}
 \author{Your Name}
@@ -12,7 +14,19 @@
 \maketitle
 
 \section{Introduction}
-This is the introduction section
+
+  Modern logistics has evolved into a vital enabler of global economic integration, facilitating the seamless flow of goods across production, distribution, and consumption networks. Driven by technological innovation and sustainability imperatives, the industry is undergoing transformative shifts. Recent advancements emphasize the integration of automation and artificial intelligence, with smart warehouses and real-time tracking systems significantly enhancing operational efficiency (\cite{WOS001352081800001}). Concurrently, green logistics initiatives are reshaping traditional practices, prioritizing energy-efficient transportation and recyclable materials to align with global environmental goals (\cite{WOS:000693009900004}).
+
+Drone technology has achieved significant breakthroughs in autonomous navigation and operational capabilities through recent advancements. Modern systems employ multi-sensor fusion architectures combining LiDAR, visual SLAM, and millimeter-wave radar to achieve centimeter-level positioning accuracy in GNSS-denied environments  (\cite{WOS:001140699200001}). The introduction of hydrogen fuel cells have significantly extended operational endurance, overcoming traditional limitations while maintaining eco-friendly profiles  (\cite{WOS:001139514900001}).
+
+Artificial intelligence has revolutionized drone capabilities, empowering intelligent swarm coordination and real-time environmental adaptation. Vision-based navigation techniques enable dynamic route optimization and obstacle avoidance, particularly valuable for tasks like precision agriculture and infrastructure inspection  (\cite{WOS:000939165400001}). Communication breakthroughs, such as 5G-enabled edge computing, provide ultra-low latency control essential for beyond visual line of sight operations and urban air mobility networks  (\cite{WOS:001055864000001}).
+
+Drone technology is reshaping logistics paradigms by introducing aerial solutions to longstanding terrestrial constraints. Unlike conventional delivery methods constrained by road infrastructure, drones leverage low-altitude airspace to establish direct point-to-point connections. This capability proves transformative for last-mile delivery, particularly in geographically challenging regions where traditional transport faces inefficiencies (\cite{WOS:001404731600001}).  By integrating multi-sensor navigation systems and hybrid propulsion technologies, drones enable time-sensitive pharmaceutical deliveries to remote clinics, emergency parts distribution for offshore wind farms, and precision inventory management in smart warehouses (\cite{WOS:001262605900001}). Their ability to bypass terrestrial bottlenecks complements existing logistics networks, creating layered delivery ecosystems where aerial routes dynamically adjust to real-time demand fluctuations. This shift not only addresses critical gaps in rural and urban last-mile logistics but also drives sustainable practices through energy-efficient operations, positioning drones as catalytic enablers for next-generation supply chain resilience.
+
+In the field of drone logistics, literature reviews also play a critical role in synthesizing interdisciplinary advancements, identifying operational gaps, and guiding future research. For instance, Kim et al. (\cite{WOS:001323645000001}) employs text-mining techniques to map two decades of research in drone-assisted multimodal logistics, revealing distinct emphases in drone-truck, drone-ship, and drone-robot systems while highlighting latent topics like energy efficiency and regulatory alignment. Moshref-Javadi and Winkenbach’s framework highlights systemic gaps in multi-drone coordination and resupply dynamics, revealing a disconnect between academic focus on single-drone systems and real-world requirements for complex fleet coordination  (\cite{WOS:000693999200007}). Jazairy et al.’s systematic review bridges logistics management and technical research by evaluating drone potentials across 12 last-mile criteria, such as payload adaptability and noise reduction, while proposing stakeholder-specific solutions like privacy-preserving geofencing for regulators (\cite{WOS:001160422800001}).Jahani et al.’s  review employs text-mining to map drone applications across supply chains, identifying critical gaps in holistic integration studies. Their analysis reveals emerging priorities like sustainable logistics networks and multimodal traffic coordination, while emphasizing the need for pandemic-responsive delivery frameworks (\cite{WOS:001262605900001}).  Law et al.’s review evaluates drone applications in healthcare logistics, emphasizing their transformative potential in crisis response while identifying key barriers such as regulatory fragmentation and public trust  (\cite{WOS:000999662500001}).  
+
+Bibliometrics, which employs quantitative methods to analyze research trends and knowledge structures across disciplines, has become pivotal in mapping technological innovations like drone applications. A seminal study by Fayyad et al. (2025) A Scientometric Analysis of Drone-Based Structural Health Monitoring and New Technologies identifies four research clusters in drone-enabled infrastructure monitoring, emphasizing AI integration and automation gaps while projecting breakthroughs in digital twins and robotics. Rejeb et al. (2022) in Drones in Agriculture: A Review and Bibliometric Analysis reveal dominant themes like precision farming and IoT integration, highlighting remote sensing and deep learning as key drivers reshaping agricultural efficiency. Similarly, Iqbal et al. (2023) in Drones for Flood Monitoring, Mapping and Detection map global research trajectories through bibliometric networks, stressing computer vision and real-time data fusion as critical for enhancing disaster response frameworks. For forestry applications, da Silva et al. (2024) in Using Drones for Dendrometric Estimations demonstrate UAVs' superiority over traditional methods in measuring tree height and biomass, with RGB sensors emerging as the primary tool for cost-effective forest management. These studies collectively underscore bibliometrics' role in crystallizing interdisciplinary advancements, identifying implementation barriers (e.g., regulatory fragmentation in healthcare logistics), and prioritizing future research directions like sustainable multimodal integration and AI-driven scalability.
+
 
 \section{Methods}
 This section describes the methods used
@@ -26,7 +40,8 @@ This section discusses the results
 \section{Conclusion}
 This is the conclusion section
 
-\bibliographystyle{plain}
-\bibliography{references}
+\printbibliography
+
+
 
 \end{document}
