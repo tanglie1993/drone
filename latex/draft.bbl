@@ -141,6 +141,137 @@
       \endverb
       \keyw{logistics; artificial intelligence; sustainability; optimization}
     \endentry
+    \entry{WOS:001229751500001}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=6f6a26f4ba0a1f2db9b33607e3aa3905}{%
+           family={Fayyad},
+           familyi={F\bibinitperiod},
+           given={Tahreer\bibnamedelima M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab719dbb875f87d299a5118c6e739fad}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Su},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4446307af3b574740ca0ef9c3256e841}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Kun},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c87da852e9e59ffd1dca92cb55ba5af5}{%
+           family={Hui},
+           familyi={H\bibinitperiod},
+           given={Felix\bibnamedelimb Kin\bibnamedelima Peng},
+           giveni={F\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {2455 TELLER RD, THOUSAND OAKS, CA 91320 USA}%
+      }
+      \list{publisher}{1}{%
+        {SAGE PUBLICATIONS INC}%
+      }
+      \strng{namehash}{ed3245936af34058bdf36cae7bd8b193}
+      \strng{fullhash}{ee4dd6d75e25456e068ca4ee8125c229}
+      \strng{bibnamehash}{ed3245936af34058bdf36cae7bd8b193}
+      \strng{authorbibnamehash}{ed3245936af34058bdf36cae7bd8b193}
+      \strng{authornamehash}{ed3245936af34058bdf36cae7bd8b193}
+      \strng{authorfullhash}{ee4dd6d75e25456e068ca4ee8125c229}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Critical global challenges, such as climate change and the insufficient availability of resources, mean that it is a pivotal time to make cities more intelligent, efficient, and sustainable in a drive towards a net-zero carbon future. This requires intelligent, interactive, and responsive structural health monitoring (SHM) to assure the longevity and safety of ageing infrastructure. Drones have the potential to revolutionise SHM. Drone-based SHM (as a potential fly-by technique) involves equipping drones with various sensors, or using inbuilt sensors, to capture data and images of structures from different angles and perspectives. The data is then processed and analysed to facilitate accurate assessment of the structure's health and early diagnosis of damage. Although the use of fly-by is relatively new, the speedy advances in various technologies that could be integrated with it, such as computer vision with artificial intelligence, deep learning, and links to digital twins, put these systems on the verge of a potential breakthrough. This paper provides an overview of fly-by SHM technique using both scientometric and qualitative systematic literature review processes, in order to provide a distinct understanding of the state of the art of research. As an original contribution, our research identified four main clusters of research within the field of fly-by SHM: (1) the application of UAV-enabled vision-based monitoring; (2) the integration of drones, advanced sensor technologies, and artificial intelligence; (3) drone-based SHM integrating modal analysis, energy harvesting, and deep learning; and (4) automation and robotics in drone-based SHM. The paper highlights the integration of new technologies such as artificial intelligence, machine learning, and sensors with the fly-by technique for SHM, identifies the gaps in current fly-by SHM research, and suggests new directions for research.}
+      \field{issn}{1369-4332}
+      \field{journaltitle}{ADVANCES IN STRUCTURAL ENGINEERING}
+      \field{month}{1}
+      \field{number}{1, SI}
+      \field{title}{A scientometric analysis of drone-based structural health monitoring and new technologies}
+      \field{type}{Review}
+      \field{volume}{28}
+      \field{year}{2025}
+      \field{pages}{122\bibrangedash 144}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1177/13694332241255734
+      \endverb
+      \keyw{unmanned aerial vehicles; drones; structural health monitoring; intelligent infrastructure; fly-by; sensors; imaging; artificial intelligence; machine learning; scientometric analysis}
+    \endentry
+    \entry{WOS:000914960100001}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=ca70c075250131570d8487845ca3df81}{%
+           family={Iqbal},
+           familyi={I\bibinitperiod},
+           given={Umair},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f37c7efeff932029b2c63d2135a71acc}{%
+           family={Riaz},
+           familyi={R\bibinitperiod},
+           given={Muhammad\bibnamedelimb Zain\bibnamedelima Bin},
+           giveni={M\bibinitperiod\bibinitdelim Z\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b81afb1e956af79683d0c53fd3388e0b}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Jiahong},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a386f76532c5a988d7c96dd8812d8a6}{%
+           family={Barthelemy},
+           familyi={B\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7fbbfc3a8430876e441db42e9ada65d5}{%
+           family={Perez},
+           familyi={P\bibinitperiod},
+           given={Pascal},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{5eceaee3f288f68eb6f3bfb98309e810}
+      \strng{fullhash}{2cb104319fd13154fa6fd3c022e6e84b}
+      \strng{bibnamehash}{5eceaee3f288f68eb6f3bfb98309e810}
+      \strng{authorbibnamehash}{5eceaee3f288f68eb6f3bfb98309e810}
+      \strng{authornamehash}{5eceaee3f288f68eb6f3bfb98309e810}
+      \strng{authorfullhash}{2cb104319fd13154fa6fd3c022e6e84b}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Floods are one of the most often occurring and damaging natural hazards. They impact the society on a massive scale and result in significant damages. To reduce the impact of floods, society needs to keep benefiting from the latest technological innovations. Drones equipped with sensors and latest algorithms (e.g., computer vision and deep learning) have emerged as a potential platform which may be useful for flood monitoring, mapping and detection activities in a more efficient way than current practice. To better understand the scope and recent trends in the domain of drones for flood management, we performed a detailed bibliometric analysis. The intent of performing the bibliometric analysis waws to highlight the important research trends, co-occurrence relationships and patterns to inform the new researchers in this domain. The bibliometric analysis was performed in terms of performance analysis (i.e., publication statistics, citations statistics, top publishing countries, top publishing journals, top publishing institutions, top publishers and top Web of Science (WoS) categories) and science mapping (i.e., citations by country, citations by journals, keyword co-occurrences, co-authorship, co-citations and bibliographic coupling) for a total of 569 records extracted from WoS for the duration 2000-2022. The VOSviewer open source tool has been used for generating the bibliographic network maps. Subjective discussions of the results explain the obtained trends from the bibliometric analysis. In the end, a detailed review of top 28 most recent publications was performed and subjected to process-driven analysis in the context of flood management. The potential active areas of research were also identified for future research in regard to the use of drones for flood monitoring, mapping and detection activities.}
+      \field{journaltitle}{DRONES}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Drones for Flood Monitoring, Mapping and Detection: A Bibliometric Review}
+      \field{type}{Review}
+      \field{volume}{7}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.3390/drones7010032
+      \endverb
+      \keyw{bibliometric analysis; drones; unmanned aerial vehicle (UAV); remote sensing; artificial intelligence (AI); floods; computer vision; deep learning}
+    \endentry
     \entry{WOS:001262605900001}{article}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=b7bec888d01dabe96e787d70156faecb}{%
@@ -344,6 +475,49 @@
       \verb 10.3390/drones8090468
       \endverb
       \keyw{drones; multimodal logistics; Latent Dirichlet Allocation; Term Frequency-Inverse Document Frequency}
+    \endentry
+    \entry{WOS:000958189000001}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=037542d0dbf0219375aa2711042c5a33}{%
+           family={Kirby},
+           familyi={K\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{037542d0dbf0219375aa2711042c5a33}
+      \strng{fullhash}{037542d0dbf0219375aa2711042c5a33}
+      \strng{bibnamehash}{037542d0dbf0219375aa2711042c5a33}
+      \strng{authorbibnamehash}{037542d0dbf0219375aa2711042c5a33}
+      \strng{authornamehash}{037542d0dbf0219375aa2711042c5a33}
+      \strng{authorfullhash}{037542d0dbf0219375aa2711042c5a33}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper explores ways in which open access bibliometric software can be used to undertake exploratory research and to generate new avenues of inquiry. It takes as its focus VOSviewer, a freely available software package used to construct and display bibliometric relationships between a variety of variables. Beginning with published examples, the paper proceeds to create an original case study using bibliometrics to explore the extent to which the field of remote sensing is contributing to the implementation of sustainable development goals. This example uses Scopus data and VOSviewer to examine and contrast co-occurrence data among publications in six journals, and it demonstrates how such software can be successfully used to undertake preliminary studies and to shape subsequent research which employs more formal approaches.}
+      \field{journaltitle}{PUBLICATIONS}
+      \field{month}{3}
+      \field{number}{1}
+      \field{title}{Exploratory Bibliometrics: Using VOSviewer as a Preliminary Research Tool}
+      \field{type}{Article}
+      \field{volume}{11}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.3390/publications11010010
+      \endverb
+      \keyw{bibliometrics; exploratory research; VOSviewer; Scopus; SDGs; remote sensing}
     \endentry
     \entry{WOS:000693009900004}{article}{}
       \name{author}{4}{}{%
@@ -601,6 +775,67 @@
       \endverb
       \keyw{Drone logistics; Routing optimization; Last-mile delivery; Unmanned aerial vehicle}
     \endentry
+    \entry{WOS:000830895100002}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=3e25f6e658fa5f576408bd16548ddd0b}{%
+           family={Rejeb},
+           familyi={R\bibinitperiod},
+           given={Abderahman},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6785ec1af82c659eafacf6a841a7cfb4}{%
+           family={Abdollahi},
+           familyi={A\bibinitperiod},
+           given={Alireza},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0e515192384bece8ce6eb98927d3f984}{%
+           family={Rejeb},
+           familyi={R\bibinitperiod},
+           given={Karim},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d228c5d2aa965ba285c2ac3c0fe6dbbd}{%
+           family={Treiblmaier},
+           familyi={T\bibinitperiod},
+           given={Horst},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {125 London Wall, London, ENGLAND}%
+      }
+      \list{publisher}{1}{%
+        {ELSEVIER SCI LTD}%
+      }
+      \strng{namehash}{466cf21884c9669e0b84a0d43df5f899}
+      \strng{fullhash}{7d78cb5e1119b703b8136445f37d0ff2}
+      \strng{bibnamehash}{466cf21884c9669e0b84a0d43df5f899}
+      \strng{authorbibnamehash}{466cf21884c9669e0b84a0d43df5f899}
+      \strng{authornamehash}{466cf21884c9669e0b84a0d43df5f899}
+      \strng{authorfullhash}{7d78cb5e1119b703b8136445f37d0ff2}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Drones, also called Unmanned Aerial Vehicles (UAV), have witnessed a remarkable development in recent decades. In agriculture, they have changed farming practices by offering farmers substantial cost savings, increased operational efficiency, and better profitability. Over the past decades, the topic of agricultural drones has attracted remarkable academic attention. We therefore conduct a comprehensive review based on bibliometrics to summarize and structure existing academic literature and reveal current research trends and hotspots. We apply bibliometric techniques and analyze the literature surrounding agricultural drones to summarize and assess previous research. Our analysis indicates that remote sensing, precision agriculture, deep learning, machine learning, and the Internet of Things are critical topics related to agricultural drones. The co-citation analysis reveals six broad research clusters in the literature. This study is one of the first attempts to summarize drone research in agriculture and suggest future research directions.}
+      \field{issn}{0168-1699}
+      \field{journaltitle}{COMPUTERS AND ELECTRONICS IN AGRICULTURE}
+      \field{month}{7}
+      \field{title}{Drones in agriculture: A review and bibliometric analysis}
+      \field{type}{Review}
+      \field{volume}{198}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.1016/j.compag.2022.107017
+      \endverb
+      \keyw{Drones; UAV; Precision agriculture; Internet of Things; Bibliometrics}
+    \endentry
     \entry{WOS:001140699200001}{article}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=f84d55f742ac91675f7fa5af86a5c1e9}{%
@@ -667,6 +902,82 @@
       \verb 10.3390/s24010125
       \endverb
       \keyw{unmanned aerial vehicles (UAVs); UAV detection; drone detection; drone identification; UAV identification; UAV classification; drone classification; drone localization; detection technologies; radio frequency (RF); radar; acoustic; visual; sensor fusion; drone incidents; drone threats; machine learning based drone detection; deep learning based UAV identification}
+    \endentry
+    \entry{WOS:001366904300001}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=7db8d42cd7d5e25cf16677311ce8a185}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Bruna\bibnamedelimb Rafaella\bibnamedelima Ferreira},
+           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0,
+           prefix={da},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=ff33a2a3276714b76a1bd42ed94cfae8}{%
+           family={Ucella-Filho},
+           familyi={U\bibinithyphendelim F\bibinitperiod},
+           given={Joao\bibnamedelimb Gilberto\bibnamedelima Meza},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c777c186c92ca24cc23925074d2bf7a}{%
+           family={Bispo},
+           familyi={B\bibinitperiod},
+           given={Polyanna\bibnamedelimb da\bibnamedelima Conceicao},
+           giveni={P\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=65b1782fa421f0b7dd9a2a45ea8af7d0}{%
+           family={Elera-Gonzales},
+           familyi={E\bibinithyphendelim G\bibinitperiod},
+           given={Duberli\bibnamedelima Geomar},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4e54786d334d7ce7d4d13f600dcae4c8}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Emanuel\bibnamedelima Araujo},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f4de93a9877566a4abcef3f9bef90e2}{%
+           family={Ferreira},
+           familyi={F\bibinitperiod},
+           given={Rinaldo\bibnamedelimb Luiz\bibnamedelima Caraciolo},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{0f6359fb3122c41a6fdb6870b422c7d9}
+      \strng{fullhash}{468a9324f0b84603c35af830973876ed}
+      \strng{bibnamehash}{0f6359fb3122c41a6fdb6870b422c7d9}
+      \strng{authorbibnamehash}{0f6359fb3122c41a6fdb6870b422c7d9}
+      \strng{authornamehash}{0f6359fb3122c41a6fdb6870b422c7d9}
+      \strng{authorfullhash}{468a9324f0b84603c35af830973876ed}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Traditional field inventories have been the standard method for collecting detailed forest attribute data. However, these methods are often time-consuming, labor-intensive, and costly, especially for large areas. In contrast, remote sensing technologies, such as unmanned aerial vehicles (UAVs), have become viable alternatives for collecting forest structure data, providing high-resolution images, precision, and the ability to use various sensors. To explore this trend, a bibliometric review was conducted using the Scopus database to examine the evolution of scientific publications and assess the current state of research on using UAVs to estimate dendrometric variables in forest ecosystems. A total of 454 studies were identified, with 199 meeting the established inclusion criteria for further analysis. The findings indicated that China and the United States are the leading contributors to this research domain, with a notable increase in journal publications over the past five years. The predominant focus has been on planted forests, particularly utilizing RGB sensors attached to UAVs for variable estimation. The primary variables assessed using UAV technology include total tree height, DBH, above-ground biomass, and canopy area. Consequently, this review has highlighted the most influential studies in the field, establishing a foundation for future research directions.}
+      \field{journaltitle}{FORESTS}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{Using Drones for Dendrometric Estimations in Forests: A Bibliometric Analysis}
+      \field{type}{Review}
+      \field{volume}{15}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.3390/f15111993
+      \endverb
+      \keyw{bibliometric analysis; remote sensing; forest inventory; unmanned aerial vehicle; Scopus; keyword search}
     \endentry
     \entry{WOS:001055864000001}{article}{}
       \name{author}{7}{}{%

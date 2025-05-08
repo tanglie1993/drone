@@ -2375,6 +2375,12 @@
     <bcf:citekey order="11" intorder="1">WOS:001160422800001</bcf:citekey>
     <bcf:citekey order="12" intorder="1">WOS:001262605900001</bcf:citekey>
     <bcf:citekey order="13" intorder="1">WOS:000999662500001</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">WOS:000958189000001</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">WOS:001229751500001</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">WOS:000830895100002</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">WOS:000914960100001</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">WOS:001366904300001</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">WOS:001329532200078</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
