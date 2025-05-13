@@ -1,39 +1,5 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'draft.blg'
 [152] biber-MSWIN64:340> INFO - === 
-[214] Biber.pm:419> INFO - Reading 'draft.bcf'
-[370] Biber.pm:979> INFO - Found 17 citekeys in bib section 0
-[390] Biber.pm:4419> INFO - Processing section 0
-[406] Biber.pm:4610> INFO - Looking for bibtex file 'references.bib' for section 0
-[503] bibtex.pm:1713> INFO - LaTeX decoding ...
-[663] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
-[863] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[864] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[864] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[864] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[891] bbl.pm:660> INFO - Writing 'draft.bbl' with encoding 'UTF-8'
-[914] bbl.pm:763> INFO - Output to draft.bbl
-[915] Biber.pm:131> WARN - Duplicate entry key: 'WOS:000939165400001' in file 'references.bib', skipping ...
-[915] Biber.pm:131> WARN - Duplicate entry key: 'WOS:001262605900001' in file 'references.bib', skipping ...
-[915] Biber.pm:131> WARN - Duplicate entry key: 'WOS:001323645000001' in file 'references.bib', skipping ...
-[915] Biber.pm:131> WARN - Duplicate entry key: 'WOS:000693999200007' in file 'references.bib', skipping ...
-[915] Biber.pm:131> WARN - Duplicate entry key: 'WOS:001160422800001' in file 'references.bib', skipping ...
-[915] Biber.pm:131> WARN - Duplicate entry key: 'WOS:001262605900001' in file 'references.bib', skipping ...
-[915] Biber.pm:131> WARN - legacy month field 'NOV' in entry 'WOS001352081800001' is not an integer - this will probably not sort properly.
-[915] Biber.pm:131> WARN - legacy month field 'SEP' in entry 'WOS:000693009900004' is not an integer - this will probably not sort properly.
-[915] Biber.pm:131> WARN - legacy month field 'JAN' in entry 'WOS:001140699200001' is not an integer - this will probably not sort properly.
-[915] Biber.pm:131> WARN - legacy month field 'JAN 2' in entry 'WOS:001139514900001' is not an integer - this will probably not sort properly.
-[915] Biber.pm:131> WARN - legacy month field 'FEB' in entry 'WOS:000939165400001' is not an integer - this will probably not sort properly.
-[915] Biber.pm:131> WARN - legacy month field 'AUG' in entry 'WOS:001055864000001' is not an integer - this will probably not sort properly.
-[916] Biber.pm:131> WARN - legacy month field 'JAN' in entry 'WOS:001404731600001' is not an integer - this will probably not sort properly.
-[916] Biber.pm:131> WARN - legacy month field 'MAR 4' in entry 'WOS:001262605900001' is not an integer - this will probably not sort properly.
-[916] Biber.pm:131> WARN - legacy month field 'SEP' in entry 'WOS:001323645000001' is not an integer - this will probably not sort properly.
-[916] Biber.pm:131> WARN - legacy month field 'SEP 1' in entry 'WOS:000693999200007' is not an integer - this will probably not sort properly.
-[916] Biber.pm:131> WARN - legacy month field 'FEB 13' in entry 'WOS:001160422800001' is not an integer - this will probably not sort properly.
-[916] Biber.pm:131> WARN - legacy month field 'JUL' in entry 'WOS:000999662500001' is not an integer - this will probably not sort properly.
-[916] Biber.pm:131> WARN - legacy month field 'MAR' in entry 'WOS:000958189000001' is not an integer - this will probably not sort properly.
-[916] Biber.pm:131> WARN - legacy month field 'JAN' in entry 'WOS:001229751500001' is not an integer - this will probably not sort properly.
-[916] Biber.pm:131> WARN - legacy month field 'JUL' in entry 'WOS:000830895100002' is not an integer - this will probably not sort properly.
-[916] Biber.pm:131> WARN - legacy month field 'JAN' in entry 'WOS:000914960100001' is not an integer - this will probably not sort properly.
-[916] Biber.pm:131> WARN - legacy month field 'NOV' in entry 'WOS:001366904300001' is not an integer - this will probably not sort properly.
-[916] Biber.pm:133> INFO - WARNINGS: 23
+[208] Utils.pm:410> ERROR - draft.bcf is malformed, last biblatex run probably failed. Deleted draft.bbl
+[209] Biber.pm:136> INFO - ERRORS: 1
