@@ -141,6 +141,64 @@
       \endverb
       \keyw{logistics; artificial intelligence; sustainability; optimization}
     \endentry
+    \entry{WOS:000623397300001}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6f9b1df7a581481357952013945bcb9c}{%
+           family={Choe},
+           familyi={C\bibinitperiod},
+           given={Ja\bibnamedelima Young\bibnamedelima (Jacey)},
+           giveni={J\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim (\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=fe7d1415375e4165278077a735f2aeea}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Jinkyung\bibnamedelima Jenny},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=cb1c8927f4ba91e6f47f246c4a1a3631}{%
+           family={Hwang},
+           familyi={H\bibinitperiod},
+           given={Jinsoo},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {Floor 5, Northspring 21-23 Wellington Street, Leeds, W YORKSHIRE, ENGLAND}%
+      }
+      \list{publisher}{1}{%
+        {EMERALD GROUP PUBLISHING LTD}%
+      }
+      \strng{namehash}{7bc02784a707134bea02745c20eaf7d8}
+      \strng{fullhash}{7bc02784a707134bea02745c20eaf7d8}
+      \strng{bibnamehash}{7bc02784a707134bea02745c20eaf7d8}
+      \strng{authorbibnamehash}{7bc02784a707134bea02745c20eaf7d8}
+      \strng{authornamehash}{7bc02784a707134bea02745c20eaf7d8}
+      \strng{authorfullhash}{7bc02784a707134bea02745c20eaf7d8}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Purpose The purpose of this study was to explore if five subdimensions of perceived risk (financial, time, privacy, performance and psychological risks) negatively affects image. In addition, this study aims to investigate if image has a positive effect on intentions to use. Lastly, the purpose of this study was to examine the moderating effect of Coronavirus disease-2019 (COVID-19), before and after the outbreak, in the relationship between perceived risk and image. Design/methodology/approach Data were collected from 331 people before the COVID-19 outbreak and 343 people after the COVID-19 outbreak. To test hypotheses, this study used structural equation modeling. Findings Time, performance and psychological risks negatively affected image before the outbreak of COVID-19. Meanwhile, performance risks and psychological risks had a negative influence on image only after the outbreak of COVID-19. In addition, there was demonstrated to be a positive relationship between image and intentions to use, both before and after the COVID-19 outbreak. Finally, the outbreak of COVID-19 positively moderates the relationship between performance risk and image. Practical implications The current study provides the following practical implications. First, industry practitioners need to develop a performance guarantee system which enhances the quality assurance of drone food delivery services (DFDS). Second, live streaming or creative activities would help to visualize DFDS in a way that stresses the stable operation of these services. Originality/value The importance of contactless services has been emphasized ever since the beginning of the COVID-19 outbreak. However, there has been very little research on the future of contactless services after COVID-19. This study investigated the perceived risk from DFDS as a form of contactless service which has not been conducted before. The findings of this study will improve the understanding of the changes that have occurred in consumers' perception of risk from DFDS during the COVID-19 pandemic.}
+      \field{issn}{0959-6119}
+      \field{journaltitle}{INTERNATIONAL JOURNAL OF CONTEMPORARY HOSPITALITY MANAGEMENT}
+      \field{month}{5}
+      \field{number}{4}
+      \field{title}{Perceived risks from drone food delivery services before and after COVID-19}
+      \field{type}{Article}
+      \field{volume}{33}
+      \field{year}{2021}
+      \field{pages}{1276\bibrangedash 1296}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1108/IJCHM-08-2020-0839
+      \endverb
+      \keyw{Intentions to use; Image; Perceived risk; COVID-19; DFDS}
+    \endentry
     \entry{WOS:001229751500001}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=6f6a26f4ba0a1f2db9b33607e3aa3905}{%
@@ -204,6 +262,181 @@
       \verb 10.1177/13694332241255734
       \endverb
       \keyw{unmanned aerial vehicles; drones; structural health monitoring; intelligent infrastructure; fly-by; sensors; imaging; artificial intelligence; machine learning; scientometric analysis}
+    \endentry
+    \entry{WOS:001329532200078}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=452520e1420322851e0e3f680bf2b650}{%
+           family={Ferraro},
+           familyi={F\bibinitperiod},
+           given={Saverio},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36adf822f752595a392749140cdf8bf2}{%
+           family={Leoni},
+           familyi={L\bibinitperiod},
+           given={Leonardo},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cdb149542cd200f7ff01f26e9ada6fd7}{%
+           family={Cantini},
+           familyi={C\bibinitperiod},
+           given={Alessandra},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=889267fdef0456ca8528bf7dd765e50e}{%
+           family={De\bibnamedelima Carlo},
+           familyi={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Filippo},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS}%
+      }
+      \list{organization}{1}{%
+        {Tech Univ Wien (TU Wien); Fraunhofer Austria Res GmbH; Int Federat Automatic Control (IFAC); Coordinating Comm 5 Cyber-Physical Manufacturing Enterprises, CC 5; Technical Comm Manufacturing Plant Control, TC 5.1; Technical Comm Management \& Control Manufacturing \& Logistics, TC 5.2; Technical Comm Integration \& Interoperability Enterprise Systems, TC 5.3; Technical Comm Large Scale Complex Systems, TC 5.4; TC 1.3. Discrete Event \& Hybrid Systems; TC 4.2. Mechatronic Systems; TC 4.3. Robotics; TC 6.4. Fault Detection, Supervision \& Safety Techn. Processes-SAFEPROCESS; TC 7.1. Automotive Control; TC 7.4. Transportation Systems; TC 7.5. Intelligent Autonomous Vehicles; TC 9.2. Systems \& Control Societal Impact; TC 9.5. Tech, Culture \& Int Stability (TECIS); Verien To promote business res \& training; EIT Manufacturing; Austrian Univ Tech; WKO; Springer; Global Alliance AI Industry \& Manufacturing; Metal Engn industry; European Union}%
+      }
+      \list{publisher}{1}{%
+        {ELSEVIER}%
+      }
+      \strng{namehash}{6c3db968ae1c0e231cbb2afaefa52f67}
+      \strng{fullhash}{77dbb8e2a3dede77dba041f7a5b811f4}
+      \strng{bibnamehash}{6c3db968ae1c0e231cbb2afaefa52f67}
+      \strng{authorbibnamehash}{6c3db968ae1c0e231cbb2afaefa52f67}
+      \strng{authornamehash}{6c3db968ae1c0e231cbb2afaefa52f67}
+      \strng{authorfullhash}{77dbb8e2a3dede77dba041f7a5b811f4}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Nowadays organizations are under increasing pressure to adopt sustainable solutions for material handling and management due to growing environmental awareness. This drive has spurred advancements in innovative technologies, optimizing logistic processes to reduce energy usage and emissions, and enhancing overall supply chain sustainability. This approach extends to internal material handling with forklifts and the emerging use of drones for last-mile operations. Despite the importance of sustainable logistic practices, the literature lacks a comprehensive review of research on forklifts and drones in logistic activities. Through a Systematic Literature Network Analysis (SLNA), this paper addresses this gap by conducting a comparative analysis of two bibliometric reviews: one on forklifts' sustainable logistic applications and the other on drones'. This analysis aims to identify key contributors, countries, journals, and research themes in both areas. The SLNA results seek to highlight existing literature, productive countries, influential authors, and research themes. This paper provides theoretical contributions by identifying gaps in the current literature and highlighting key research themes related to sustainable logistic practices. Furthermore, it offers practical insights to industry stakeholders on integrating these practices using forklifts and drones, while also laying the groundwork for future research through a comparative analysis. Copyright (C) 2024 The Authors. This is an open access article under the CC BY-NC-ND license (https://creativecommons.org/licenses/by-nc-nd/4.0/)}
+      \field{issn}{2405-8963}
+      \field{journaltitle}{IFAC PAPERSONLINE}
+      \field{note}{18th IFAC Symposium on Information Control Problems in Manufacturing (INCOM), Vienna, AUSTRIA, AUG 28-30, 2024}
+      \field{number}{19}
+      \field{title}{Analyzing Forklift and Drone Applications in Sustainable Logistics: A Bibliometric Review}
+      \field{type}{Proceedings Paper}
+      \field{volume}{58}
+      \field{year}{2024}
+      \field{pages}{463\bibrangedash 468}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/j.ifacol.2024.09.255
+      \endverb
+      \keyw{forklifts; drones; sustainable logistics; sustainable supply chain; literature review}
+    \endentry
+    \entry{WOS:000495004400013}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cb1c8927f4ba91e6f47f246c4a1a3631}{%
+           family={Hwang},
+           familyi={H\bibinitperiod},
+           given={Jinsoo},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f9b1df7a581481357952013945bcb9c}{%
+           family={Choe},
+           familyi={C\bibinitperiod},
+           given={Ja\bibnamedelima Young\bibnamedelima (Jacey)},
+           giveni={J\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim (\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND}%
+      }
+      \list{publisher}{1}{%
+        {EMERALD GROUP PUBLISHING LTD}%
+      }
+      \strng{namehash}{3e0e0a7241cf054de46cd9cc7542470e}
+      \strng{fullhash}{3e0e0a7241cf054de46cd9cc7542470e}
+      \strng{bibnamehash}{3e0e0a7241cf054de46cd9cc7542470e}
+      \strng{authorbibnamehash}{3e0e0a7241cf054de46cd9cc7542470e}
+      \strng{authornamehash}{3e0e0a7241cf054de46cd9cc7542470e}
+      \strng{authorfullhash}{3e0e0a7241cf054de46cd9cc7542470e}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Purpose - This paper aims to explore the types of perceived risks involved with using drone food delivery services. Furthermore, this study investigates the relationship between perceived risk and image of drone food delivery services. Lastly, this study examines the effect of image of drone food delivery services on desire, intentions to use and willingness to pay more. Design/methodology/approach - This study collected data from 331 respondents in Korea. Before the start of the survey, the respondents were given a video, which made it easier for them to understand drone food delivery services. Findings - The three types of perceived risks (i.e. time risk, performance risk and psychological risk) have a negative influence on image of drone food delivery services and, thus, aids in increasing desire, intentions to use and willingness to pay more. Originality/value - The concept of perceived risk was applied to the context of drone food delivery services in this study in combination with other understudied concepts, image, desire, intentions to use and willingness to pay more. This study is one of the first studies that applied those significant concepts to the context of drone food delivery services, even though there are a large number of papers in the technology field. Thus, the findings of this study will be important to foodservice companies when building successful drone food delivery services.}
+      \field{issn}{0959-6119}
+      \field{journaltitle}{INTERNATIONAL JOURNAL OF CONTEMPORARY HOSPITALITY MANAGEMENT}
+      \field{number}{8}
+      \field{title}{Exploring perceived risk in building successful drone food delivery services}
+      \field{type}{Article}
+      \field{volume}{31}
+      \field{year}{2019}
+      \field{pages}{3249\bibrangedash 3269}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1108/IJCHM-07-2018-0558
+      \endverb
+      \keyw{Image; Perceived risk; Willingness to pay more; Desire; Drone food delivery services; Intentions to use}
+    \endentry
+    \entry{WOS:000478712400012}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=cb1c8927f4ba91e6f47f246c4a1a3631}{%
+           family={Hwang},
+           familyi={H\bibinitperiod},
+           given={Jinsoo},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=60e1d02ab4800c288e017d4a2126a7b9}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Jin-Soo},
+           giveni={J\bibinithyphendelim S\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=3165e1d7308c1cc471939428ec8f1a9e}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Hyunjoon},
+           giveni={H\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND}%
+      }
+      \list{publisher}{1}{%
+        {ELSEVIER SCI LTD}%
+      }
+      \strng{namehash}{bb868ab9a238f9d941398d68a9cfc4bd}
+      \strng{fullhash}{bb868ab9a238f9d941398d68a9cfc4bd}
+      \strng{bibnamehash}{bb868ab9a238f9d941398d68a9cfc4bd}
+      \strng{authorbibnamehash}{bb868ab9a238f9d941398d68a9cfc4bd}
+      \strng{authornamehash}{bb868ab9a238f9d941398d68a9cfc4bd}
+      \strng{authorfullhash}{bb868ab9a238f9d941398d68a9cfc4bd}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Drone food delivery services refer to services that use drones to deliver food to customers as the role of services becomes more important in the food service industry, because drone food delivery services are not affected by traffic, so they can deliver food quickly. However, there is still a lack of research about drone food delivery services. Thus, this study examined the importance and necessity of drone food delivery services using the concept of perceived innovativeness. In Korea, a total of 324 samples collected in order to test the proposed model including fifteen hypotheses. The data analysis results showed that perceived innovativeness has a positive influence on attitude toward using drone food delivery services and behavioral intentions including intentions to use and word-of-mouth intentions. In addition, the attitude played an important role in the formation of behavioral intentions. Lastly, this study found the important moderating role of gender and age.}
+      \field{issn}{0278-4319}
+      \field{journaltitle}{INTERNATIONAL JOURNAL OF HOSPITALITY MANAGEMENT}
+      \field{month}{8}
+      \field{title}{Perceived innovativeness of drone food delivery services and its impacts on attitude and behavioral intentions: The moderating role of gender and age}
+      \field{type}{Article}
+      \field{volume}{81}
+      \field{year}{2019}
+      \field{pages}{94\bibrangedash 103}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.ijhm.2019.03.002
+      \endverb
+      \keyw{Drone food delivery services; Perceived innovativeness; Attitude; Behavioral intentions; Gender; Age}
     \endentry
     \entry{WOS:000914960100001}{article}{}
       \name{author}{5}{}{%
@@ -415,14 +648,177 @@
       \endverb
       \keyw{Unmanned aerial vehicle; Freight; Distribution; Parcel delivery; E-commerce}
     \endentry
+    \entry{WOS:000474324300017}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3de5eef991bf2d68cc4e140a516b490c}{%
+           family={Jeong},
+           familyi={J\bibinitperiod},
+           given={Ho\bibnamedelima Young},
+           giveni={H\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=78dbe5da756a2a62f54c7c9302089424}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Byung\bibnamedelima Duk},
+           giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=f85fa96c4c76521735d0a8a1894b927b}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Seokcheon},
+           giveni={S\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS}%
+      }
+      \list{publisher}{1}{%
+        {ELSEVIER}%
+      }
+      \strng{namehash}{d8e3f01cfe44706201d9bb13b1990108}
+      \strng{fullhash}{d8e3f01cfe44706201d9bb13b1990108}
+      \strng{bibnamehash}{d8e3f01cfe44706201d9bb13b1990108}
+      \strng{authorbibnamehash}{d8e3f01cfe44706201d9bb13b1990108}
+      \strng{authornamehash}{d8e3f01cfe44706201d9bb13b1990108}
+      \strng{authorfullhash}{d8e3f01cfe44706201d9bb13b1990108}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The truck-drone hybrid delivery system uses a truck as a station for drones in addition to its delivery function and is getting attention because the strengths of these individual vehicles can be selectively and synergistically exploited. In this study, we extended the previous vehicle routing models to the hybrid delivery systems by taking into account two important practical issues: the effect of parcel weight on drone energy consumption and restricted flying areas. The flight range of the drones is heavily susceptible to the loaded weight due to the limited battery life. Drones are also not allowed to fly over sensitive facilities regulated by the Federal Aviation Administration (FAA) or temporarily in certain areas due to weather-related conditions. We developed a mathematical model that incorporates these issues and propose a two-phase constructive and search heuristic algorithm to provide computational efficiency of the real-world cases problems. The result of the numerical study demonstrates the effectiveness and efficiency of the proposed algorithm.}
+      \field{issn}{0925-5273}
+      \field{journaltitle}{INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS}
+      \field{month}{8}
+      \field{title}{Truck-drone hybrid delivery routing: Payload-energy dependency and No-Fly zones}
+      \field{type}{Article}
+      \field{volume}{214}
+      \field{year}{2019}
+      \field{pages}{220\bibrangedash 233}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.ijpe.2019.01.010
+      \endverb
+      \keyw{Routing; Flying sidekick; Drone; Traveling salesman; Mixed integer programming; Heuristic algorithm}
+    \endentry
+    \entry{WOS:000514800800001}{article}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=fe7d1415375e4165278077a735f2aeea}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Jinkyung\bibnamedelima Jenny},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=cb1c8927f4ba91e6f47f246c4a1a3631}{%
+           family={Hwang},
+           familyi={H\bibinitperiod},
+           given={Jinsoo},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS}%
+      }
+      \list{publisher}{1}{%
+        {ELSEVIER}%
+      }
+      \strng{namehash}{b7a105d7d62984042acaa55632688bcc}
+      \strng{fullhash}{b7a105d7d62984042acaa55632688bcc}
+      \strng{bibnamehash}{b7a105d7d62984042acaa55632688bcc}
+      \strng{authorbibnamehash}{b7a105d7d62984042acaa55632688bcc}
+      \strng{authornamehash}{b7a105d7d62984042acaa55632688bcc}
+      \strng{authorfullhash}{b7a105d7d62984042acaa55632688bcc}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This study attempted to merge two theories, which included the norm activation model (NAM) and the theory of planned behavior (TPB), in order to explain eco-friendly behavioral intention formation in the context of drone food delivery services. In addition, this study deepened the theoretical framework by considering the moderating role of product knowledge about the pro-environmental role of the drone-based food delivery services. Sixteen hypotheses were tested using a total of 401 samples collected in Korea. The data analysis results indicated that all hypotheses within the model that merged the NAM and the TPB were statistically supported. Furthermore, product knowledge played a moderating role in the relationship between (1) ascribed responsibility and personal norm, (2) attitudes and behavioral intentions, and (3) subjective norm and personal norm.}
+      \field{issn}{1447-6770}
+      \field{journaltitle}{JOURNAL OF HOSPITALITY AND TOURISM MANAGEMENT}
+      \field{month}{3}
+      \field{title}{Merging the norm activation model and the theory of planned behavior in the context of drone food delivery services: Does the level of product knowledge really matter?}
+      \field{type}{Article}
+      \field{volume}{42}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 11}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.jhtm.2019.11.002
+      \endverb
+      \keyw{Drone food delivery services; Pro-environmental role; Norm activation model; Theory of planned behavior; Product knowledge}
+    \endentry
+    \entry{WOS:000605628800016}{article}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=fe7d1415375e4165278077a735f2aeea}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Jinkyung\bibnamedelima Jenny},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=8ea8190d9afebf473c4b855644aa1f77}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Insin},
+           giveni={I\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=cb1c8927f4ba91e6f47f246c4a1a3631}{%
+           family={Hwang},
+           familyi={H\bibinitperiod},
+           given={Jinsoo},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND}%
+      }
+      \list{publisher}{1}{%
+        {ELSEVIER SCI LTD}%
+      }
+      \strng{namehash}{352d57efba4379aca5cb00a56e99a8f7}
+      \strng{fullhash}{352d57efba4379aca5cb00a56e99a8f7}
+      \strng{bibnamehash}{352d57efba4379aca5cb00a56e99a8f7}
+      \strng{authorbibnamehash}{352d57efba4379aca5cb00a56e99a8f7}
+      \strng{authornamehash}{352d57efba4379aca5cb00a56e99a8f7}
+      \strng{authorfullhash}{352d57efba4379aca5cb00a56e99a8f7}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This study aims to identify how behavioral intentions are formed in the context of drone food delivery services using the moderating role before and after the outbreak of COVID-19. A conceptual model including eight hypotheses was developed and tested based on the data of two consumer samples, one collected before and the other after the outbreak of COVID-19. The data analysis results showed that perceived innovativeness positively affects attitude. In addition, the attitude, the subjective norm, and perceived behavioral control have a positive influence on behavioral intentions. Lastly, the outbreak of COVID-19 played a moderating role in the relationship between the attitude and behavioral intentions.}
+      \field{issn}{0278-4319}
+      \field{journaltitle}{INTERNATIONAL JOURNAL OF HOSPITALITY MANAGEMENT}
+      \field{month}{2}
+      \field{title}{A change of perceived innovativeness for contactless food delivery services using drones after the outbreak of COVID-19}
+      \field{type}{Article}
+      \field{volume}{93}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1016/j.ijhm.2020.102758
+      \endverb
+      \keyw{Drone food delivery services; COVID-19; Contactless services; Perceived innovativeness; Theory of planned behavior}
+    \endentry
     \entry{WOS:001323645000001}{article}{}
       \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=8353546edc68375c9341941667119727}{%
+        {{un=1,uniquepart=given,hash=8353546edc68375c9341941667119727}{%
            family={Kim},
            familyi={K\bibinitperiod},
            given={Kyunga},
            giveni={K\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=a660aebf83a9744a4542279b11e77d5b}{%
            family={Kim},
            familyi={K\bibinitperiod},
@@ -518,6 +914,81 @@
       \verb 10.3390/publications11010010
       \endverb
       \keyw{bibliometrics; exploratory research; VOSviewer; Scopus; SDGs; remote sensing}
+    \endentry
+    \entry{WOS:000460496000002}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=0f20c621c25eef9ac077d18cd13a12aa}{%
+           family={Kitjacharoenchai},
+           familyi={K\bibinitperiod},
+           given={Patchara},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8708219ccf061f1da84d4405af5bff67}{%
+           family={Ventresca},
+           familyi={V\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6e8369eca887d65b1a76d0a7e5486954}{%
+           family={Moshref-Javadi},
+           familyi={M\bibinithyphendelim J\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f85fa96c4c76521735d0a8a1894b927b}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Seokcheon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f9b9e308498848d34500ec78e09f450}{%
+           family={Tanchoco},
+           familyi={T\bibinitperiod},
+           given={Jose\bibnamedelimb M.\bibnamedelimi A.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5b4178afe3092f9434c611f7ff539536}{%
+           family={Brunese},
+           familyi={B\bibinitperiod},
+           given={Patrick\bibnamedelima A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND}%
+      }
+      \list{publisher}{1}{%
+        {PERGAMON-ELSEVIER SCIENCE LTD}%
+      }
+      \strng{namehash}{e4938326b1cfa8f68e95b505aecca539}
+      \strng{fullhash}{df0b7ca61f42af13fcce8bd9eb867962}
+      \strng{bibnamehash}{e4938326b1cfa8f68e95b505aecca539}
+      \strng{authorbibnamehash}{e4938326b1cfa8f68e95b505aecca539}
+      \strng{authornamehash}{e4938326b1cfa8f68e95b505aecca539}
+      \strng{authorfullhash}{df0b7ca61f42af13fcce8bd9eb867962}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{E-commerce and retail companies are seeking ways to cut delivery times and costs by exploring opportunities to use drones for making last mile delivery deliveries. This paper addresses the delivery concept of a truck-drone combination along with the idea of allowing autonomous drones to fly from delivery trucks, make deliveries, and fly to any available delivery truck nearby. We present a mixed integer programming (MIP) formulation that captures this scenario with the objective of minimizing the arrival time of both trucks and drones at the depot after completing the deliveries. A new algorithm based on insertion heuristics is also developed to solve large sized problems containing up to a hundred locations. Experiments are conducted to compare the MIP solutions with those obtained from different models with single truck, multiple truck and a single truck and drone system, as well as test the performance of the proposed algorithm. The numerical results demonstrate the potential operational gain when implementing the proposed drone delivery system compared to the conventional truck alone or single truck/drone delivery system.}
+      \field{issn}{0360-8352}
+      \field{journaltitle}{COMPUTERS \& INDUSTRIAL ENGINEERING}
+      \field{month}{3}
+      \field{title}{Multiple traveling salesman problem with drones: Mathematical model and heuristic approach}
+      \field{type}{Article}
+      \field{volume}{129}
+      \field{year}{2019}
+      \field{pages}{14\bibrangedash 30}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1016/j.cie.2019.01.020
+      \endverb
+      \keyw{Drone delivery; Optimization; Unmanned aerial vehicles; Heuristic; Transportation; Routing}
     \endentry
     \entry{WOS:000693009900004}{article}{}
       \name{author}{4}{}{%
@@ -774,6 +1245,115 @@
       \verb 10.1016/j.eswa.2021.114854
       \endverb
       \keyw{Drone logistics; Routing optimization; Last-mile delivery; Unmanned aerial vehicle}
+    \endentry
+    \entry{WOS:000353871700006}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=af6d26350c3de304db90af5f7595fb49}{%
+           family={Murray},
+           familyi={M\bibinitperiod},
+           given={Chase\bibnamedelima C.},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d1ee067472cdf7047b38d574019e3184}{%
+           family={Chu},
+           familyi={C\bibinitperiod},
+           given={Amanda\bibnamedelima G.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND}%
+      }
+      \list{publisher}{1}{%
+        {PERGAMON-ELSEVIER SCIENCE LTD}%
+      }
+      \strng{namehash}{4f8d7590a46c2942e9e3d1e82aafa141}
+      \strng{fullhash}{4f8d7590a46c2942e9e3d1e82aafa141}
+      \strng{bibnamehash}{4f8d7590a46c2942e9e3d1e82aafa141}
+      \strng{authorbibnamehash}{4f8d7590a46c2942e9e3d1e82aafa141}
+      \strng{authornamehash}{4f8d7590a46c2942e9e3d1e82aafa141}
+      \strng{authorfullhash}{4f8d7590a46c2942e9e3d1e82aafa141}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Once limited to the military domain, unmanned aerial vehicles are now poised to gain widespread adoption in the commercial sector. One such application is to deploy these aircraft, also known as drones, for last-mile delivery in logistics operations. While significant research efforts are underway to improve the technology required to enable delivery by drone, less attention has been focused on the operational challenges associated with leveraging this technology. This paper provides two mathematical programming models aimed at optimal routing and scheduling of unmanned aircraft, and delivery trucks, in this new paradigm of parcel delivery. In particular, a unique variant of the classical vehicle routing problem is introduced, motivated by a scenario in which an unmanned aerial vehicle works in collaboration with a traditional delivery truck to distribute parcels. We present mixed integer linear programming formulations for two delivery-by-drone problems, along with two simple, yet effective, heuristic solution approaches to solve problems of practical size. Solutions to these problems will facilitate the adoption of unmanned aircraft for last-mile delivery. Such a delivery system is expected to provide faster receipt of customer orders at less cost to the distributor and with reduced environmental impacts. A numerical analysis demonstrates the effectiveness of the heuristics and investigates the tradeoffs between using drones with faster flight speeds versus longer endurance. (C) 2015 Elsevier Ltd. All rights reserved.}
+      \field{issn}{0968-090X}
+      \field{journaltitle}{TRANSPORTATION RESEARCH PART C-EMERGING TECHNOLOGIES}
+      \field{month}{5}
+      \field{title}{The flying sidekick traveling salesman problem: Optimization of drone-assisted parcel delivery}
+      \field{type}{Article}
+      \field{volume}{54}
+      \field{year}{2015}
+      \field{pages}{86\bibrangedash 109}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1016/j.trc.2015.03.005
+      \endverb
+      \keyw{Unmanned aerial vehicle; Vehicle routing problem; Traveling salesman problem; Logistics; Integer programming; Heuristics}
+    \endentry
+    \entry{WOS:000468604000010}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1d6ac47bbc4065b06b2c402fff029314}{%
+           family={Poikonen},
+           familyi={P\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57fd186cef49a011ac5af72e3361a15c}{%
+           family={Golden},
+           familyi={G\bibinitperiod},
+           given={Bruce},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ddc6bd2710279b74480b956776fc5198}{%
+           family={Wasil},
+           familyi={W\bibinitperiod},
+           given={Edward\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {5521 RESEARCH PARK DR, SUITE 200, CATONSVILLE, MD 21228 USA}%
+      }
+      \list{publisher}{1}{%
+        {INFORMS}%
+      }
+      \strng{namehash}{6152b365372723c101686018c7a52e5a}
+      \strng{fullhash}{6152b365372723c101686018c7a52e5a}
+      \strng{bibnamehash}{6152b365372723c101686018c7a52e5a}
+      \strng{authorbibnamehash}{6152b365372723c101686018c7a52e5a}
+      \strng{authornamehash}{6152b365372723c101686018c7a52e5a}
+      \strng{authorfullhash}{6152b365372723c101686018c7a52e5a}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Traveling Salesman Problem with a Drone (TSP-D) is a hybrid truck and drone model of delivery, in which the drone rides on the truck and launches from the truck to deliver packages. Our approach to the TSP-D uses branch and bound, whereby each node of the branch-and-bound tree corresponds with a potential order to deliver a subset of packages. An approximate lower bound at each node is given by solving a dynamic program. We provide additional variants of our heuristic approach and compare solution quality and computation times. Consideration is given to various input parameters and distance metrics.}
+      \field{issn}{1091-9856}
+      \field{journaltitle}{INFORMS JOURNAL ON COMPUTING}
+      \field{month}{SPR}
+      \field{number}{2}
+      \field{title}{A Branch-and-Bound Approach to the Traveling Salesman Problem with a Drone}
+      \field{type}{Article}
+      \field{volume}{31}
+      \field{year}{2019}
+      \field{pages}{335\bibrangedash 346}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1287/ijoc.2018.0826
+      \endverb
+      \keyw{970 transportation; vehicle routing; 490 networks-graphs; traveling salesman; 630 programming; integer; algorithms; branch and bound}
     \endentry
     \entry{WOS:000830895100002}{article}{}
       \name{author}{4}{}{%
@@ -1057,6 +1637,64 @@
       \verb 10.3390/systems11080400
       \endverb
       \keyw{UAV; drone; research direction; open source projects; flight control; last three years; open projects; development; antennas; AI; ChatGPT}
+    \endentry
+    \entry{WOS:000400384200003}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=59884bdaf7e7dfdb16075aeb48578898}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xingyin},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1d6ac47bbc4065b06b2c402fff029314}{%
+           family={Poikonen},
+           familyi={P\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57fd186cef49a011ac5af72e3361a15c}{%
+           family={Golden},
+           familyi={G\bibinitperiod},
+           given={Bruce},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY}%
+      }
+      \list{publisher}{1}{%
+        {SPRINGER HEIDELBERG}%
+      }
+      \strng{namehash}{3d5054b826bc2b01c7746768e5060636}
+      \strng{fullhash}{3d5054b826bc2b01c7746768e5060636}
+      \strng{bibnamehash}{3d5054b826bc2b01c7746768e5060636}
+      \strng{authorbibnamehash}{3d5054b826bc2b01c7746768e5060636}
+      \strng{authornamehash}{3d5054b826bc2b01c7746768e5060636}
+      \strng{authorfullhash}{3d5054b826bc2b01c7746768e5060636}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this paper, we introduce the vehicle routing problem with drones (VRPD). A fleet of trucks equipped with drones delivers packages to customers. Drones can be dispatched from and picked up by the trucks at the depot or any of the customer locations. The objective is to minimize the maximum duration of the routes (i.e., the completion time). The VRPD is motivated by a number of highly influential companies such as Amazon, DHL, and Federal Express, actively involved in exploring the potential use of commercial drones for package delivery. After stating our simplifying assumptions, we pose a number of questions in order to study the maximum savings that can be obtained from using drones; we then derive a number of worst-case results. The worst-case results depend on the number of drones per truck and the speed of the drones relative to the speed of the truck.}
+      \field{issn}{1862-4472}
+      \field{journaltitle}{OPTIMIZATION LETTERS}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{The vehicle routing problem with drones: several worst-case results}
+      \field{type}{Article}
+      \field{volume}{11}
+      \field{year}{2017}
+      \field{pages}{679\bibrangedash 697}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1007/s11590-016-1035-3
+      \endverb
+      \keyw{Vehicle routing; Drones; Worst-case analysis}
     \endentry
     \entry{WOS:001139514900001}{article}{}
       \name{author}{7}{}{%
