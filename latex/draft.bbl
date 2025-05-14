@@ -19,6 +19,64 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global}
+    \entry{WOS:000442591800013}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9496570845455e860b129b87bfd0c4ad}{%
+           family={Agatz},
+           familyi={A\bibinitperiod},
+           given={Niels},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd09f122ea1e9c75cda204cb487a3ee3}{%
+           family={Bouman},
+           familyi={B\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=42a7f5bc22f0ea14f9d8b9f007563456}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Marie},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {5521 RESEARCH PARK DR, SUITE 200, CATONSVILLE, MD 21228 USA}%
+      }
+      \list{publisher}{1}{%
+        {INFORMS}%
+      }
+      \strng{namehash}{3005f0bfce79c436e5d0b5ef44708534}
+      \strng{fullhash}{3005f0bfce79c436e5d0b5ef44708534}
+      \strng{bibnamehash}{3005f0bfce79c436e5d0b5ef44708534}
+      \strng{authorbibnamehash}{3005f0bfce79c436e5d0b5ef44708534}
+      \strng{authornamehash}{3005f0bfce79c436e5d0b5ef44708534}
+      \strng{authorfullhash}{3005f0bfce79c436e5d0b5ef44708534}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The fast and cost-efficient home delivery of goods ordered online is logistically challenging. Many companies are looking for new ways to cross the last mile to their customers. One technology-enabled opportunity that recently has received much attention is the use of drones to support deliveries. An innovative last-mile delivery concept in which a truck collaborates with a drone to make deliveries gives rise to a new variant of the traveling salesman problem (TSP) that we call the TSP with drone. In this paper, we model this problem as an integer program and develop several fast route-first, cluster-second heuristics based on local search and dynamic programming. We prove worst-case approximation ratios for the heuristics and test their performance by comparing the solutions to the optimal solutions for small instances. In addition, we apply our heuristics to several artificial instances with different characteristics and sizes. Our experiments show that substantial savings are possible with this concept compared to truck-only delivery.}
+      \field{issn}{0041-1655}
+      \field{journaltitle}{TRANSPORTATION SCIENCE}
+      \field{month}{7}
+      \field{number}{4}
+      \field{title}{Optimization Approaches for the Traveling Salesman Problem with Drone}
+      \field{type}{Article}
+      \field{volume}{52}
+      \field{year}{2018}
+      \field{pages}{965\bibrangedash 981}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1287/trsc.2017.0791
+      \endverb
+      \keyw{travelling salesman problem; vehicle routing; drones; delivery}
+    \endentry
     \entry{WOS:000939165400001}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=ad9674929b2c322a3a38f1495f84da83}{%
@@ -74,14 +132,65 @@
       \endverb
       \keyw{unmanned aerial vehicle; drone; computer vision; navigation; localization; mapping; obstacle avoidance; path planning}
     \endentry
+    \entry{WOS:000432504700016}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=417dabdde7f6c3e31e3deb35bad60164}{%
+           family={Buyukozkan},
+           familyi={B\bibinitperiod},
+           given={Gulcin},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f3d2d697aba947b9cd930305429eef6c}{%
+           family={Gocer},
+           familyi={G\bibinitperiod},
+           given={Fethullah},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS}%
+      }
+      \list{publisher}{1}{%
+        {ELSEVIER}%
+      }
+      \strng{namehash}{034f9eb4063f6b940632aab01ec4d380}
+      \strng{fullhash}{034f9eb4063f6b940632aab01ec4d380}
+      \strng{bibnamehash}{034f9eb4063f6b940632aab01ec4d380}
+      \strng{authorbibnamehash}{034f9eb4063f6b940632aab01ec4d380}
+      \strng{authornamehash}{034f9eb4063f6b940632aab01ec4d380}
+      \strng{authorfullhash}{034f9eb4063f6b940632aab01ec4d380}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Suppliers, partners, companies and dealers in supply chains do use, generate and share information with others. These associations lead to a multitude of challenges and opportunities within the supply chains. A Digital Supply Chain (DSC) is a smart, value-driven, efficient process to generate new forms of revenue and business value for organizations and to leverage new approaches with novel technological and analytical methods DSC is not about whether goods and services are digital or physical, it is about the way how supply chain processes are managed with a wide variety of innovative technologies, e.g. unmanned aerial vehicles, cloud computing, and internet of things, among others. Recent literature highlights the importance of DSC and many industrial researchers discuss its applications. This article reviews the stateof-the-art of existing DSC literature in detail from both academic and industrial points of view. It identifies key limitations and prospects in DSC, summarizes prior research and identifies knowledge gaps by providing advantages, weaknesses and limitations of individual methods The article also aims at providing a development framework as a roadmap for future research and practice. (C) 2018 Elsevier B.V. All rights reserved.}
+      \field{issn}{0166-3615}
+      \field{journaltitle}{COMPUTERS IN INDUSTRY}
+      \field{month}{5}
+      \field{title}{Digital Supply Chain: Literature review and a proposed framework for future research}
+      \field{type}{Article}
+      \field{volume}{97}
+      \field{year}{2018}
+      \field{pages}{157\bibrangedash 177}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1016/j.compind.2018.02.010
+      \endverb
+      \keyw{Digital Supply Chain (DSC); Literature review; Technology enablers; DSC framework}
+    \endentry
     \entry{WOS001352081800001}{article}{}
       \name{author}{5}{}{%
-        {{un=0,uniquepart=base,hash=d18739b0a9c8d317a6ac9dcfb47ae3be}{%
+        {{un=1,uniquepart=given,hash=d18739b0a9c8d317a6ac9dcfb47ae3be}{%
            family={Chen},
            familyi={C\bibinitperiod},
            given={Wenwen},
            giveni={W\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=756fe13d082dc85b290b044577938f50}{%
            family={Men},
            familyi={M\bibinitperiod},
@@ -1197,6 +1306,81 @@
       \endverb
       \keyw{unmanned aerial vehicle; low-altitude urban environments; semantic objects; keypoints on the edges; low-altitude economy}
     \endentry
+    \entry{WOS:000398037700003}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=df234930cc9b5d38ffde33209d8a27a3}{%
+           family={Menouar},
+           familyi={M\bibinitperiod},
+           given={Hamid},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4739da2466470d1714d580c584669be}{%
+           family={Guvenc},
+           familyi={G\bibinitperiod},
+           given={Ismail},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d8ba2268e790d5c2429523bb64100e82}{%
+           family={Akkaya},
+           familyi={A\bibinitperiod},
+           given={Kemal},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=df5c295afc4eeaee19d99884d7e2ba59}{%
+           family={Uluagac},
+           familyi={U\bibinitperiod},
+           given={A.\bibnamedelimi Selcuk},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f25942c49649dbc04271d33aa4d13db}{%
+           family={Kadri},
+           familyi={K\bibinitperiod},
+           given={Abdullah},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7db72a9a5b4bb1646c04cc94f423386c}{%
+           family={Tuncer},
+           familyi={T\bibinitperiod},
+           given={Adem},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA}%
+      }
+      \list{publisher}{1}{%
+        {IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC}%
+      }
+      \strng{namehash}{96fceb8918e6165375678042922d7eb4}
+      \strng{fullhash}{2dc21aaa3bb5c67b20a6cb63873bfeee}
+      \strng{bibnamehash}{96fceb8918e6165375678042922d7eb4}
+      \strng{authorbibnamehash}{96fceb8918e6165375678042922d7eb4}
+      \strng{authornamehash}{96fceb8918e6165375678042922d7eb4}
+      \strng{authorfullhash}{2dc21aaa3bb5c67b20a6cb63873bfeee}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{There could be no smart city without a reliable and efficient transportation system. This necessity makes the ITS a key component of any smart city concept. While legacy ITS technologies are deployed worldwide in smart cities, enabling the next generation of ITS relies on effective integration of connected and autonomous vehicles, the two technologies that are under wide field testing in many cities around the world. Even though these two emerging technologies are crucial in enabling fully automated transportation systems, there is still a significant need to automate other road and transportation components. To this end, due to their mobility, autonomous operation, and communication/processing capabilities, UAVs are envisaged in many ITS application domains. This article describes the possible ITS applications that can use UAVs, and highlights the potential and challenges for UAV-enabled ITS for next-generation smart cities.}
+      \field{issn}{0163-6804}
+      \field{journaltitle}{IEEE COMMUNICATIONS MAGAZINE}
+      \field{month}{3}
+      \field{number}{3}
+      \field{title}{UAV-Enabled Intelligent Transportation Systems for the Smart City: Applications and Challenges}
+      \field{type}{Article}
+      \field{volume}{55}
+      \field{year}{2017}
+      \field{pages}{22\bibrangedash 28}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/MCOM.2017.1600238CM
+      \endverb
+    \endentry
     \entry{WOS:000693999200007}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=6e8369eca887d65b1a76d0a7e5486954}{%
@@ -1559,6 +1743,77 @@
       \endverb
       \keyw{bibliometric analysis; remote sensing; forest inventory; unmanned aerial vehicle; Scopus; keyword search}
     \endentry
+    \entry{WOS:000424872000001}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=27dc90b4139eb9c6b35fb6f82a0e6656}{%
+           family={Stolaroff},
+           familyi={S\bibinitperiod},
+           given={Joshuah\bibnamedelima K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=272378f05846b8e9ad99be8b66348df8}{%
+           family={Samaras},
+           familyi={S\bibinitperiod},
+           given={Constantine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1898f27080738bf301e5e025f23c3e5b}{%
+           family={O'Neill},
+           familyi={O\bibinitperiod},
+           given={Emma\bibnamedelima R.},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a819d6d557ee884d800290a66d998618}{%
+           family={Lubers},
+           familyi={L\bibinitperiod},
+           given={Alia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7df1d2da0b17dae2e907c44d4e3816f}{%
+           family={Mitchell},
+           familyi={M\bibinitperiod},
+           given={Alexandra\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d781e6087721767fd6cf4f56c7ed2e73}{%
+           family={Ceperley},
+           familyi={C\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY}%
+      }
+      \list{publisher}{1}{%
+        {NATURE PORTFOLIO}%
+      }
+      \strng{namehash}{f23859f768e5f53d591d30168b7d3d6e}
+      \strng{fullhash}{99b7138667418ea37fd8fdec182f4665}
+      \strng{bibnamehash}{f23859f768e5f53d591d30168b7d3d6e}
+      \strng{authorbibnamehash}{f23859f768e5f53d591d30168b7d3d6e}
+      \strng{authornamehash}{f23859f768e5f53d591d30168b7d3d6e}
+      \strng{authorfullhash}{99b7138667418ea37fd8fdec182f4665}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The use of automated, unmanned aerial vehicles (drones) to deliver commercial packages is poised to become a new industry, significantly shifting energy use in the freight sector. Here we find the current practical range of multi-copters to be about 4 km with current battery technology, requiring a new network of urban warehouses or waystations as support. We show that, although drones consume less energy per package-km than delivery trucks, the additional warehouse energy required and the longer distances traveled by drones per package greatly increase the life-cycle impacts. Still, in most cases examined, the impacts of package delivery by small drone are lower than ground-based delivery. Results suggest that, if carefully deployed, drone-based delivery could reduce greenhouse gas emissions and energy use in the freight sector. To realize the environmental benefits of drone delivery, regulators and firms should focus on minimizing extra warehousing and limiting the size of drones.}
+      \field{journaltitle}{NATURE COMMUNICATIONS}
+      \field{month}{2}
+      \field{title}{Energy use and life cycle greenhouse gas emissions of drones for commercial package delivery}
+      \field{type}{Article}
+      \field{volume}{9}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1038/s41467-017-02411-5
+      \endverb
+    \endentry
     \entry{WOS:001055864000001}{article}{}
       \name{author}{7}{}{%
         {{un=0,uniquepart=base,hash=6736fe87de681e0ca380d0d147d1d8b9}{%
@@ -1640,12 +1895,12 @@
     \endentry
     \entry{WOS:000400384200003}{article}{}
       \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=59884bdaf7e7dfdb16075aeb48578898}{%
+        {{un=1,uniquepart=given,hash=59884bdaf7e7dfdb16075aeb48578898}{%
            family={Wang},
            familyi={W\bibinitperiod},
            given={Xingyin},
            giveni={X\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=1d6ac47bbc4065b06b2c402fff029314}{%
            family={Poikonen},
            familyi={P\bibinitperiod},
@@ -1695,6 +1950,57 @@
       \verb 10.1007/s11590-016-1035-3
       \endverb
       \keyw{Vehicle routing; Drones; Worst-case analysis}
+    \endentry
+    \entry{WOS:000465060600016}{article}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=c92fb4d761d5c067a9eb42b2a2cf1521}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Zheng},
+           giveni={Z\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=7b05e39d269c549820e523e06b65cdc7}{%
+           family={Sheu},
+           familyi={S\bibinitperiod},
+           given={Jiuh-Biing},
+           giveni={J\bibinithyphendelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND}%
+      }
+      \list{publisher}{1}{%
+        {PERGAMON-ELSEVIER SCIENCE LTD}%
+      }
+      \strng{namehash}{5bb24abb82caffdd14594166d92ec8c7}
+      \strng{fullhash}{5bb24abb82caffdd14594166d92ec8c7}
+      \strng{bibnamehash}{5bb24abb82caffdd14594166d92ec8c7}
+      \strng{authorbibnamehash}{5bb24abb82caffdd14594166d92ec8c7}
+      \strng{authornamehash}{5bb24abb82caffdd14594166d92ec8c7}
+      \strng{authorfullhash}{5bb24abb82caffdd14594166d92ec8c7}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The vehicle routing problem with drones (VRPD) is an extension of the classic capacitated vehicle routing problem, where not only trucks but drones are used to deliver parcels to customers. One distinctive feature of the VRPD is that a drone may travel with a truck, take off from its stop to serve customers, and land at a service hub to travel with another truck as long as the flying range and loading capacity limitations are satisfied. Routing trucks and drones in an integrated manner makes the problem much more challenging and different from classical vehicle routing literature. We propose a mixed integer programming model, and develop a branch-and-price algorithm. Extensive experiments are conducted on the instances randomly generated in a practical setting, and the results demonstrate the good computational performance of the proposed algorithm. We also conduct sensitivity analysis on a key factor that may affect the total cost of a solution. (C) 2019 Elsevier Ltd. All rights reserved.}
+      \field{issn}{0191-2615}
+      \field{journaltitle}{TRANSPORTATION RESEARCH PART B-METHODOLOGICAL}
+      \field{month}{4}
+      \field{title}{Vehicle routing problem with drones}
+      \field{type}{Article}
+      \field{volume}{122}
+      \field{year}{2019}
+      \field{pages}{350\bibrangedash 364}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/j.trb.2019.03.005
+      \endverb
+      \keyw{Vehicle routing problem with drones; Branch and price; Column generation}
     \endentry
     \entry{WOS:001139514900001}{article}{}
       \name{author}{7}{}{%
@@ -1777,6 +2083,64 @@
       \verb 10.1016/j.ijhydene.2023.02.086
       \endverb
       \keyw{Hydrogen; Aircraft; Fuel cell; Engine}
+    \endentry
+    \entry{WOS:000534121800001}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=858c30c3fbaf9368ae3c72857661d99e}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Zhanjing},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=b12c3ec0b67a9039db0dc6af4e6f189e}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Po-Ju},
+           giveni={P\bibinithyphendelim J\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=a120613543c23d3c42fa7805cb832b2b}{%
+           family={Lew},
+           familyi={L\bibinitperiod},
+           given={Alan\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND}%
+      }
+      \list{publisher}{1}{%
+        {ROUTLEDGE JOURNALS, TAYLOR \& FRANCIS LTD}%
+      }
+      \strng{namehash}{7417df256885d6a8dc77b2998fb70547}
+      \strng{fullhash}{7417df256885d6a8dc77b2998fb70547}
+      \strng{bibnamehash}{7417df256885d6a8dc77b2998fb70547}
+      \strng{authorbibnamehash}{7417df256885d6a8dc77b2998fb70547}
+      \strng{authornamehash}{7417df256885d6a8dc77b2998fb70547}
+      \strng{authorfullhash}{7417df256885d6a8dc77b2998fb70547}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Global economic and social life has been severely challenged since the World Health Organization (WHO) declared the COVID-19 disease a pandemic. Travel, tourism and hospitality, in particular, has been massively impacted by the lockdowns used to maintain social distance to manage the disease. Robotics, artificial intelligence, and human-robot interactions have gained an increased presence to help manage the spread of COVID-19 in hospitals, airports, transportation systems, recreation and scenic areas, hotels, restaurants, and communities in general. Humanoid robots, autonomous vehicles, drones, and other intelligent robots are used in many different ways to reduce human contact and the potential spread of the SARS-CoV-2 virus, including delivering materials, disinfecting and sterilizing public spaces, detecting or measuring body temperature, providing safety or security, and comforting and entertaining patients. While controversial in the past due to concerns over job losses and data privacy, the adoption of robotics and artificial intelligence in travel and tourism will likely continue after the COVID-19 pandemic becomes less serious. Tourism scholars should seize this opportunity to develop robotic applications that enhance tourist experiences, the protection of natural and cultural resources, citizen participation in tourism development decision making, and the emergence of new `high-touch' employment opportunities for travel, tourism and hospitality workers.}
+      \field{issn}{1461-6688}
+      \field{journaltitle}{TOURISM GEOGRAPHIES}
+      \field{month}{5}
+      \field{number}{3, SI}
+      \field{title}{From high-touch to high-tech: COVID-19 drives robotics adoption}
+      \field{type}{Article}
+      \field{volume}{22}
+      \field{year}{2020}
+      \field{pages}{724\bibrangedash 734}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1080/14616688.2020.1762118
+      \endverb
+      \keyw{Robotics; COVID-19 pandemic; artificial Intelligence; human-robot interaction; drones; high-tech; high-touch}
     \endentry
   \enddatalist
 \endrefsection
