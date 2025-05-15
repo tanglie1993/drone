@@ -3,7 +3,7 @@ from collections import defaultdict, Counter
 # 手工填入同义词映射表
 # 格式：标准词: [同义词1, 同义词2, ...]
 synonyms = {
-    "Unmanned aerial vehicle": ["uav", "drone", "drones", "uavs", "unmanned aerial vehicles",
+    "Drone": ["uav", "Unmanned aerial vehicle", "drone", "drones", "uavs", "unmanned aerial vehicles",
                                 "unmanned aerial vehicles (uav)", "unmanned aerial vehicle (uav)", "uas",
                                 "unmanned aerial vehicle", "autonomous aerial vehicles"],
     "Traveling salesman problem": ["tsp", "traveling salesperson problem"],
@@ -50,8 +50,8 @@ for line in lines:
                     keyword_count_after_2015[standardized_keyword] += 1
 
 # 获取高频关键词（例如前20个）
-top_keywords_before_2015 = Counter(keyword_count_before_2015).most_common(15)
-top_keywords_after_2015 = Counter(keyword_count_after_2015).most_common(15)
+top_keywords_before_2015 = Counter(keyword_count_before_2015).most_common(10)
+top_keywords_after_2015 = Counter(keyword_count_after_2015).most_common(10)
 
 print("2020 年前高频关键词统计：")
 for keyword, count in top_keywords_before_2015:

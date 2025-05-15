@@ -17,7 +17,10 @@ for line in lines:
 sorted_years = sorted(year_count.keys())
 counts = [year_count[year] for year in sorted_years]
 
-print(counts)
+# 打印年份及对应数量（新增部分）
+print("Year : Publications")
+for year, count in zip(sorted_years, counts):
+    print(f"{year} : {count}")
 
 # 绘制柱状图
 plt.figure(figsize=(10, 6))

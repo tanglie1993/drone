@@ -31,21 +31,28 @@ def parse_records(file_path):
 
 
 def parse_record_fields(record_lines):
-    """解析单条记录的字段内容"""
-    data = {'TI': '', 'PY': 0, 'TC': 0}
+    """解析单条记录的字段内容（新增摘要和作者解析）"""
+    data = {'TI': '', 'PY': 0, 'TC': 0, 'AB': '', 'AU': []}
     current_field = None
 
     for line in record_lines:
-        # 检测字段标识（如TI/PY/TC）
+        # 检测字段标识（如TI/AB/AU等）
         if re.match(r'^[A-Z]{1,2}\d?\s', line[:3]):
             field_code = line[:2]
             content = line[3:].strip()
             current_field = field_code
-            if field_code in data:
+
+            if field_code == 'AU':
+                data['AU'].append(content)
+            elif field_code in data:
                 data[field_code] = content
-        # 处理多行字段的延续内容
-        elif current_field in data:
-            data[current_field] += ' ' + line.strip()
+        else:
+            # 处理多行字段的延续内容
+            stripped_line = line.strip()
+            if current_field == 'AU' and data['AU']:
+                data['AU'][-1] += ' ' + stripped_line
+            elif current_field in data:
+                data[current_field] += ' ' + stripped_line
 
     # 数据类型转换
     try:
@@ -59,7 +66,9 @@ def parse_record_fields(record_lines):
         data['TC'] = 0
 
     return {
-        'title': data['TI'],
+        'title': data['TI'].strip(),
+        'abstract': data['AB'].strip(),
+        'authors': '; '.join(data['AU']),
         'year': data['PY'],
         'citations': data['TC']
     }
@@ -75,12 +84,20 @@ if __name__ == '__main__':
     for rec in records:
         parsed = parse_record_fields(rec)
         if parsed['year'] >= 2000 and parsed['citations'] > 0:
-            high_cited.append((parsed['title'], parsed['citations']))
+            high_cited.append((
+                parsed['title'],
+                parsed['abstract'],
+                parsed['authors'],
+                parsed['citations']
+            ))
 
     # 按被引次数降序排序
-    high_cited_sorted = sorted(high_cited, key=lambda x: (-x[1], x[0]))[0:500]
+    high_cited_sorted = sorted(high_cited, key=lambda x: (-x[3], x[0]))[:20]
 
-    # 打印结果
+    # 打印结果（新增摘要和作者输出）
     print("高频被引文章（2000年及以后）：")
-    for idx, (title, cites) in enumerate(high_cited_sorted, ):
-        print(f"{idx}. {title} | 被引次数：{cites}")
+    for idx, (title, abstract, authors, cites) in enumerate(high_cited_sorted, 1):
+        print(f"{idx}. 标题：{title}")
+        # print(f"   摘要：{abstract}")
+        # print(f"   作者：{authors}")
+        print(f"   被引次数：{cites}\n")
