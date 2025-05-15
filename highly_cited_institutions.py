@@ -1,4 +1,5 @@
 import re
+import json
 from collections import defaultdict
 
 # ================== 用户配置区域 ==================
@@ -17,160 +18,182 @@ EXCLUDE_INSTITUTIONS = {
 }
 
 
-# ================== 数据处理函数 ==================
-def clean_institution_name(raw_name):
-    """机构名称清洗"""
-    name = raw_name.strip()
+def process_c3_institutions(c3_data):
+    """处理C3字段并确保单记录内机构去重"""
+    raw_str = ';'.join(c3_data) if isinstance(c3_data, list) else c3_data
+    processed_str = raw_str.replace('\n', ' ')
 
-    # 应用名称映射
-    for old, new in INSTITUTION_MAPPING.items():
-        if name.lower() == old.lower():
-            return new
+    seen = set()  # 单记录去重集合
+    institutions = []
 
-    # 去除系统后缀
-    name = re.sub(r',.*?(System|Campus)\b', '', name, flags=re.IGNORECASE)
-
-    # 统一缩写
-    name = re.sub(r'\bUniv\b', 'University', name, flags=re.IGNORECASE)
-
-    return name
-
-
-def parse_records(file_path):
-    """解析WOS文件"""
-    records = []
-    current_record = []
-    in_record = False
-
-    with open(file_path, 'r', encoding='utf-8') as f:
-        for line in f:
-            line = line.rstrip('\n')
-
-            if re.match(r'^PT\s', line):
-                if in_record:
-                    records.append(current_record)
-                current_record = [line]
-                in_record = True
-            elif in_record and line == 'ER':
-                current_record.append(line)
-                records.append(current_record)
-                current_record = []
-                in_record = False
-            elif in_record:
-                current_record.append(line)
-
-    return records
-
-
-def parse_record(record_lines):
-    """解析单条记录"""
-    data = defaultdict(list)
-    current_field = None
-
-    for line in record_lines:
-        # 检测字段开始
-        if re.match(r'^[A-Z]{1,2}\d?\s', line[:3]):
-            field_code = line[:2]
-            content = line[3:].strip()
-            current_field = field_code
-            data[field_code].append(content)
-        else:
-            # 处理续行内容
-            if current_field:
-                stripped = line.strip()
-                if current_field == 'AU':
-                    # 每个续行视为新作者
-                    data[current_field].append(stripped)
-                else:
-                    # 合并到当前字段
-                    if data[current_field]:
-                        data[current_field][-1] += ' ' + stripped
-
-    # 处理机构信息
-    institutions = set()
-    for c3 in data.get('C3', []):
-        for raw_inst in c3.split(';'):
-            cleaned = clean_institution_name(raw_inst)
-            if cleaned and cleaned not in EXCLUDE_INSTITUTIONS:
-                institutions.add(cleaned)
-
-    return {
-        'year': int(data['PY'][0]) if data.get('PY') and data['PY'][0].isdigit() else 0,
-        'citations': int(data['TC'][0]) if data.get('TC') and data['TC'][0].isdigit() else 0,
-        'title': ' '.join(data.get('TI', [])),
-        'abstract': ' '.join(data.get('AB', [])),
-        'authors': data.get('AU', []),
-        'institutions': institutions
-    }
-
-
-# ================== 统计计算函数 ==================
-def calculate_h_index(citations):
-    """计算H指数"""
-    return sum(1 for i, v in enumerate(sorted(citations, reverse=True), 1) if v >= i)
-
-
-# ================== 主程序 ==================
-def main(file_path):
-    # 数据读取
-    records = parse_records(file_path)
-    articles = [parse_record(r) for r in records]
-
-    # 初始化统计
-    stats = defaultdict(lambda: {
-        'count': 0,
-        'citations': 0,
-        'articles': [],
-        'h_index': 0
-    })
-
-    # 处理每篇文章
-    for art in articles:
-        if art['year'] < 2000:
+    for raw_inst in processed_str.split(';'):
+        inst = raw_inst.strip()
+        if not inst:
             continue
 
-        for inst in art['institutions']:
-            stats[inst]['count'] += 1
-            if art['citations'] > 0:
-                stats[inst]['citations'] += art['citations']
-                stats[inst]['articles'].append({
-                    'title': art['title'],
-                    'abstract': art['abstract'],
-                    'citations': art['citations'],
-                    'authors': art['authors']
-                })
+        # 关键步骤：先应用映射表再去重
+        mapped_inst = INSTITUTION_MAPPING.get(inst, inst)
+
+        if mapped_inst not in EXCLUDE_INSTITUTIONS and mapped_inst not in seen:
+            seen.add(mapped_inst)
+            institutions.append(mapped_inst)
+
+    return institutions
+
+def print_specific_columns(data, columns, title):
+    """通用打印函数，指定显示的列"""
+    column_titles = {
+        'publications': ('Publications', 12),
+        'total_citations': ('Total Citations', 15),
+        'h_index': ('H-index', 10)
+    }
+
+    # 生成表头
+    header = "{:<60}".format("Institution")
+    for col in columns:
+        title_part = column_titles[col][0]
+        width = column_titles[col][1]
+        header += " {:<{}}".format(title_part, width)
+
+    print(f"\n{'=' * 30} {title} {'=' * 30}")
+    print(header)
+    print("-" * (60 + sum(
+        [ct[1] + 1 for ct in column_titles.values() if ct[0] in [column_titles[c][0] for c in columns]])))
+
+    # 打印数据行
+    for item in data:
+        line = "{:<60}".format(item['institution'])
+        for col in columns:
+            width = column_titles[col][1]
+            line += " {:<{}}".format(item[col], width)
+        print(line)
+
+
+
+def calculate_h_index(citations):
+    sorted_citations = sorted(citations, reverse=True)
+    h = 0
+    for i, c in enumerate(sorted_citations, 1):
+        if c >= i:
+            h = i
+        else:
+            break
+    return h
+
+
+def analyze_c3_institutions(input_file):
+    """精确统计机构参与情况"""
+    stats = defaultdict(lambda: {
+        'publications': 0,  # 参与论文数（已去重）
+        'total_citations': 0,
+        'citations': []  # 每篇论文贡献的被引次数
+    })
+
+    with open(input_file, 'r', encoding='utf-8') as f:
+        for line in f:
+            try:
+                record = json.loads(line)
+                tc = int(record.get('TC', 0)) or 0
+
+                if 'C3' in record:
+                    unique_insts = process_c3_institutions(record['C3'])
+                    for inst in unique_insts:
+                        stats[inst]['publications'] += 1
+                        stats[inst]['total_citations'] += tc
+                        stats[inst]['citations'].append(tc)
+            except Exception as e:
+                print(f"处理异常记录: {e}")
+                continue
 
     # 计算H指数
-    for inst in stats:
-        citations = [a['citations'] for a in stats[inst]['articles']]
-        stats[inst]['h_index'] = calculate_h_index(citations)
+    results = []
+    for inst, data in stats.items():
+        results.append({
+            'institution': inst,
+            'publications': data['publications'],
+            'total_citations': data['total_citations'],
+            'h_index': calculate_h_index(data['citations'])
+        })
 
-    # 生成排行榜
-    def get_top(data, key, n=10):
-        return sorted(data.items(), key=lambda x: (-x[1][key], x[0]))[:n]
+    return results
 
-    top_cited = get_top(stats, 'citations')
 
-    # 输出排行榜
-    print("=== 总被引次数Top10机构 ===")
-    for rank, (inst, data) in enumerate(top_cited, 1):
-        print(f"{rank:2d}. {inst:<50} {data['citations']}次")
+def generate_top_lists(results):
+    """生成三个Top10排行榜"""
+    # 按总被引排序
+    top_citations = sorted(results,
+                           key=lambda x: (-x['total_citations'], -x['h_index'], x['institution']))[:10]
 
-    # 输出每个机构的TOP5论文
-    print("\n=== 各机构高被引论文 ===")
-    for inst, data in top_cited:
-        print(f"\n◆ 机构：{inst}")
-        print(f"▷ 总被引：{data['citations']}次  H-index：{data['h_index']}")
+    # 按发文量排序
+    top_publications = sorted(results,
+                              key=lambda x: (-x['publications'], -x['total_citations'], x['institution']))[:10]
 
-        top_articles = sorted(data['articles'],
-                              key=lambda x: (-x['citations'], x['title']))[:8]
+    # 按H指数排序
+    top_hindex = sorted(results,
+                        key=lambda x: (-x['h_index'], -x['total_citations'], x['institution']))[:10]
 
-        for idx, art in enumerate(top_articles, 1):
-            print(f"\n▣ 论文{idx} [被引：{art['citations']}次]")
-            print(f"▨ 作者：{', '.join(art['authors'])}")
-            print(f"▨ 标题：{art['title']}")
-            print(f"▩ 摘要：{art['abstract']}" if art['abstract'] else "（无摘要）")
+    return top_citations, top_publications, top_hindex
+
+
+def print_top_list(data, title):
+    """通用打印函数"""
+    print(f"\n{'=' * 30} {title} {'=' * 30}")
+    print("{:<60} {:<12} {:<15} {:<10}".format(
+        "Institution", "Publications", "Total Citations", "H-index"))
+    print("-" * 100)
+    for item in data:
+        print("{:<60} {:<12} {:<15} {:<10}".format(
+            item['institution'],
+            item['publications'],
+            item['total_citations'],
+            item['h_index']
+        ))
+
+
+def print_specific_columns(data, columns, title):
+    """通用打印函数，指定显示的列"""
+    column_titles = {
+        'publications': ('Publications', 12),
+        'total_citations': ('Total Citations', 15),
+        'h_index': ('H-index', 10)
+    }
+
+    # 生成表头
+    header = "{:<60}".format("Institution")
+    for col in columns:
+        title_part = column_titles[col][0]
+        width = column_titles[col][1]
+        header += " {:<{}}".format(title_part, width)
+
+    print(f"\n{'=' * 30} {title} {'=' * 30}")
+    print(header)
+    print("-" * (60 + sum(
+        [ct[1] + 1 for ct in column_titles.values() if ct[0] in [column_titles[c][0] for c in columns]])))
+
+    # 打印数据行
+    for item in data:
+        line = "{:<60}".format(item['institution'])
+        for col in columns:
+            width = column_titles[col][1]
+            line += " {:<{}}".format(item[col], width)
+        print(line)
 
 
 if __name__ == "__main__":
-    main('data/data.txt')
+    all_results = analyze_c3_institutions("data/data.jsonl")
+    top_citations, top_pubs, top_hindex = generate_top_lists(all_results)
+
+    # 输出总被引排行榜
+    print_specific_columns(top_citations,
+                           ['total_citations'],
+                           "Top 10 Institutions by Total Citations")
+
+    # 输出发文量排行榜
+    print_specific_columns(top_pubs,
+                           ['publications'],
+                           "Top 10 Institutions by Publications")
+
+    # 输出H指数排行榜
+    print_specific_columns(top_hindex,
+                           ['h_index'],
+                           "Top 10 Institutions by H-index")

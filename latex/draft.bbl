@@ -132,6 +132,58 @@
       \endverb
       \keyw{unmanned aerial vehicle; drone; computer vision; navigation; localization; mapping; obstacle avoidance; path planning}
     \endentry
+    \entry{WOS:000501349900060}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c3f284d63eb381c07f47c409da6bddd9}{%
+           family={Asheralieva},
+           familyi={A\bibinitperiod},
+           given={Alia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f678efa4adc87cf8d6e229b46a03b8dd}{%
+           family={Niyato},
+           familyi={N\bibinitperiod},
+           given={Dusit},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA}%
+      }
+      \list{publisher}{1}{%
+        {IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC}%
+      }
+      \strng{namehash}{e4dd8eaae28466e16da56818e64303fd}
+      \strng{fullhash}{e4dd8eaae28466e16da56818e64303fd}
+      \strng{bibnamehash}{e4dd8eaae28466e16da56818e64303fd}
+      \strng{authorbibnamehash}{e4dd8eaae28466e16da56818e64303fd}
+      \strng{authornamehash}{e4dd8eaae28466e16da56818e64303fd}
+      \strng{authorfullhash}{e4dd8eaae28466e16da56818e64303fd}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The paper considers a cloud-based Content Delivery Network (CDN) with Device-to-Device (D2D) and Unmanned Aerial Vehicle (UAV) enabled caching. The network is managed by the operator that offers content transfer services to the set of Content Providers (CPs). A subscriber of any CP can receive its content either by first, cellular content transfer via a terrestrial Base Station (BS) or a UAV, or by second, D2D content transfer from another subscriber of this CP. Each CP aims to maximize its expected payoff defined as a reciprocal of the weighted sum of the expected content transfer cost and delay for its subscribers. The operators objective is to maximize its long-term average revenue and stabilize the queuing system which represents the content transfer services. To model the interactions between the operator and the CPs, a novel framework is proposed that combines: first, cooperative game that enables the CPs to form coalitions in which all subscribers can exchange content via D2D links, thereby reducing content transfer costs and delays; second, Lyapunov optimization based dynamic channel and UAVs activity allocation policy of the operator. Through analytical and numerical evaluations, it is proven that if the operator and each CP are rational, the network reaches a state where all the CPs are in the stable coalitional structure, whereas, the dynamic policy of the operator is optimal with the trade-off in the total queue backlog.}
+      \field{issn}{0018-9545}
+      \field{journaltitle}{IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY}
+      \field{month}{10}
+      \field{number}{10}
+      \field{title}{Game Theory and Lyapunov Optimization for Cloud-Based Content Delivery Networks With Device-to-Device and UAV-Enabled Caching}
+      \field{type}{Article}
+      \field{volume}{68}
+      \field{year}{2019}
+      \field{pages}{10094\bibrangedash 10110}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1109/TVT.2019.2934027
+      \endverb
+      \keyw{Device-to-device communication; Delays; Optimization; Wireless communication; Servers; Resource management; Unmanned aerial vehicles; Cloud-based content delivery; device-to-device communication; game theory; Lyapunov optimization; resource allocation; stochastic network control; UAV communication}
+    \endentry
     \entry{WOS:000432504700016}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=417dabdde7f6c3e31e3deb35bad60164}{%
@@ -250,6 +302,64 @@
       \endverb
       \keyw{logistics; artificial intelligence; sustainability; optimization}
     \endentry
+    \entry{WOS:000742554100008}{article}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=7ecb8c8855fd1d257fd22ccaa3c74e29}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Xinwei},
+           giveni={X\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=65a8d8c43c0c376d4b3380b4c06c3b07}{%
+           family={Ulmer},
+           familyi={U\bibinitperiod},
+           given={Marlin\bibnamedelima W.},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dbdb79d5a22e9e0d0758e0e921dea2fe}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={Barrett\bibnamedelima W.},
+           giveni={B\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS}%
+      }
+      \list{publisher}{1}{%
+        {ELSEVIER}%
+      }
+      \strng{namehash}{8e07f5bdba33cf3f276c86a5741df39a}
+      \strng{fullhash}{8e07f5bdba33cf3f276c86a5741df39a}
+      \strng{bibnamehash}{8e07f5bdba33cf3f276c86a5741df39a}
+      \strng{authorbibnamehash}{8e07f5bdba33cf3f276c86a5741df39a}
+      \strng{authornamehash}{8e07f5bdba33cf3f276c86a5741df39a}
+      \strng{authorfullhash}{8e07f5bdba33cf3f276c86a5741df39a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this paper, we consider same-day delivery with vehicles and drones. Customers make delivery requests over the course of the day, and the dispatcher dynamically dispatches vehicles and drones to deliver the goods to customers before their delivery deadline. Vehicles can deliver multiple packages in one route but travel relatively slowly due to the urban traffic. Drones travel faster, but they have limited capacity and require charging or battery swaps. To exploit the different strengths of the fleets, we propose a deep Qlearning approach. Our method learns the value of assigning a new customer to either drones or vehicles as well as the option to not offer service at all. In a systematic computational analysis, we show the superiority of our policy compared to benchmark policies and the effectiveness of our deep Q-learning approach. We also show that the combination of state and action features is very valuable and that our policy can maintain effectiveness when demand data and the fleet size change moderately. (c) 2021 Elsevier B.V. All rights reserved.}
+      \field{issn}{0377-2217}
+      \field{journaltitle}{EUROPEAN JOURNAL OF OPERATIONAL RESEARCH}
+      \field{month}{5}
+      \field{number}{3}
+      \field{title}{Deep Q-learning for same-day delivery with vehicles and drones}
+      \field{type}{Article}
+      \field{volume}{298}
+      \field{year}{2022}
+      \field{pages}{939\bibrangedash 952}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.ejor.2021.06.021
+      \endverb
+      \keyw{Transportation; Same-day delivery; Reinforcement learning; Dynamic vehicle routing}
+    \endentry
     \entry{WOS:000623397300001}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=6f9b1df7a581481357952013945bcb9c}{%
@@ -307,6 +417,70 @@
       \verb 10.1108/IJCHM-08-2020-0839
       \endverb
       \keyw{Intentions to use; Image; Perceived risk; COVID-19; DFDS}
+    \endentry
+    \entry{WOS:000391480400007}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f24afed654a5e4e2593ec3f8ac427c08}{%
+           family={Dorling},
+           familyi={D\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=775e3d80b8b7def8a211092a5d2ea1b7}{%
+           family={Heinrichs},
+           familyi={H\bibinitperiod},
+           given={Jordan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e46f9ef2ff23f18cea2589e2db12cf96}{%
+           family={Messier},
+           familyi={M\bibinitperiod},
+           given={Geoffrey\bibnamedelima G.},
+           giveni={G\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a09838f8aa91401650f4196973b71a6f}{%
+           family={Magierowski},
+           familyi={M\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA}%
+      }
+      \list{publisher}{1}{%
+        {IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC}%
+      }
+      \strng{namehash}{c490efabf640841010bb3e3897291b1b}
+      \strng{fullhash}{64475d8a94bb9d93e0e392432bd88cf5}
+      \strng{bibnamehash}{c490efabf640841010bb3e3897291b1b}
+      \strng{authorbibnamehash}{c490efabf640841010bb3e3897291b1b}
+      \strng{authornamehash}{c490efabf640841010bb3e3897291b1b}
+      \strng{authorfullhash}{64475d8a94bb9d93e0e392432bd88cf5}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Unmanned aerial vehicles, or drones, have the potential to significantly reduce the cost and time of making last-mile deliveries and responding to emergencies. Despite this potential, little work has gone into developing vehicle routing problems (VRPs) specifically for drone delivery scenarios. Existing VRPs are insufficient for planning drone deliveries: either multiple trips to the depot are not permitted, leading to solutions with excess drones, or the effect of battery and payload weight on energy consumption is not considered, leading to costly or infeasible routes. We propose two multitrip VRPs for drone delivery that address both issues. One minimizes costs subject to a delivery time limit, while the other minimizes the overall delivery time subject to a budget constraint. We mathematically derive and experimentally validate an energy consumption model for multirotor drones, demonstrating that energy consumption varies approximately linearly with payload and battery weight. We use this approximation to derive mixed integer linear programs for our VRPs. We propose a cost function that considers our energy consumption model and drone reuse, and apply it in a simulated annealing (SA) heuristic for finding suboptimal solutions to practical scenarios. To assist drone delivery practitioners with balancing cost and delivery time, the SA heuristic is used to show that the minimum cost has an inverse exponential relationship with the delivery time limit, and the minimum overall delivery time has an inverse exponential relationship with the budget. Numerical results confirm the importance of reusing drones and optimizing battery size in drone delivery VRPs.}
+      \field{issn}{2168-2216}
+      \field{journaltitle}{IEEE TRANSACTIONS ON SYSTEMS MAN CYBERNETICS-SYSTEMS}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Vehicle Routing Problems for Drone Delivery}
+      \field{type}{Article}
+      \field{volume}{47}
+      \field{year}{2017}
+      \field{pages}{70\bibrangedash 85}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1109/TSMC.2016.2582745
+      \endverb
+      \keyw{Delivery; drone; heuristic; mixed integer program (MIP); simulated annealing (SA); traveling salesman problem (TSP); unmanned aerial vehicle (UAV); vehicle routing problem (VRP)}
     \endentry
     \entry{WOS:001229751500001}{article}{}
       \name{author}{4}{}{%
@@ -438,6 +612,203 @@
       \verb 10.1016/j.ifacol.2024.09.255
       \endverb
       \keyw{forklifts; drones; sustainable logistics; sustainable supply chain; literature review}
+    \endentry
+    \entry{WOS:000658360600026}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=eefff8e9fa2188a63181fb5eaf5b1e75}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Honghao},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aa26870d99099abb82c8205a89637e90}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Can},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3753f139bbd88a53924ae0bdf3bafb76}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Youhuizi},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91debce953f1e0f1b0f395b0e538f4cc}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Xiaoxian},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA}%
+      }
+      \list{publisher}{1}{%
+        {IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC}%
+      }
+      \strng{namehash}{c86242682dc80fc53260e23e491cf1cb}
+      \strng{fullhash}{10eda1a24ba34d39c718759beb497d8d}
+      \strng{bibnamehash}{c86242682dc80fc53260e23e491cf1cb}
+      \strng{authorbibnamehash}{c86242682dc80fc53260e23e491cf1cb}
+      \strng{authornamehash}{c86242682dc80fc53260e23e491cf1cb}
+      \strng{authorfullhash}{10eda1a24ba34d39c718759beb497d8d}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Vehicular ad hoc networks (VANETs) have been widely used in intelligent transportation systems (ITSs) for purposes such as the control of unmanned aerial vehicles (UAVs) and trajectory prediction. However, an efficient and reliable data routing decision scheme is critical for VANETs due to the feature of self-organizing wireless multi-hop communication. Compared with wireless networks, which are unstable and have limited bandwidth, wired networks normally provide longer transmission distances, higher network speeds and greater reliability. To address this problem, this paper proposes a reliable VANET routing decision scheme based on the Manhattan mobility model, which considers the integration of roadside units (RSUs) into wireless and wired modes for data transmission and routing optimization. First, the problems of frequently moving vehicles and network connectivity are analyzed based on road networks and the motion information of vehicle nodes. Second, an improved greedy algorithm for vehicle wireless communication is used for network optimization, and a wired RSU network is also applied. In addition, routing decision analysis is carried out in accordance with the probabilistic model for various transmission ranges by checking the connectivity among vehicles and RSUs. Finally, comprehensive experiments show that our proposed method can support real-time planning and improve network transmission performance compared with other baseline protocol approaches in terms of several metrics, including package delivery ratio, time delay and wireless hops.}
+      \field{issn}{1524-9050}
+      \field{journaltitle}{IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS}
+      \field{month}{6}
+      \field{number}{6}
+      \field{title}{V2VR: Reliable Hybrid-Network-Oriented V2V Data Transmission and Routing Considering RSUs and Connectivity Probability}
+      \field{type}{Article}
+      \field{volume}{22}
+      \field{year}{2021}
+      \field{pages}{3533\bibrangedash 3546}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1109/TITS.2020.2983835
+      \endverb
+      \keyw{Routing; Routing protocols; Reliability; Vehicular ad hoc networks; Wireless communication; Data communication; VANET routing decision scheme; hybrid network V2VR; network reliability; real-time path planning; data transmission and routing}
+    \endentry
+    \entry{WOS:000425566000035}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=9f8c40514aa4550c483db85c0d3400e3}{%
+           family={Ha},
+           familyi={H\bibinitperiod},
+           given={Quang\bibnamedelima Minh},
+           giveni={Q\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52933b3e7c4e4277be0f88e9ffd5ebbc}{%
+           family={Deville},
+           familyi={D\bibinitperiod},
+           given={Yves},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fca2198a7fb0aa54b5e578cf198cb3c9}{%
+           family={Pham},
+           familyi={P\bibinitperiod},
+           given={Quang\bibnamedelima Dung},
+           giveni={Q\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a6ff40e65071104af5bcc51af4bf025d}{%
+           family={Ha},
+           familyi={H\bibinitperiod},
+           given={Minh\bibnamedelima Hoang},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND}%
+      }
+      \list{publisher}{1}{%
+        {PERGAMON-ELSEVIER SCIENCE LTD}%
+      }
+      \strng{namehash}{91205d0c3bc723bb1c5791258233f51d}
+      \strng{fullhash}{27223e8e1b6b27aacb5ba27d4041c268}
+      \strng{bibnamehash}{91205d0c3bc723bb1c5791258233f51d}
+      \strng{authorbibnamehash}{91205d0c3bc723bb1c5791258233f51d}
+      \strng{authornamehash}{91205d0c3bc723bb1c5791258233f51d}
+      \strng{authorfullhash}{27223e8e1b6b27aacb5ba27d4041c268}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Over the past few years, unmanned aerial vehicles (UAV), also known as drones, have been adopted as part of a new logistic method in the commercial sector called ``last-mile delivery{''}. In this novel approach, they are deployed alongside trucks to deliver goods to customers to improve the quality of service and reduce the transportation cost. This approach gives rise to a new variant of the traveling salesman problem (TSP), called TSP with drone (TSP-D). A variant of this problem that aims to minimize the time at which truck and drone finish the service (or, in other words, to maximize the quality of service) was studied in the work of Murray and Chu (2015). In contrast, this paper considers a new variant of TSP-D in which the objective is to minimize operational costs including total transportation cost and one created by waste time a vehicle has to wait for the other. The problem is first formulated mathematically. Then, two algorithms are proposed for the solution. The first algorithm (TSP-LS) was adapted from the approach proposed by Murray and Chu (2015), in which an optimal TSP solution is converted to a feasible TSP-D solution by local searches. The second algorithm, a Greedy Randomized Adaptive Search Procedure (GRASP), is based on a new split procedure that optimally splits any TSP tour into a TSP-D solution. After a TSP-D solution has been generated, it is then improved through local search operators. Numerical results obtained on various instances of both objective functions with different sizes and characteristics are presented. The results show that GRASP outperforms TSP-IS in terms of solution quality under an acceptable running time.}
+      \field{issn}{0968-090X}
+      \field{journaltitle}{TRANSPORTATION RESEARCH PART C-EMERGING TECHNOLOGIES}
+      \field{month}{1}
+      \field{title}{On the min-cost Traveling Salesman Problem with Drone}
+      \field{type}{Article}
+      \field{volume}{86}
+      \field{year}{2018}
+      \field{pages}{597\bibrangedash 621}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1016/j.trc.2017.11.015
+      \endverb
+      \keyw{Traveling Salesman Problem with Drone; Minimize operational cost; Integer programming; Heuristic; GRASP}
+    \endentry
+    \entry{WOS:000684003100038}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=b84331e51e77b440f2631a2be6bbf4d4}{%
+           family={Al-Hilo},
+           familyi={A\bibinithyphendelim H\bibinitperiod},
+           given={Ahmed},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f62967bd039a04876a48240b527c4afe}{%
+           family={Samir},
+           familyi={S\bibinitperiod},
+           given={Moataz},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=50bbd0d7e6970b5ed2561db5c5b8847c}{%
+           family={Assi},
+           familyi={A\bibinitperiod},
+           given={Chadi},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a311ab42a76996576fff158fa19b6a3b}{%
+           family={Sharafeddine},
+           familyi={S\bibinitperiod},
+           given={Sanaa},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=06756179770f912ae780589f09d63e3c}{%
+           family={Ebrahimi},
+           familyi={E\bibinitperiod},
+           given={Dariush},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA}%
+      }
+      \list{publisher}{1}{%
+        {IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC}%
+      }
+      \strng{namehash}{e32ff4b20962776477eeb7856baa9338}
+      \strng{fullhash}{15c0706f118f898c88740e52768c641a}
+      \strng{bibnamehash}{e32ff4b20962776477eeb7856baa9338}
+      \strng{authorbibnamehash}{e32ff4b20962776477eeb7856baa9338}
+      \strng{authornamehash}{e32ff4b20962776477eeb7856baa9338}
+      \strng{authorfullhash}{15c0706f118f898c88740e52768c641a}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Unmanned Aerial Vehicles (UAVs) are gaining growing interests due to the paramount roles they play, particularly these days, in enabling new services that help modernize our transportation, supply chain, search and rescue, among others. They are capable of positively influencing wireless systems through enabling and fostering emerging technologies such as autonomous driving, vertical industries, virtual reality and so many others. The Internet of Vehicles is a prime sector benefiting from the services offered by future cellular systems in general and UAVs in particular, and this paper considers the problem of content delivery to vehicles on road segments with either overloaded or no available communication infrastructure. Incoming vehicles demand service from a library of contents that is partially cached at the UAV; the content of the library is also assumed to change as new vehicles carrying more popular contents arrive. Each inbound vehicle makes a request and the UAV decides on its best trajectory to provide service while maximizing a certain operational utility. Given the energy limitation at the UAV, we seek an energy efficient solution. Hence, our problem consists of jointly finding caching decisions, UAV trajectory and radio resource allocation which is formulated mathematically as a Mixed Integer Non-Linear Problem (MINLP). However, owing to uncertainties in the environment (e.g., random arrival of vehicles, their requests for contents and their existing contents), it is often hard and impractical to solve using standard optimization techniques. To this end, we formulate our problem as a Markov Decision Process (MDP) and we resort to tools such as Proximal Policy Optimization (PPO), a very promising Reinforcement Learning method, along with a set of crafted algorithms to solve our problem. Finally, we conduct simulation-based experiments to analyze and demonstrate the superiority of our solution approach compared with four counterparts and baseline schemes.}
+      \field{issn}{1524-9050}
+      \field{journaltitle}{IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS}
+      \field{month}{8}
+      \field{number}{8}
+      \field{title}{UAV-Assisted Content Delivery in Intelligent Transportation Systems-Joint Trajectory Planning and Cache Management}
+      \field{type}{Article}
+      \field{volume}{22}
+      \field{year}{2021}
+      \field{pages}{5155\bibrangedash 5167}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1109/TITS.2020.3020220
+      \endverb
+      \keyw{Trajectory; Unmanned aerial vehicles; Wireless communication; Libraries; Resource management; Delays; Unmanned aerial vehicle (UAV); UAVs' trajectories; resource allocation; Deep Reinforcement Learning; Vehicular Ad-hoc Networks (VANETs)}
     \endentry
     \entry{WOS:000495004400013}{article}{}
       \name{author}{2}{}{%
@@ -1024,8 +1395,63 @@
       \endverb
       \keyw{bibliometrics; exploratory research; VOSviewer; Scopus; SDGs; remote sensing}
     \endentry
+    \entry{WOS:000532795300023}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0f20c621c25eef9ac077d18cd13a12aa}{%
+           family={Kitjacharoenchai},
+           familyi={K\bibinitperiod},
+           given={Patchara},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e026920a0bc0739b8f32fbe476256804}{%
+           family={Min},
+           familyi={M\bibinitperiod},
+           given={Byung-Cheol},
+           giveni={B\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=f85fa96c4c76521735d0a8a1894b927b}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Seokcheon},
+           giveni={S\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS}%
+      }
+      \list{publisher}{1}{%
+        {ELSEVIER}%
+      }
+      \strng{namehash}{76696d8d9dec5ce2611ae645092616d8}
+      \strng{fullhash}{76696d8d9dec5ce2611ae645092616d8}
+      \strng{bibnamehash}{76696d8d9dec5ce2611ae645092616d8}
+      \strng{authorbibnamehash}{76696d8d9dec5ce2611ae645092616d8}
+      \strng{authornamehash}{76696d8d9dec5ce2611ae645092616d8}
+      \strng{authorfullhash}{76696d8d9dec5ce2611ae645092616d8}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In recent years, drone routing and scheduling has become a highly active area of research. This research introduces a new routing model that considers a synchronized truck-drone operation by allowing multiple drones to fly from a truck, serve one or multiple customers, and return to the same truck for a battery swap and package retrieval. The model addresses two levels (echelons) of delivery: primary truck routing from the main depot to serve assigned customers and secondary drone routing from the truck, which behaves like a moveable intermediate depot to serve other sets of customers. The model takes into account both trucks' and drones' capacities with the objective of finding optimal mutes of both trucks and drones that minimizes the total arrival time of both trucks and drones at the depot after completing the deliveries. The problem can be solved by formulated mixed integer programming (MIP) for the small-size problem, and two efficient heuristic algorithms are designed to solve the large-size problems: Drone Truck Route Construction (DTRC) and Large Neighborhood Search (LNS). Numeric results from the experiment compare the performance of both heuristics against the MIP method in small/medium-size instances from the literature. A sensitivity analysis is conducted to show the delivery time improvement of the proposed model over the previous truck-drone routing models.}
+      \field{issn}{0925-5273}
+      \field{journaltitle}{INTERNATIONAL JOURNAL OF PRODUCTION ECONOMICS}
+      \field{month}{7}
+      \field{title}{Two echelon vehicle routing problem with drones in last mile delivery}
+      \field{type}{Article}
+      \field{volume}{225}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1016/j.ijpe.2019.107598
+      \endverb
+      \keyw{Drone delivery; Routing; Optimization; Two-echelon; Vehicle; Routing problem; Heuristic}
+    \endentry
     \entry{WOS:000460496000002}{article}{}
-      \name{author}{6}{}{%
+      \name{author}{6}{ul=2}{%
         {{un=0,uniquepart=base,hash=0f20c621c25eef9ac077d18cd13a12aa}{%
            family={Kitjacharoenchai},
            familyi={K\bibinitperiod},
@@ -1072,11 +1498,11 @@
       \list{publisher}{1}{%
         {PERGAMON-ELSEVIER SCIENCE LTD}%
       }
-      \strng{namehash}{e4938326b1cfa8f68e95b505aecca539}
+      \strng{namehash}{3d163d58f5a7d8f72c72411ff98b06e8}
       \strng{fullhash}{df0b7ca61f42af13fcce8bd9eb867962}
-      \strng{bibnamehash}{e4938326b1cfa8f68e95b505aecca539}
-      \strng{authorbibnamehash}{e4938326b1cfa8f68e95b505aecca539}
-      \strng{authornamehash}{e4938326b1cfa8f68e95b505aecca539}
+      \strng{bibnamehash}{3d163d58f5a7d8f72c72411ff98b06e8}
+      \strng{authorbibnamehash}{3d163d58f5a7d8f72c72411ff98b06e8}
+      \strng{authornamehash}{3d163d58f5a7d8f72c72411ff98b06e8}
       \strng{authorfullhash}{df0b7ca61f42af13fcce8bd9eb867962}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
@@ -1098,6 +1524,74 @@
       \verb 10.1016/j.cie.2019.01.020
       \endverb
       \keyw{Drone delivery; Optimization; Unmanned aerial vehicles; Heuristic; Transportation; Routing}
+    \endentry
+    \entry{WOS:000538038400010}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=587497041481949d8c8ab4dc696cab1a}{%
+           family={Lakew},
+           familyi={L\bibinitperiod},
+           given={Demeke\bibnamedelima Shumeye},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1cd1601edbcf12cb7a7669bc37579d5f}{%
+           family={Sa'ad},
+           familyi={S\bibinitperiod},
+           given={Umar},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4450b637f800fadb58a5fb7bda3dc5a4}{%
+           family={Dao},
+           familyi={D\bibinitperiod},
+           given={Nhu-Ngoc},
+           giveni={N\bibinithyphendelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b92a32cb1d59270f40689a4bde37cbf}{%
+           family={Na},
+           familyi={N\bibinitperiod},
+           given={Woongsoo},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d0badf8f52a5b8e72927dc8f5d3e4fd}{%
+           family={Cho},
+           familyi={C\bibinitperiod},
+           given={Sungrae},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA}%
+      }
+      \list{publisher}{1}{%
+        {IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC}%
+      }
+      \strng{namehash}{2b3022ef3a084d6339daf7841c5bbf99}
+      \strng{fullhash}{7cdf6614f19d72c206a7c76d256dc9ab}
+      \strng{bibnamehash}{2b3022ef3a084d6339daf7841c5bbf99}
+      \strng{authorbibnamehash}{2b3022ef3a084d6339daf7841c5bbf99}
+      \strng{authornamehash}{2b3022ef3a084d6339daf7841c5bbf99}
+      \strng{authorfullhash}{7cdf6614f19d72c206a7c76d256dc9ab}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The use of unmanned aerial vehicles (UAVs) is attracting considerable interest in academic research, commercial, and military applications. Multi-UAV systems organized in an ad hoc fashion called a flying ad hoc network (FANET) can cooperatively and collaboratively accomplish complex missions more efficiently compared to single large UAV systems. However, the unique features of FANETs such as high mobility, low node density, and high frequency of topology changes introduce challenges to the communication design, especially routing. Thus, the routing requirements of FANETs surpass those of MANETs or VANETs. In this paper, we present UAV classification, communication and application architectures, and an exhaustive survey of the existing routing protocols for flying ad hoc networks. Furthermore, we highlight the key features, strengths and weaknesses, and different mobility models used for the performance evaluation of the existing FANET routing protocols. More importantly, a proposed taxonomy and a review on the existing FANET routing protocols are presented. Finally, we highlight the existing challenges and open research issues.}
+      \field{journaltitle}{IEEE COMMUNICATIONS SURVEYS AND TUTORIALS}
+      \field{number}{2}
+      \field{title}{Routing in Flying Ad Hoc Networks: A Comprehensive Survey}
+      \field{type}{Article}
+      \field{volume}{22}
+      \field{year}{2020}
+      \field{pages}{1071\bibrangedash 1120}
+      \range{pages}{50}
+      \verb{doi}
+      \verb 10.1109/COMST.2020.2982452
+      \endverb
+      \keyw{Ad hoc networks; Mobile computing; Routing; Computer architecture; Unmanned aerial vehicles; Routing protocols; Tutorials; Routing protocol; ad hoc network; UAV; FANET; mobility models}
     \endentry
     \entry{WOS:000693009900004}{article}{}
       \name{author}{4}{}{%
@@ -1381,6 +1875,61 @@
       \verb 10.1109/MCOM.2017.1600238CM
       \endverb
     \endentry
+    \entry{WOS:000523602300006}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6e8369eca887d65b1a76d0a7e5486954}{%
+           family={Moshref-Javadi},
+           familyi={M\bibinithyphendelim J\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=f85fa96c4c76521735d0a8a1894b927b}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Seokcheon},
+           giveni={S\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=b2e99e1569e078e5688ae0cffee9dec8}{%
+           family={Winkenbach},
+           familyi={W\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND}%
+      }
+      \list{publisher}{1}{%
+        {PERGAMON-ELSEVIER SCIENCE LTD}%
+      }
+      \strng{namehash}{f2a792b40a80589b7963433613edc395}
+      \strng{fullhash}{f2a792b40a80589b7963433613edc395}
+      \strng{bibnamehash}{f2a792b40a80589b7963433613edc395}
+      \strng{authorbibnamehash}{f2a792b40a80589b7963433613edc395}
+      \strng{authornamehash}{f2a792b40a80589b7963433613edc395}
+      \strng{authorfullhash}{f2a792b40a80589b7963433613edc395}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We extend the Traveling Repairman Problem (TRP) by assuming a single truck which can stop at customer locations and launch drones multiple times from each stop location to serve customers. The problem is mathematically modeled, several bound analyses are conducted to determine the maximum possible improvements in customer waiting times, and an efficient hybrid Tabu Search-Simulated Annealing algorithm is developed to solve the problem. The results of evaluations on several problem instances suggest that the system can yield considerable reductions in customer waiting time for a wide range of model parameters compared to the conventional delivery models.}
+      \field{issn}{1366-5545}
+      \field{journaltitle}{TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW}
+      \field{month}{4}
+      \field{title}{Design and evaluation of a multi-trip delivery model with truck and drones}
+      \field{type}{Article}
+      \field{volume}{136}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1016/j.tre.2020.101887
+      \endverb
+      \keyw{Drone logistics; Last-mile delivery; Traveling Repairman Problem; Bound analysis; Simulated Annealing; Tabu Search}
+    \endentry
     \entry{WOS:000693999200007}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=6e8369eca887d65b1a76d0a7e5486954}{%
@@ -1429,6 +1978,67 @@
       \verb 10.1016/j.eswa.2021.114854
       \endverb
       \keyw{Drone logistics; Routing optimization; Last-mile delivery; Unmanned aerial vehicle}
+    \endentry
+    \entry{WOS:000682822500021}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=04d4b664e397a40302d4cfa752fd5201}{%
+           family={Munoz},
+           familyi={M\bibinitperiod},
+           given={Guillem},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9acfa0d27a3ffd40adf88d78bb15ed5f}{%
+           family={Barrado},
+           familyi={B\bibinitperiod},
+           given={Cristina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3032bcbcbd12f000747375031b8eb767}{%
+           family={Cetin},
+           familyi={C\bibinitperiod},
+           given={Ender},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed8841593d4ee1337b11317235b77810}{%
+           family={Salami},
+           familyi={S\bibinitperiod},
+           given={Esther},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{24a18afbd75f07d6a8d36653ac0d09f8}
+      \strng{fullhash}{67df0f7268f43f04f1cdf5e5c537c2bb}
+      \strng{bibnamehash}{24a18afbd75f07d6a8d36653ac0d09f8}
+      \strng{authorbibnamehash}{24a18afbd75f07d6a8d36653ac0d09f8}
+      \strng{authornamehash}{24a18afbd75f07d6a8d36653ac0d09f8}
+      \strng{authorfullhash}{67df0f7268f43f04f1cdf5e5c537c2bb}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Drones are expected to be used extensively for delivery tasks in the future. In the absence of obstacles, satellite based navigation from departure to the geo-located destination is a simple task. When obstacles are known to be in the path, pilots must build a flight plan to avoid them. However, when they are unknown, there are too many or they are in places that are not fixed positions, then to build a safe flight plan becomes very challenging. Moreover, in a weak satellite signal environment, such as indoors, under trees canopy or in urban canyons, the current drone navigation systems may fail. Artificial intelligence, a research area with increasing activity, can be used to overcome such challenges. Initially focused on robots and now mostly applied to ground vehicles, artificial intelligence begins to be used also to train drones. Reinforcement learning is the branch of artificial intelligence able to train machines. The application of reinforcement learning to drones will provide them with more intelligence, eventually converting drones in fully-autonomous machines. In this work, reinforcement learning is studied for drone delivery. As sensors, the drone only has a stereo-vision front camera, from which depth information is obtained. The drone is trained to fly to a destination in a neighborhood environment that has plenty of obstacles such as trees, cables, cars and houses. The flying area is also delimited by a geo-fence; this is a virtual (non-visible) fence that prevents the drone from entering or leaving a defined area. The drone has to avoid visible obstacles and has to reach a goal. Results show that, in comparison with the previous results, the new algorithms have better results, not only with a better reward, but also with a reduction of its variance. The second contribution is the checkpoints. They consist of saving a trained model every time a better reward is achieved. Results show how checkpoints improve the test results.}
+      \field{journaltitle}{DRONES}
+      \field{month}{9}
+      \field{number}{3}
+      \field{title}{Deep Reinforcement Learning for Drone Delivery}
+      \field{type}{Article}
+      \field{volume}{3}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.3390/drones3030072
+      \endverb
+      \keyw{drones; deep learning; reinforcement learning; Q-learning; DQN; JNN}
     \endentry
     \entry{WOS:000353871700006}{article}{}
       \name{author}{2}{}{%
@@ -1480,6 +2090,174 @@
       \verb 10.1016/j.trc.2015.03.005
       \endverb
       \keyw{Unmanned aerial vehicle; Vehicle routing problem; Traveling salesman problem; Logistics; Integer programming; Heuristics}
+    \endentry
+    \entry{WOS:000509790500020}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=af6d26350c3de304db90af5f7595fb49}{%
+           family={Murray},
+           familyi={M\bibinitperiod},
+           given={Chase\bibnamedelima C.},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9207aa2b5ca78fd562593e59f85cd1a7}{%
+           family={Raj},
+           familyi={R\bibinitperiod},
+           given={Ritwik},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND}%
+      }
+      \list{publisher}{1}{%
+        {PERGAMON-ELSEVIER SCIENCE LTD}%
+      }
+      \strng{namehash}{128b2128d83f2c2aed3c437163215c3d}
+      \strng{fullhash}{128b2128d83f2c2aed3c437163215c3d}
+      \strng{bibnamehash}{128b2128d83f2c2aed3c437163215c3d}
+      \strng{authorbibnamehash}{128b2128d83f2c2aed3c437163215c3d}
+      \strng{authornamehash}{128b2128d83f2c2aed3c437163215c3d}
+      \strng{authorfullhash}{128b2128d83f2c2aed3c437163215c3d}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper considers a last-mile delivery system in which a delivery truck operates in coordination with a fleet of unmanned aerial vehicles (UAVs, or drones). Deploying UAVs from the truck enables customers located further from the depot to receive drone-based deliveries. The problem is first formulated as a mixed integer linear program (MILP). However, owing to the computational complexity of this problem, only trivially-sized problems may be solved directly via the MILP. Thus, a heuristic solution approach that consists of solving a sequence of three subproblems is proposed. Extensive numerical testing demonstrates that this approach effectively solves problems of practical size within reasonable runtimes. Additional analysis quantifies the potential time savings associated with employing multiple UAVs. The analysis also reveals that additional UAVs may have diminishing marginal returns. An analysis of five different endurance models demonstrates the effects of these models on UAV assignments. The model and heuristic also support anticipated future systems that feature automation for UAV launch and retrieval.}
+      \field{issn}{0968-090X}
+      \field{journaltitle}{TRANSPORTATION RESEARCH PART C-EMERGING TECHNOLOGIES}
+      \field{month}{1}
+      \field{title}{The multiple flying sidekicks traveling salesman problem: Parcel delivery with multiple drones}
+      \field{type}{Article}
+      \field{volume}{110}
+      \field{year}{2020}
+      \field{pages}{368\bibrangedash 398}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.1016/j.trc.2019.11.003
+      \endverb
+      \keyw{Unmanned aerial vehicle; Drone; Vehicle routing problem; Traveling salesman problem; Logistics; Integer programming; Heuristics}
+    \endentry
+    \entry{WOS:000531558100214}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=bb780b1415f7d10574c791c6cc596b0c}{%
+           family={Nikitas},
+           familyi={N\bibinitperiod},
+           given={Alexandros},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f485570492b766af21ee6a5334818db9}{%
+           family={Michalakopoulou},
+           familyi={M\bibinitperiod},
+           given={Kalliopi},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ddac5f71212affe733aec50530d57aa2}{%
+           family={Njoya},
+           familyi={N\bibinitperiod},
+           given={Eric\bibnamedelima Tchouamou},
+           giveni={E\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=302250014f7b954124d4a9788140c67c}{%
+           family={Karampatzakis},
+           familyi={K\bibinitperiod},
+           given={Dimitris},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{4c684d35c55e41056c4934a2ed7121a1}
+      \strng{fullhash}{7935e9860e76f0f8a951eaece1f5c645}
+      \strng{bibnamehash}{4c684d35c55e41056c4934a2ed7121a1}
+      \strng{authorbibnamehash}{4c684d35c55e41056c4934a2ed7121a1}
+      \strng{authornamehash}{4c684d35c55e41056c4934a2ed7121a1}
+      \strng{authorfullhash}{7935e9860e76f0f8a951eaece1f5c645}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Artificial intelligence (AI) is a powerful concept still in its infancy that has the potential, if utilised responsibly, to provide a vehicle for positive change that could promote sustainable transitions to a more resource-efficient livability paradigm. AI with its deep learning functions and capabilities can be employed as a tool which empowers machines to solve problems that could reform urban landscapes as we have known them for decades now and help with establishing a new era; the era of the ``smart city{''}. One of the key areas that AI can redefine is transport. Mobility provision and its impact on urban development can be significantly improved by the employment of intelligent transport systems in general and automated transport in particular. This new breed of AI-based mobility, despite its machine-orientation, has to be a user-centred technology that ``understands{''} and ``satisfies{''} the human user, the markets and the society as a whole. Trust should be built, and risks should be eliminated, for this transition to take off. This paper provides a novel conceptual contribution that thoroughly discusses the scarcely studied nexus of AI, transportation and the smart city and how this will affect urban futures. It specifically covers key smart mobility initiatives referring to Connected and Autonomous Vehicles (CAVs), autonomous Personal and Unmanned Aerial Vehicles (PAVs and UAVs) and Mobility-as-a-Service (MaaS), but also interventions that may work as enabling technologies for transport, such as the Internet of Things (IoT) and Physical Internet (PI) or reflect broader transformations like Industry 4.0. This work is ultimately a reference tool for researchers and city planners that provides clear and systematic definitions of the ambiguous smart mobility terms of tomorrow and describes their individual and collective roles underpinning the nexus in scope.}
+      \field{journaltitle}{SUSTAINABILITY}
+      \field{month}{4}
+      \field{number}{7}
+      \field{title}{Artificial Intelligence, Transport and the Smart City: Definitions and Dimensions of a New Mobility Era}
+      \field{type}{Article}
+      \field{volume}{12}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.3390/su12072789
+      \endverb
+      \keyw{artificial intelligence; smart city; smart transport; connected and autonomous vehicles; personal and unmanned aerial vehicles; mobility-as-a-service; internet of things; physical internet; industry 4.0}
+    \endentry
+    \entry{WOS:000428567100315}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=10a42232e841bd84c120ce14409be3d2}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={Jiyoon},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=6b387886bfd9d0781454f1dea36deab5}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Solhee},
+           giveni={S\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=67a41269d4c18fd1f9ef6a0b71996703}{%
+           family={Suh},
+           familyi={S\bibinitperiod},
+           given={Kyo},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{abe9a5ee0a44657295c5f9b844e395f6}
+      \strng{fullhash}{abe9a5ee0a44657295c5f9b844e395f6}
+      \strng{bibnamehash}{abe9a5ee0a44657295c5f9b844e395f6}
+      \strng{authorbibnamehash}{abe9a5ee0a44657295c5f9b844e395f6}
+      \strng{authornamehash}{abe9a5ee0a44657295c5f9b844e395f6}
+      \strng{authorfullhash}{abe9a5ee0a44657295c5f9b844e395f6}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Unmanned aerial vehicles (UAV, drones) used as delivery vehicles have received increasing attention due to their mobility and accessibility to remote areas. The purpose of this study is to evaluate the environmental impacts of drone versus motorcycle delivery and to compare the expected environmental improvements due to drone delivery in urban and rural areas. In addition, the potential environmental contributions of electric motorcycles were assessed to determine the effects of introducing this new type of vehicle. Changes in the national electricity generation plan were also examined. The results showed that global warming potential (GWP) per 1 km delivery by drone was one-sixth that of motorcycle delivery, and the particulates produced by drone delivery were half that of motorcycle delivery. The actual environmental impact reduction in consideration of the delivery distance was 13 times higher in a rural area than in an urban area. Increasing the use of environmentally friendly electricity systems, such as solar and wind power, would further enhance the environmental effects of a drone delivery system.}
+      \field{issn}{2071-1050}
+      \field{journaltitle}{SUSTAINABILITY}
+      \field{month}{3}
+      \field{number}{3}
+      \field{title}{A Comparative Analysis of the Environmental Benefits of Drone-Based Delivery Services in Urban and Rural Areas}
+      \field{type}{Article}
+      \field{volume}{10}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.3390/su10030888
+      \endverb
+      \keyw{UAV; life cycle assessment; delivery; logistics; environmental impact}
     \endentry
     \entry{WOS:000468604000010}{article}{}
       \name{author}{3}{}{%
@@ -1538,6 +2316,64 @@
       \verb 10.1287/ijoc.2018.0826
       \endverb
       \keyw{970 transportation; vehicle routing; 490 networks-graphs; traveling salesman; 630 programming; integer; algorithms; branch and bound}
+    \endentry
+    \entry{WOS:000404719400004}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1d6ac47bbc4065b06b2c402fff029314}{%
+           family={Poikonen},
+           familyi={P\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=59884bdaf7e7dfdb16075aeb48578898}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xingyin},
+           giveni={X\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=57fd186cef49a011ac5af72e3361a15c}{%
+           family={Golden},
+           familyi={G\bibinitperiod},
+           given={Bruce},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {111 RIVER ST, HOBOKEN 07030-5774, NJ USA}%
+      }
+      \list{publisher}{1}{%
+        {WILEY}%
+      }
+      \strng{namehash}{52bd88f4f7f5a2017c670dae0d6cf100}
+      \strng{fullhash}{52bd88f4f7f5a2017c670dae0d6cf100}
+      \strng{bibnamehash}{52bd88f4f7f5a2017c670dae0d6cf100}
+      \strng{authorbibnamehash}{52bd88f4f7f5a2017c670dae0d6cf100}
+      \strng{authornamehash}{52bd88f4f7f5a2017c670dae0d6cf100}
+      \strng{authorfullhash}{52bd88f4f7f5a2017c670dae0d6cf100}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The vehicle routing problem with drones (VRPD) is inspired by the increasing interest in commercial drone delivery by companies such as Amazon, Google, DHL, and Walmart. In our model, a fleet of m homogeneous trucks each carries k drones with a speed of times that of the truck. Each drone may dispatch from the top of the truck and carry a package to a customer location. The drone then returns to the top of its truck to recharge or swap batteries (we assume instantaneously). The truck itself is allowed to move and deliver packages, but must be stationary at a delivery location or the depot when launching or retrieving drones. The goal is to minimize the completion time to deliver all packages and return all vehicles back to the central depot. In this article, we review and extend several worst-case results from an earlier paper and we make connections with another practical variant of the vehicle routing problem and with Amdahl's Law. We find that the VRPD model offers some important practical advantages. The drones allow the truck to parallelize tasks and they are able to take advantage of crow-fly distances. (c) 2017 Wiley Periodicals, Inc. NETWORKS, Vol. 70(1), 34-43 2017}
+      \field{issn}{0028-3045}
+      \field{journaltitle}{NETWORKS}
+      \field{month}{8}
+      \field{number}{1}
+      \field{title}{The vehicle routing problem with drones: Extended models and connections}
+      \field{type}{Article}
+      \field{volume}{70}
+      \field{year}{2017}
+      \field{pages}{34\bibrangedash 43}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1002/net.21746
+      \endverb
+      \keyw{vehicle routing; drones; close enough routing; bounds; worst-case analysis; package delivery; parallelization}
     \endentry
     \entry{WOS:000830895100002}{article}{}
       \name{author}{4}{}{%
@@ -1599,6 +2435,64 @@
       \verb 10.1016/j.compag.2022.107017
       \endverb
       \keyw{Drones; UAV; Precision agriculture; Internet of Things; Bibliometrics}
+    \endentry
+    \entry{WOS:000547773000001}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ccb81abdfd27c9a019ce2a52d02cac4e}{%
+           family={Sah},
+           familyi={S\bibinitperiod},
+           given={Bhawesh},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=81df68cc67ccb44cb93dd78c5844a9df}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Rohit},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=13493e6ada3f087252868466718c84a2}{%
+           family={Bani-Hani},
+           familyi={B\bibinithyphendelim H\bibinitperiod},
+           given={Dana},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND}%
+      }
+      \list{publisher}{1}{%
+        {TAYLOR \& FRANCIS LTD}%
+      }
+      \strng{namehash}{54aee5fab9c988cc8fa4b6bb3a44a49c}
+      \strng{fullhash}{54aee5fab9c988cc8fa4b6bb3a44a49c}
+      \strng{bibnamehash}{54aee5fab9c988cc8fa4b6bb3a44a49c}
+      \strng{authorbibnamehash}{54aee5fab9c988cc8fa4b6bb3a44a49c}
+      \strng{authornamehash}{54aee5fab9c988cc8fa4b6bb3a44a49c}
+      \strng{authorfullhash}{54aee5fab9c988cc8fa4b6bb3a44a49c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Companies are adopting innovative methods for responsiveness and efficiency in the logistics sector. The implementation of drones in logistics sector is a move in this direction. Potential obstacles in the smooth adoption of drones in the logistics sector must be thoroughly analysed. The present study identifies and prioritises the barriers of drone logistics implementation based on their criticality by using the fuzzy Delphi method (FDM) and the analytic hierarchy process (AHP). Initially, 34 barriers are identified through expert opinion and extensive literature review. Furthermore, relevant barriers are finalised among all the barriers by using the FDM. Finally, prioritisation of the barriers based on their criticality is done by AHP technique. The study concludes thatregulationsandthreat to privacy \& securityare the most critical barriers to implement drones in logistics sector.Public perception \& psychological,environmental,technical issues, andeconomic aspectsare the other identified critical barriers. The managerial implications of the findings that could help practitioners and policymakers in the effective implementation of drones in the logistics sector are also discussed.}
+      \field{issn}{1367-5567}
+      \field{journaltitle}{INTERNATIONAL JOURNAL OF LOGISTICS-RESEARCH AND APPLICATIONS}
+      \field{month}{11}
+      \field{number}{6}
+      \field{title}{Analysis of barriers to implement drone logistics}
+      \field{type}{Article}
+      \field{volume}{24}
+      \field{year}{2021}
+      \field{pages}{531\bibrangedash 550}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1080/13675567.2020.1782862
+      \endverb
+      \keyw{Drone logistics; barrier analysis; fuzzy Delphi; AHP}
     \endentry
     \entry{WOS:001140699200001}{article}{}
       \name{author}{5}{}{%
@@ -1814,6 +2708,57 @@
       \verb 10.1038/s41467-017-02411-5
       \endverb
     \endentry
+    \entry{WOS:000488423300001}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d4575553b013cb3ab781c61908239871}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Christopher\bibnamedelima S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b8a8b5465add2217d5d3a6445719cbe8}{%
+           family={Veelenturf},
+           familyi={V\bibinitperiod},
+           given={Lucas\bibnamedelima P.},
+           giveni={L\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND}%
+      }
+      \list{publisher}{1}{%
+        {PERGAMON-ELSEVIER SCIENCE LTD}%
+      }
+      \strng{namehash}{45d47e299b1290f2ba4435898a210ca2}
+      \strng{fullhash}{45d47e299b1290f2ba4435898a210ca2}
+      \strng{bibnamehash}{45d47e299b1290f2ba4435898a210ca2}
+      \strng{authorbibnamehash}{45d47e299b1290f2ba4435898a210ca2}
+      \strng{authornamehash}{45d47e299b1290f2ba4435898a210ca2}
+      \strng{authorfullhash}{45d47e299b1290f2ba4435898a210ca2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{By leveraging new technologies (Additive Manufacturing, Advanced Robotics, Artificial Intelligence, Autonomous Vehicles, Blockchain, Drones, Internet of Things, etc.), many companies are developing cyber-physical systems that can change the competition landscape. In the midst of this exciting development, we examine the strategic role of logistics and transportation services for creating economic, environmental and social values. Also, we discuss some new research directions.}
+      \field{issn}{1366-5545}
+      \field{journaltitle}{TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW}
+      \field{month}{9}
+      \field{title}{The strategic role of logistics in the industry 4.0 era}
+      \field{type}{Article}
+      \field{volume}{129}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 11}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.tre.2019.06.004
+      \endverb
+      \keyw{Industry 4.0; Additive manufacturing; Blockchain; Drones; Artificial intelligence; Logistics; Transportation}
+    \endentry
     \entry{WOS:001055864000001}{article}{}
       \name{author}{7}{}{%
         {{un=0,uniquepart=base,hash=6736fe87de681e0ca380d0d147d1d8b9}{%
@@ -2002,6 +2947,61 @@
       \endverb
       \keyw{Vehicle routing problem with drones; Branch and price; Column generation}
     \endentry
+    \entry{WOS:000682822500001}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8b520bd16ae6612e9ff10da08267f73a}{%
+           family={Yee\bibnamedelima Hii},
+           familyi={Y\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Michelle\bibnamedelima Sing},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=67c243ba830aef093707e9504b9a178f}{%
+           family={Courtney},
+           familyi={C\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=939516e97f80177de296e49c465cd641}{%
+           family={Royall},
+           familyi={R\bibinitperiod},
+           given={Paul\bibnamedelima G.},
+           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{21f6538f84eeaa1121e596c4a9d9e4a3}
+      \strng{fullhash}{21f6538f84eeaa1121e596c4a9d9e4a3}
+      \strng{bibnamehash}{21f6538f84eeaa1121e596c4a9d9e4a3}
+      \strng{authorbibnamehash}{21f6538f84eeaa1121e596c4a9d9e4a3}
+      \strng{authornamehash}{21f6538f84eeaa1121e596c4a9d9e4a3}
+      \strng{authorfullhash}{21f6538f84eeaa1121e596c4a9d9e4a3}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This study tests the impact of drone transportation on the quality of a medicine. Modelling the critical process parameters of drone flight, the effects of temperature and vibration on insulin were investigated using the pharmacopoeia methods. The medicine, Actrapid, (3.5 mg/mL of insulin), was flown by a quad-rotor drone. Insulin stored between -20 and 40 degrees C for 30 mins, and subjected to vibration (0-40 Hz, 25 degrees C, 30 mins) passed the pharmacopeia tests. Dynamic light scattering identified the active tetrameric and hexameric forms of insulin post testing. Vibration frequencies during drone flight were between 0.1 and 3.4 Hz. There was no evidence of visible insulin aggregates following the drone transportation. The differences in UV absorbance readings between flown Actrapid and controls were insignificant (p = 0.89). No adverse impact of drone transport on insulin was observed. This study provides supporting evidence that drone transportation of medicinal products containing insulin is feasible. The authors recommend that when considering the drone delivery of medicines five tests need to be applied. These tests must determine the safe flight time and range, the quality of the medicine post flight, the onboard conditions experienced by the medicine, the security of the drone supply chain and the effect of drone failure on both the medicine and the environment.}
+      \field{journaltitle}{DRONES}
+      \field{month}{9}
+      \field{number}{3}
+      \field{title}{An Evaluation of the Delivery of Medicines Using Drones}
+      \field{type}{Article}
+      \field{volume}{3}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.3390/drones3030052
+      \endverb
+      \keyw{medicine delivery; insulin; quality of medicines; medicine stability; drone delivery; healthcare logistics; quality by design}
+    \endentry
     \entry{WOS:001139514900001}{article}{}
       \name{author}{7}{}{%
         {{un=0,uniquepart=base,hash=06754961159124491086d3c9f6f5ea90}{%
@@ -2141,6 +3141,82 @@
       \verb 10.1080/14616688.2020.1762118
       \endverb
       \keyw{Robotics; COVID-19 pandemic; artificial Intelligence; human-robot interaction; drones; high-tech; high-touch}
+    \endentry
+    \entry{WOS:000467564700204}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=80483fe78c1f6db7d906f71e296703f0}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Qixun},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04cc316ed3c01bbb2c9cb611f9dd577d}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Menglei},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2bc5db8b4e13d01915a394c9b61274bf}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Zhiyong},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be6f1b6df7f1ddfafad18806238fa391}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=25bbf4047d900f3760c65b01ee899dba}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e8eff379aff2032a41a0960803f21637}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Miao},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA}%
+      }
+      \list{publisher}{1}{%
+        {IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC}%
+      }
+      \strng{namehash}{07c6f98c792c82cd5ab66e3c3eebedaa}
+      \strng{fullhash}{e1726875273f0b6779f7567255fb8e8d}
+      \strng{bibnamehash}{07c6f98c792c82cd5ab66e3c3eebedaa}
+      \strng{authorbibnamehash}{07c6f98c792c82cd5ab66e3c3eebedaa}
+      \strng{authornamehash}{07c6f98c792c82cd5ab66e3c3eebedaa}
+      \strng{authorfullhash}{e1726875273f0b6779f7567255fb8e8d}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Unmanned aerial vehicles (UAVs) can be deployed efficiently to provide high quality of service for Internet of Things (IoT). By using cooperative communication and relay technologies, a large swarm of UAVs can enlarge the effective coverage area of IoT services via multiple relay nodes. However, the low latency service requirement and the dynamic topology of UAV network bring in new challenges for the effective routing optimization among UAVs. In this paper, a layered UAV swarm network architecture is proposed and an optimal number of UAVs is analyzed. Furthermore, a low latency routing algorithm (LLRA) is designed based on the partial location information and the connectivity of the network architecture. Finally, the performance of the proposed LLRA is verified by numerical results, which can decrease the link average delay and improve the packet delivery ratio in contrast to traditional routing algorithms without layered architecture.}
+      \field{issn}{2327-4662}
+      \field{journaltitle}{IEEE INTERNET OF THINGS JOURNAL}
+      \field{month}{4}
+      \field{number}{2}
+      \field{title}{IoT Enabled UAV: Network Architecture and Routing Algorithm}
+      \field{type}{Article}
+      \field{volume}{6}
+      \field{year}{2019}
+      \field{pages}{3727\bibrangedash 3742}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1109/JIOT.2018.2890428
+      \endverb
+      \keyw{Internet of Things (IoT); network architecture; routing optimization; unmanned aerial vehicle (UAV)}
     \endentry
   \enddatalist
 \endrefsection

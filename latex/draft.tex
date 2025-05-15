@@ -10,6 +10,7 @@
 \usepackage{tabularx} % 可选：适应文本宽度
 \usepackage{placeins} % 在导言区添加
 \usepackage{ragged2e}  % 文本对齐优化
+\usepackage{float}
 
 \usepackage{threeparttable} % 表格注释支持
 \newcolumntype{Y}{>{\RaggedRight\arraybackslash}X} % 自适应左对齐列
@@ -17,6 +18,25 @@
 \usepackage{multirow} % 合并单元格（用于处理并列排名）
 
 \graphicspath{{images/}} % 指定图片路径
+
+\usepackage{subcaption}  % 关键宏包必须加载
+\usepackage{geometry}
+\geometry{a4paper, margin=1.5cm}
+
+% 正确定义子表格模板
+\newcommand{\metricstable}[3]{%
+  \begin{minipage}{0.32\textwidth}
+  \centering
+  \begin{tabularx}{\linewidth}{@{} >{\raggedright\arraybackslash}X r @{}}
+    \toprule
+    \textbf{Institution} & \textbf{#2} \\
+    \midrule
+    #3
+    \bottomrule
+  \end{tabularx}
+  \end{minipage}
+}
+
 
 \title{Your Title Here}
 \author{Your Name}
@@ -191,13 +211,164 @@ In this section, we turn to analyzing high-impact institutions in drone logistic
 
 The interplay between publication volume, H-index, and total citations reveals distinct institutional research profiles in drone logistics. Sejong University exemplifies balanced excellence, ranking 4th in output (27 papers) but 1st in both H-index (19) and total citations (1,712), underscoring its dual strength in behavioral studies (\cite{WOS:000478712400012}) and technical innovations (\cite{WOS:000538038400010}). In contrast, Hong Kong Polytechnic University leads in sheer output (42 papers) but trails in H-index (14) and total citations (absent from the top 10), reflecting a high-volume yet moderately cited portfolio. Chinese institutions like Nanjing University of Aeronautics \& Astronautics (2nd in output, 33 papers) and Beihang University (3rd, 28 papers) prioritize quantity but lack representation in H-index and citation rankings. Nanyang Technological University (6th in output, 22 papers; 3rd in H-index, 13) and University of New South Wales Sydney (3rd in H-index, 13) achieve higher per-paper impact through optimization frameworks (\cite{WOS:000501349900060}) and collaborative delivery models (\cite{WOS:000467564700204}). Tsinghua University (8th in output, 20 papers; 8th in H-index, 10), Purdue University (9th in output, 19 papers; 8th in H-index, 10) and the University of Maryland (9th in output, 19 papers; 8th in H-index, 10) demonstrate moderate yet consistent influence across output and impact metrics.
 
+
+
+\begin{table}[htbp]
+  \centering
+  \caption{Top 10 Institutions by Total Citations}
+  \label{tab:citations}
+  \begin{tabularx}{0.9\textwidth}{@{} >{\raggedright}X r @{}}
+    \toprule
+    Institution & Total Citations \\
+    \midrule
+    Sejong University & 1712 \\
+    Auburn University & 1062 \\
+    Purdue University & 1041 \\
+    University System of Maryland & 947 \\
+    University of Maryland & 883 \\
+    York University - Canada & 863 \\
+    State University System of Florida & 821 \\
+    University of Calgary & 807 \\
+    State University of New York (SUNY) System & 798 \\
+    Erasmus University Rotterdam & 763 \\
+    \bottomrule
+  \end{tabularx}
+\end{table}
+
+%% 表2：论文数量排名
+\begin{table}[htbp]
+  \centering
+  \caption{Top 10 Institutions by Publications} 
+  \label{tab:publications}
+  \begin{tabularx}{0.9\textwidth}{@{} >{\raggedright}X r @{}}
+    \toprule
+    Institution & Publications \\
+    \midrule
+    Hong Kong Polytechnic University & 42 \\
+    Nanjing University of Aeronautics \& Astronautics & 33 \\
+    Beihang University & 28 \\
+    Sejong University & 27 \\
+    National University of Defense Technology - China & 26 \\
+    Nanyang Technological University & 22 \\
+    Chinese Academy of Sciences & 21 \\
+    Tsinghua University & 20 \\
+    Purdue University & 19 \\
+    University System of Maryland & 19 \\
+    \bottomrule
+  \end{tabularx}
+\end{table}
+
+%% 表3：H指数排名 
+\begin{table}[htbp]
+  \centering
+  \caption{Top 10 Institutions by H-index}
+  \label{tab:hindex}
+  \begin{tabularx}{0.9\textwidth}{@{} >{\raggedright}X r @{}}
+    \toprule
+    Institution & H-index \\
+    \midrule
+    Sejong University & 19 \\
+    Hong Kong Polytechnic University & 14 \\
+    University of New South Wales Sydney & 13 \\
+    Nanyang Technological University & 13 \\
+    National University of Defense Technology - China & 12 \\
+    Kyung Hee University & 11 \\
+    Northwestern Polytechnical University & 11 \\
+    Purdue University & 10 \\
+    University System of Maryland & 10 \\
+    University of Missouri System & 10 \\
+    \bottomrule
+  \end{tabularx}
+\end{table}
+
 \subsection{Sources}
-The distribution of publications and citation impact across journals reveals distinct patterns in drone logistics research. Drones leads in publication volume (98 papers) but has the lowest average citations (7.34) among top-output journals. Subsequent examination of highly cited articles in Drones suggests a focus on rapid dissemination of applied or technical studies (\cite{WOS:000682822500001, WOS:000682822500021}). SUSTAINABILITY (57 papers, 16.88 avg. citations) ranks second in publication volume, reflecting its role in hosting interdisciplinary studies on drone logistics' environmental and societal impacts (\cite{WOS:000531558100214, WOS:000428567100315}). IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS (57 papers, 28.40 avg. citations) matches SUSTAINABILITY in output but achieves higher citations, indicative of its focus on routing innovations (\cite{WOS:000658360600026}) and UAV integration into adaptive traffic systems (\cite{WOS:000684003100038}). TRANSPORTATION RESEARCH PART C-EMERGING TECHNOLOGIES (53 papers) achieves the highest average citations (79.15) in this category, reflecting its prominence in publishing high-impact applied optimization studies (\cite{WOS:000353871700006, WOS:000425566000035}). IEEE ACCESS (46 papers, 16.00 avg. citations) and APPLIED SCIENCES-BASEL (38 papers, 7.50 avg. citations) prioritize rapid dissemination of applied research, with IEEE ACCESS showing marginally higher citation influence due to its engineering-focused scope. TRANSPORTATION RESEARCH PART E-LOGISTICS AND TRANSPORTATION REVIEW (36 papers, 34.31 avg. citations) publishes strategic analyses of drone logistics' cost-efficiency and supply chain integration (\cite{WOS:000488423300001}). EUROPEAN JOURNAL OF OPERATIONAL RESEARCH (33 papers, 29.73 avg. citations) and COMPUTERS \& INDUSTRIAL ENGINEERING (31 papers, 29.55 avg. citations) demonstrate balanced output and citations, focusing on operational research (\cite{WOS:000742554100008}) and computational methods for UAV routing (\cite{WOS:000460496000002}). Drone logistics research exhibits a dichotomy between high-output, application-focused journals (e.g., Drones with 98 papers) and lower-output, high-impact journals (e.g., Transportation Research Part C with 79.15 avg. citations).
+The distribution of publications and citation impact across journals reveals distinct patterns in drone logistics research. Drones leads in publication volume (98 papers) but has the lowest average citations (7.34) among top-output journals. Subsequent examination of highly cited articles in Drones suggests a focus on rapid dissemination of applied or technical studies (\cite{WOS:000682822500001, WOS:000682822500021}). Sustainability (57 papers, 16.88 avg. citations) ranks second in publication volume, reflecting its role in hosting interdisciplinary studies on drone logistics' environmental and societal impacts (\cite{WOS:000531558100214, WOS:000428567100315}). IEEE Transactions on Intelligent Transportation Systems (57 papers, 28.40 avg. citations) matches Sustainability in output but achieves higher citations, indicative of its focus on routing innovations (\cite{WOS:000658360600026}) and UAV integration into adaptive traffic systems (\cite{WOS:000684003100038}). Transportation Research Part C: Emerging Technologies (53 papers) achieves the highest average citations (79.15) in this category, reflecting its prominence in publishing high-impact applied optimization studies (\cite{WOS:000353871700006, WOS:000425566000035}). IEEE Access (46 papers, 16.00 avg. citations) and Applied Sciences-Basel (38 papers, 7.50 avg. citations) prioritize rapid dissemination of applied research, with IEEE Access showing marginally higher citation influence due to its engineering-focused scope. Transportation Research Part E: Logistics and Transportation Review (36 papers, 34.31 avg. citations) publishes strategic analyses of drone logistics' cost-efficiency and supply chain integration (\cite{WOS:000488423300001}). European Journal of Operational Research (33 papers, 29.73 avg. citations) and Computers \& Industrial Engineering (31 papers, 29.55 avg. citations) demonstrate balanced output and citations, focusing on operational research (\cite{WOS:000742554100008}) and computational methods for UAV routing (\cite{WOS:000460496000002}). Drone logistics research exhibits a dichotomy between high-output, application-focused journals (e.g., Drones with 98 papers) and lower-output, high-impact journals (e.g., Transportation Research Part C with 79.15 avg. citations).
+
+
+\begin{table}[htbp]
+  \centering
+  \caption{Top Journals in Drone Logistics Research (2018-2023)}
+  \label{tab:journals}
+  \begin{tabularx}{0.9\textwidth}{@{} >{\raggedright}X r r r @{}}
+    \toprule
+    \textbf{Journal} & \textbf{Pubs.} & \textbf{Total Cites} & \textbf{Cites/Paper} \\
+    \midrule
+    Drones & 98 & 719 & 7.34 \\
+    Sustainability & 57 & 962 & 16.88 \\
+    IEEE Transactions on Intelligent Transportation Systems & 57 & 1619 & 28.40 \\
+    Transportation Research Part C: Emerging Technologies & 53 & 4195 & 79.15 \\
+    IEEE Access & 46 & 736 & 16.00 \\
+    Applied Sciences-Basel & 38 & 285 & 7.50 \\
+    Transportation Research Part E: Logistics and Transportation Review & 36 & 1235 & 34.31 \\
+    European Journal of Operational Research & 33 & 981 & 29.73 \\
+    Computers \& Industrial Engineering & 31 & 916 & 29.55 \\
+    Sensors & 30 & 533 & 17.77 \\
+    \bottomrule
+  \end{tabularx}
+  
+  \vspace{0.5em}
+  \raggedright\footnotesize
+\end{table}
+
+\FloatBarrier
 
 \subsection{Discipline}
 The disciplinary focus of drone logistics research has expanded significantly post-2020, reflecting evolving technological and operational priorities. Engineering, Electrical \& Electronic remains dominant (63 pre-2020 → 299 post-2020), driven by advancements in UAV hardware, energy efficiency, and IoT integration. Transportation Science \& Technology (51 → 265) and Operations Research \& Management Science (56 → 255) show accelerated growth, emphasizing route optimization and hybrid truck-drone coordinated systems. Emerging disciplines post-2020 include Management (127) and Remote Sensing (103), highlighting a shift toward strategic logistics governance and geospatial applications. The rise of Computer Science, Artificial Intelligence (26 → 108) and Remote Sensing underscores the field’s pivot toward data-driven decision-making, such as AI-enhanced routing and dynamic fleet coordination (\cite{WOS:000742554100008}). This evolution reflects drone logistics' maturation from technical feasibility (pre-2020) to multidisciplinary scalability (post-2020), bridging engineering innovations with managerial and computational advancements.
 
+\begin{table}[H]
+  \centering
+  \caption{Evolution of High-Frequency Disciplines in Drone Logistics Research}
+  \label{tab:discipline_evolution}
+  
+  \begin{minipage}[t]{0.48\textwidth}
+  \centering
+  \begin{tabularx}{\linewidth}{@{} >{\raggedright}X r @{}}
+    \toprule
+    \multicolumn{2}{c}{\textbf{Pre-2021 (2000-2020)}} \\
+    \midrule
+    \textbf{Discipline} & \textbf{Frequency} \\
+    \midrule
+    Engineering, Electrical \& Electronic & 63 \\
+    Operations Research \& Management Science & 56 \\
+    Transportation Science \& Technology & 51 \\
+    Telecommunications & 44 \\
+    Computer Science, Information Systems & 40 \\
+    Transportation & 36 \\
+    Robotics & 27 \\
+    Computer Science, Artificial Intelligence & 26 \\
+    Computer Science, Interdisciplinary Applications & 17 \\
+    Engineering, Civil & 17 \\
+    \bottomrule
+  \end{tabularx}
+  \end{minipage}
+  \hfill
+  \begin{minipage}[t]{0.48\textwidth}
+  \centering
+  \begin{tabularx}{\linewidth}{@{} >{\raggedright}X r @{}}
+    \toprule
+    \multicolumn{2}{c}{\textbf{Post-2021 (2021-2023)}} \\
+    \midrule
+    \textbf{Discipline} & \textbf{Frequency} \\
+    \midrule
+    Engineering, Electrical \& Electronic & 299 \\
+    Transportation Science \& Technology & 265 \\
+    Operations Research \& Management Science & 255 \\
+    Telecommunications & 164 \\
+    Computer Science, Information Systems & 150 \\
+    Transportation & 142 \\
+    Management & 127 \\
+    Engineering, Civil & 126 \\
+    Computer Science, Artificial Intelligence & 108 \\
+    Remote Sensing & 103 \\
+    \bottomrule
+  \end{tabularx}
+  \end{minipage}
 
+  \vspace{0.5em}
+  \raggedright\footnotesize
+\end{table}
+
+\FloatBarrier
 
 \section{Discussion}
 This section discusses the results

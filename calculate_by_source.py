@@ -53,19 +53,19 @@ def generate_report(journal_data, top_n=20):
         print(f"\n▨ 期刊: {journal}")
         print(f"  发文量: {data['count']} 篇")
         print(f"  总被引: {data['total_citations']} 次")
-        print(f"  篇均被引: {data['avg_citations']:.1f} 次")
+        print(f"  篇均被引: {data['avg_citations']:.2f} 次")
 
-        print("\n  高被引论文TOP5:")
-        for idx, art in enumerate(data['top_articles'], 1):
-            print(f"  {idx}. [{art['citations']}次] {art['title']}")
-            print(f"     作者: {', '.join(art['authors'])}")
-            if art['abstract']:
-                print(f"     摘要: {art['abstract']}")
+        # print("\n  高被引论文TOP5:")
+        # for idx, art in enumerate(data['top_articles'], 1):
+        #     print(f"  {idx}. [{art['citations']}次] {art['title']}")
+        #     print(f"     作者: {', '.join(art['authors'])}")
+        #     if art['abstract']:
+        #         print(f"     摘要: {art['abstract']}")
 
     print("\n\n=== 高频期刊统计（按篇均被引） ===")
     for journal, data in sorted_by_avg:
         print(f"\n▨ 期刊: {journal}")
-        print(f"  篇均被引: {data['avg_citations']:.1f} 次")
+        print(f"  篇均被引: {data['avg_citations']:.2f} 次")
         print(f"  发文量: {data['count']} 篇")
         print(f"  总被引: {data['total_citations']} 次")
 

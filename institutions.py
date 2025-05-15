@@ -234,11 +234,6 @@ def _write_paper_details(f, ranking, title):
 
 
 if __name__ == "__main__":
-    import sys
 
-    if len(sys.argv) != 2:
-        print(f"使用方法: python {sys.argv[0]} <数据文件路径>")
-        sys.exit(1)
-
-    main(sys.argv[1])
+    main('data/data.txt')
     print(f"分析报告已生成至: {OUTPUT_FILE}")
